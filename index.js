@@ -89,7 +89,7 @@ async function scrapeWiki(ids) {
   // scrape new ids on wiki
   console.log("Scraping new links: ", newLinks);
   for (let i = 0; i < newLinks.length; i++) {
-    await sleep(1);
+    await sleep(0.5);
     const data = await scrapeWikiLink(newLinks[i]);
     if (data === null) {
       wikiScraped.push(newLinks[i]);
@@ -126,21 +126,20 @@ async function scrapeWikiLink(link) {
     referenceLink = doc.querySelector(".external.free");
   try {
     return {
-      wiki_link: link,
-      money_value: moneyDrop ? moneyDrop.textContent : "Unknown",
-      name: enemyName.textContent,
+      wiki_link: "https://battle-cats.fandom.com/" + link,
+      money_value: moneyDrop ? moneyDrop.textContent.match(/[\d,¢]+(\s-\s[\d,¢]+)?/)[0] : "Unknown",
+      name: enemyName.textContent.replace(/\n/gm, ""),
       description: enemyDescription ? enemyDescription.textContent : "No description",
-      health: +enemyHP.textContent.match(/\d+/)[0],
-      damage: +enemyDamage.textContent.match(/\d+/)[0],
-      damage_per_second: +enemyDamage.textContent.match(/\d+\.?\d*/g)[1],
-      range: +enemyRange.textContent.match(/\d+/)[0],
+      health: enemyHP.textContent.match(/[\d,]+/)[0],
+      damage: enemyDamage.textContent.match(/[\d,]+/)[0],
+      range: +enemyRange.textContent.match(/[\d,]+/)[0],
       range_type: enemyRange.textContent.match(/\(.*?\)/)[0].replace(/[()]/g, ""),
-      attack_frequency: enemyFreqeuncy.textContent.match(/\d+f/)[1],
-      movement_speed: +enemySpeed.textContent.match(/\d+/)[0],
-      knockbacks: +enemyKnockback.textContent.match(/\d+/)[0],
-      attack_animation: enemyAnimation.textContent.match(/\d+f/)[0],
+      attack_frequency: enemyFreqeuncy.textContent.match(/\d+f/)[0],
+      movement_speed: enemySpeed.textContent.match(/[\d,]+/)[0],
+      knockbacks: enemyKnockback.textContent.match(/[\d,]+/) ? enemyKnockback.textContent.match(/[\d,]+/)[0] : "N/A",
+      attack_animation: enemyAnimation.textContent.match(/[\d,]+f/)[0],
       special_ability: enemySpecial.textContent,
-      attribute: enemyAttribute.textContent,
+      attribute: enemyAttribute.textContent.replace(/\n/gm, ""),
       referenceLink: referenceLink ? referenceLink.href : null
     };
   } catch (e) {
