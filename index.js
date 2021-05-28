@@ -37,9 +37,9 @@ async function main() {
 }
 
 async function saveData() {
-  const idData = JSON.stringify(idsScraped),
-    wikiData = JSON.stringify(wikiScraped),
-    enemy = JSON.stringify(enemyData);
+  const idData = JSON.stringify(idsScraped, null, 2),
+    wikiData = JSON.stringify(wikiScraped, null, 2),
+    enemy = JSON.stringify(enemyData, null, 2);
   await write("./data/ids_scraped.json", idData);
   await write("./data/wiki_scraped.json", wikiData);
   await write("./data/enemies.json", enemy);
