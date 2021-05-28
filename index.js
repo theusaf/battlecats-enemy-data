@@ -126,11 +126,11 @@ async function scrapeWikiLink(link) {
     referenceLink = doc.querySelector(".external.free");
   try {
     return {
-      wiki_link: "https://battle-cats.fandom.com/" + link,
+      wiki_link: "https://battle-cats.fandom.com" + link,
       money_value: moneyDrop ? moneyDrop.textContent.match(/[\d,¢]+(\s-\s[\d,¢]+)?/)[0] : "Unknown",
       name: enemyName.textContent.replace(/\n/gm, ""),
       description: enemyDescription ? enemyDescription.textContent : "No description",
-      health: enemyHP.textContent.match(/[\d,]+/)[0],
+      health: enemyHP.textContent.match(/[\d,]+/) ? enemyHP.textContent.match(/[\d,]+/)[0] : "∞",
       damage: enemyDamage.textContent.match(/[\d,]+/)[0],
       range: enemyRange.textContent.match(/[\d,]+/)[0],
       range_type: enemyRange.textContent.match(/\(.*?\)/)[0].replace(/[()]/g, ""),
