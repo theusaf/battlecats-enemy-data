@@ -134,7 +134,7 @@ async function scrapeWikiLink(link) {
       damage: enemyDamage.textContent.match(/[\d,]+/)[0],
       range: +enemyRange.textContent.match(/[\d,]+/)[0],
       range_type: enemyRange.textContent.match(/\(.*?\)/)[0].replace(/[()]/g, ""),
-      attack_frequency: enemyFreqeuncy.textContent.match(/\d+f/)[0],
+      attack_frequency: enemyFreqeuncy.textContent.match(/\d+f/) ? enemyFreqeuncy.textContent.match(/\d+f/)[0] : "N/A",
       movement_speed: enemySpeed.textContent.match(/[\d,]+/)[0],
       knockbacks: enemyKnockback.textContent.match(/[\d,]+/) ? enemyKnockback.textContent.match(/[\d,]+/)[0] : "N/A",
       attack_animation: enemyAnimation.textContent.match(/[\d,]+f/)[0],
