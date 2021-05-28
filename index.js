@@ -29,6 +29,7 @@ async function main() {
     ids.push(row.children[0].textContent);
   }
   if (ids.length === idsScraped.length) {
+    rl.close();
     return console.log("No new ids to scrape");
   }
   await scrapeWiki(ids);
