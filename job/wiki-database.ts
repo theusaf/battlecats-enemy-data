@@ -1,5 +1,6 @@
 import mwbot, { getFirstValue } from "mwbot";
 import { BCDatabaseEnemy } from "./cat-database.js";
+import { scrapedWiki } from "./data.js";
 import { REQUEST_OPTIONS } from "./util/constants.js";
 
 const bot = new mwbot(
@@ -9,11 +10,24 @@ const bot = new mwbot(
   REQUEST_OPTIONS
 );
 
-export async function search(enemy: BCDatabaseEnemy) {
+export type CombinedEnemy = BCDatabaseEnemy & WikiEnemyData;
+
+export async function search(enemy: BCDatabaseEnemy): Promise<CombinedEnemy> {
   const searchResults = await getSearchResults(enemy.id, enemy.name);
+  for (const title of searchResults) {
+    if (scrapedWiki.has(title)) continue;
+    const wikiData = parseEnemyPage(await getEnemyPage(title), enemy.id);
+    if (wikiData) {
+      return {
+        ...enemy,
+        ...wikiData,
+      };
+    }
+  }
+  return null;
 }
 
-interface WikiSearchResultItem {
+export interface WikiSearchResultItem {
   ns: number;
   title: string;
   pageid: number;
@@ -21,7 +35,7 @@ interface WikiSearchResultItem {
   [key: string]: any;
 }
 
-interface WikiSearchResult {
+export interface WikiSearchResult {
   batchcomplete: string;
   continue: {
     sroffset: number;
@@ -32,15 +46,17 @@ interface WikiSearchResult {
   };
 }
 
-export function getSearchResults(id: string, name: string) {
-  return bot.requestJSON<WikiSearchResult>({
-    action: "query",
-    list: "search",
-    srlimit: 5,
-    srsearch: `"https://battlecats-db.com/enemy/${id}.html" ${name}`,
-    srwhat: "text",
-    srprop: "timestamp",
-  });
+export async function getSearchResults(id: string, name: string) {
+  return (
+    await bot.requestJSON<WikiSearchResult>({
+      action: "query",
+      list: "search",
+      srlimit: 5,
+      srsearch: `"https://battlecats-db.com/enemy/${id}.html" ${name}`,
+      srwhat: "text",
+      srprop: "timestamp",
+    })
+  ).query.search.map((item) => item.title);
 }
 
 export async function getEnemyPage(title: string): Promise<string> {
@@ -61,7 +77,7 @@ export interface WikiEnemyData {
   firstAppearances: Appearance[];
 }
 
-export async function parseEnemyPage(page: string, expectedId: string) {
+export function parseEnemyPage(page: string, expectedId: string) {
   const linkRegex = new RegExp(
     `==Reference==[\\s\\n]*\\*\\s*https://battlecats-db\\.com/enemy/${expectedId}\\.html`
   );
