@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": false,
+    "moduleResolution": "NodeNext",
+    "target": "ESNext",
+    "allowSyntheticDefaultImports": true,
+    "typeRoots": [],
+    "types": [],
+    "skipLibCheck": true
+  },
+  "exclude": ["node_modules"],
+  "include": ["job"]
+}
