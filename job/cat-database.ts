@@ -29,6 +29,7 @@ export async function getNewEnemies(): Promise<EnemyListData[]> {
 
 export interface BCDatabaseEnemy {
   dps: number;
+  name: string;
   hp: number;
   attack: number;
   range: number;
@@ -75,5 +76,6 @@ export async function getEnemyData(id: string): Promise<BCDatabaseEnemy> {
     id,
     attackFreqency: parseInt(attackFreqency),
     attackAnimation: parseInt(attackAnimation),
+    name: document.querySelector("#List td:nth-child(2)").textContent,
   };
 }
