@@ -13,11 +13,15 @@ const rl = readline.createInterface({
   output: process.stdout,
 });
 
+const initialLength = needsHumanReview.length;
+
 for (let i = needsHumanReview.length - 1; i >= 0; i--) {
   const id = needsHumanReview.pop(),
     basicEnemyData = await getEnemyData(id),
     wikiURL = await rl.question(
-      `Enter the wiki URL for ${basicEnemyData.name} ($${basicEnemyData.id}):\n`
+      `[${initialLength - i}/${initialLength}] Enter the wiki URL for ${
+        basicEnemyData.name
+      } ($${basicEnemyData.id}):\n`
     );
   if (!wikiURL.trim()) {
     needsHumanReview.splice(0, 0, id); // Put it back at the beginning
