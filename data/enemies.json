@@ -13562,5 +13562,127 @@
     "specialAbility": "-",
     "referenceLink": "https://battlecats-db.com/enemy/023.html",
     "attribute": "Traitless}}"
+  },
+  {
+    "id": "235",
+    "dps": 2976,
+    "appearances": null,
+    "image": "Nyalladin.jpg\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Nyalladin (Enemy)",
+    "baseCashDrop": 1600,
+    "description": null,
+    "health": 900000,
+    "damage": 6450,
+    "range": 190,
+    "isSingleTarget": false,
+    "attackFrequency": 65,
+    "attackAnimation": 51,
+    "movementSpeed": 10,
+    "knockbacks": 4,
+    "specialAbility": "100% chance to create a Lv. 1 [[Wave Attack]]",
+    "referenceLink": "https://battlecats-db.com/enemy/235.html",
+    "attribute": "Floating"
+  },
+  {
+    "id": "492",
+    "dps": 49261,
+    "appearances": null,
+    "image": "E 490.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/7th Anniversary Scarecrow (Enemy Base)",
+    "baseCashDrop": 0,
+    "description": null,
+    "health": 100,
+    "damage": 999999,
+    "range": 300,
+    "isSingleTarget": false,
+    "attackFrequency": 609,
+    "attackAnimation": 10,
+    "movementSpeed": 0,
+    "knockbacks": 0,
+    "specialAbility": "[[Special Abilities#Immune to Knockback|Immune to Knockback]], [[Special Abilities#Immune to Freeze|Freeze]], [[Special Abilities#Immune to Slow|Slow]], [[Special Abilities#Immune to Weaken|Weaken]], and [[Special Abilities#Immune to Waves|Waves]]",
+    "referenceLink": "https://battlecats-db.com/enemy/492.html",
+    "attribute": "Typeless"
+  },
+  {
+    "id": "362",
+    "dps": 405,
+    "appearances": null,
+    "image": "ShibaElite.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Shibalien Elite (Alien)",
+    "baseCashDrop": 100,
+    "description": "Officer-class Doge in the Alien Marines.<br>Received top marks in the academy<br>specializing in Warp attacks.<br>But the job market is tough these days.",
+    "health": 7000,
+    "damage": 500,
+    "range": 120,
+    "isSingleTarget": true,
+    "attackFrequency": 37,
+    "attackAnimation": 8,
+    "movementSpeed": 12,
+    "knockbacks": 3,
+    "specialAbility": "35% chance to [[Special Abilities#Warp|warp]] Cat Units back by 750 range for 10f <sub>0.33 seconds</sub><br>''*Stats shown are with all [[Anti-Starred Alien Treasures]].''",
+    "referenceLink": "https://battlecats-db.com/enemy/362.html",
+    "attribute": "StarredAlien"
+  },
+  {
+    "id": "170",
+    "dps": 870,
+    "appearances": [
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Machu Picchu (Into the Future)",
+        "stageTitle": "Chapter 1 - Machu Picchu"
+      },
+      {
+        "section": "SoL",
+        "stageWikiTitle": "Gestalt, Decay",
+        "stageTitle": "Sub-chapter 27 - Gestalt, Decay"
+      },
+      {
+        "section": "CotC",
+        "stageWikiTitle": "Jupiter (Cats of the Cosmos)",
+        "stageTitle": "Chapter 1 - Jupiter"
+      }
+    ],
+    "image": "Kroxo.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Kroxo (Alien)",
+    "baseCashDrop": 130,
+    "description": "Overcame his eye condition to get a degree<br>in interior design. His philosophy is \"Simple<br>is Best\"; turns out he just paints it all<br>blue and takes the rest of the week off.",
+    "health": 3000,
+    "damage": 900,
+    "range": 130,
+    "isSingleTarget": true,
+    "attackFrequency": 31,
+    "attackAnimation": 6,
+    "movementSpeed": 8,
+    "knockbacks": 4,
+    "specialAbility": "-<br>''*Stats shown are with all [[Anti-unstarred Alien Treasures]].''",
+    "referenceLink": "https://battlecats-db.com/enemy/170.html",
+    "attribute": "Alien"
+  },
+  {
+    "id": "528",
+    "dps": 21276,
+    "appearances": [
+      {
+        "section": "SoL",
+        "stageWikiTitle": "Eldritch Forces/Invasion",
+        "stageTitle": "Sub-chapter 49 - Eldritch Forces Invasion"
+      }
+    ],
+    "image": "Mothenemy.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Idi:Re (Relic)",
+    "baseCashDrop": 9000,
+    "description": "Subject 002 (Paleobacterial Lifeform)<br>Combat Potential: Immeasurable.<br>Despite appearance, Floating trait not present<br>Output corresponds to weakened capacity",
+    "health": 3333333,
+    "damage": 99999,
+    "range": 150,
+    "isSingleTarget": false,
+    "attackFrequency": 141,
+    "attackAnimation": 4,
+    "movementSpeed": 44,
+    "knockbacks": 33,
+    "specialAbility": "Attack power increases by 100% at 50% health<br>",
+    "referenceLink": "https://battlecats-db.com/enemy/528.html",
+    "attribute": "Relic"
   }
 ]
