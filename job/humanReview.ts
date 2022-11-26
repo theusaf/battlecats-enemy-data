@@ -8,7 +8,7 @@ import {
   writeScrapedIDs,
   writeScrapedWiki,
 } from "./data.js";
-import { getEnemyPage, parseEnemyPage } from "./wiki-database.js";
+import { getPageContent, parseEnemyPage } from "./wiki-database.js";
 
 const rl = readline.createInterface({
   input: process.stdin,
@@ -38,7 +38,7 @@ for (let i = needsHumanReview.length - 1; i >= 0; i--) {
             " "
           )
         : wikiURL,
-      page = await getEnemyPage(title),
+      page = await getPageContent(title),
       parsed = parseEnemyPage(page, id);
     if (!parsed) {
       console.log("Match not found. Try again.");

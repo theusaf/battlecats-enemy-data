@@ -10,9 +10,29 @@ const bot = new mwbot(
   REQUEST_OPTIONS
 );
 
+interface ReleaseOrder {
+  [key: string]: string;
+}
+
+let cachedMappings: ReleaseOrder = {};
+
+export async function readEnemyReleaseOrder() {
+  if (cachedMappings) return cachedMappings;
+  const page = await getPageContent("Enemy Release Order"),
+    lines = page.match(/^\|(\d+)\n\|\[\[(.*?)(?:\|.*)?\]\]/gm);
+  for (const line of lines) {
+    const [, id, name] = line.match(/^\|(\d+)\n\|\[\[(.*?)(?:\|.*)?\]\]/);
+    cachedMappings[`${id}`.padStart(3, "0")] = name;
+  }
+  return cachedMappings;
+}
+
 export type CombinedEnemy = BCDatabaseEnemy & WikiEnemyData;
 
 export async function search(enemy: BCDatabaseEnemy): Promise<CombinedEnemy> {
+  if ((await readEnemyReleaseOrder())[enemy.id]) {
+    return getWikiData((await readEnemyReleaseOrder())[enemy.id], enemy);
+  }
   const initialResult = filterSearchResults(
     await getSearchResults(enemy.id, enemy.name),
     enemy
@@ -21,20 +41,27 @@ export async function search(enemy: BCDatabaseEnemy): Promise<CombinedEnemy> {
   return filterSearchResults(await getOtherSearchResults(enemy.id), enemy);
 }
 
-async function filterSearchResults(
+function filterSearchResults(
   searchResults: string[],
   enemy: BCDatabaseEnemy
-) {
+): Promise<CombinedEnemy> {
   for (const title of searchResults) {
     if (scrapedWiki.has(title)) continue;
-    const wikiData = parseEnemyPage(await getEnemyPage(title), enemy.id);
-    if (wikiData) {
-      return {
-        ...enemy,
-        ...wikiData,
-        wikiTitle: title,
-      };
-    }
+    return getWikiData(title, enemy);
+  }
+}
+
+async function getWikiData(
+  title: string,
+  enemy: BCDatabaseEnemy
+): Promise<CombinedEnemy> {
+  const wikiData = parseEnemyPage(await getPageContent(title), enemy.id);
+  if (wikiData) {
+    return {
+      ...enemy,
+      ...wikiData,
+      wikiTitle: title,
+    };
   }
 }
 
@@ -83,7 +110,7 @@ export async function getOtherSearchResults(id: string) {
   ).query.search.map((item) => item.title);
 }
 
-export async function getEnemyPage(title: string): Promise<string> {
+export async function getPageContent(title: string): Promise<string> {
   const response = await bot.read(title);
   return (getFirstValue(response.query.pages) as any).revisions[0]["*"];
 }
