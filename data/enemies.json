@@ -4,6 +4,21 @@
     "dps": 12,
     "appearances": [
       {
+        "section": "EoC",
+        "stageWikiTitle": "Mongolia (Empire of Cats)",
+        "stageTitle": "Chapter 1 - Mongolia/Saga"
+      },
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Japan (Into the Future)",
+        "stageTitle": "Chapter 1 - Japan"
+      },
+      {
+        "section": "CotC",
+        "stageWikiTitle": "Mars (Cats of the Cosmos)",
+        "stageTitle": "Chapter 1 - Mars"
+      },
+      {
         "section": "SoL",
         "stageWikiTitle": "Earthshaker",
         "stageTitle": "Sub-chapter 1 - Earthshaker"
@@ -29,6 +44,21 @@
     "id": "004",
     "dps": 20,
     "appearances": [
+      {
+        "section": "EoC",
+        "stageWikiTitle": "Thailand (Empire of Cats)",
+        "stageTitle": "Chapter 1 - Thailand/Kumamoto"
+      },
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Japan (Into the Future)",
+        "stageTitle": "Chapter 1 - Japan"
+      },
+      {
+        "section": "CotC",
+        "stageWikiTitle": "Mars (Cats of the Cosmos)",
+        "stageTitle": "Chapter 1 - Mars"
+      },
       {
         "section": "SoL",
         "stageWikiTitle": "Earthshaker",
@@ -56,6 +86,16 @@
     "dps": 44,
     "appearances": [
       {
+        "section": "EoC",
+        "stageWikiTitle": "Japan (Empire of Cats)",
+        "stageTitle": "Chapter 1 - Japan/Fukuoka"
+      },
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Korea (Into the Future)",
+        "stageTitle": "Chapter 1 - Korea"
+      },
+      {
         "section": "SoL",
         "stageWikiTitle": "Sleeping Lion",
         "stageTitle": "Sub-chapter 1 - Sleeping Lion"
@@ -81,6 +121,21 @@
     "id": "006",
     "dps": 49,
     "appearances": [
+      {
+        "section": "EoC",
+        "stageWikiTitle": "Maldives (Empire of Cats)",
+        "stageTitle": "Chapter 1 - Maldives/Tokushima"
+      },
+      {
+        "section": "ItF",
+        "stageWikiTitle": "China (Into the Future)",
+        "stageTitle": "Chapter 1 - China"
+      },
+      {
+        "section": "CotC",
+        "stageWikiTitle": "Saturn (Cats of the Cosmos)",
+        "stageTitle": "Chapter 1 - Saturn"
+      },
       {
         "section": "SoL",
         "stageWikiTitle": "Gazpacho Highland",
@@ -108,6 +163,21 @@
     "dps": 99,
     "appearances": [
       {
+        "section": "EoC",
+        "stageWikiTitle": "Dubai (Empire of Cats)",
+        "stageTitle": "Chapter 1 - Dubai/Hiroshima"
+      },
+      {
+        "section": "ItF",
+        "stageWikiTitle": "China (Into the Future)",
+        "stageTitle": "Chapter 1 - China"
+      },
+      {
+        "section": "CotC",
+        "stageWikiTitle": "Eskimo Nebula (Cats of the Cosmos)",
+        "stageTitle": "Chapter 1 - Eskimo Nebula"
+      },
+      {
         "section": "SoL",
         "stageWikiTitle": "Bouncy Park",
         "stageTitle": "Sub-chapter 1 - Bouncy Park"
@@ -133,6 +203,21 @@
     "id": "008",
     "dps": 150,
     "appearances": [
+      {
+        "section": "EoC",
+        "stageWikiTitle": "Madagascar (Empire of Cats)",
+        "stageTitle": "Chapter 1 - Madagascar/Tottori"
+      },
+      {
+        "section": "SoL",
+        "stageWikiTitle": "Gentle Smile",
+        "stageTitle": "Sub-chapter 1 - Gentle Smile"
+      },
+      {
+        "section": "ItF",
+        "stageWikiTitle": "China (Into the Future)",
+        "stageTitle": "Chapter 1 - China"
+      },
       {
         "section": "CotC",
         "stageWikiTitle": "Deneb (Cats of the Cosmos)",
@@ -160,6 +245,21 @@
     "dps": 28,
     "appearances": [
       {
+        "section": "EN",
+        "stageWikiTitle": "Sahara (Empire of Cats)",
+        "stageTitle": "Chapter 1 - Sahara/Osaka"
+      },
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Mongolia (Into the Future)",
+        "stageTitle": "Chapter 1 - Mongolia"
+      },
+      {
+        "section": "CotC",
+        "stageWikiTitle": "Jupiter (Cats of the Cosmos)",
+        "stageTitle": "Chapter 1 - Jupiter"
+      },
+      {
         "section": "SoL",
         "stageWikiTitle": "Melancholy Damp",
         "stageTitle": "Sub-chapter 1 - Melancholy Damp"
@@ -185,6 +285,21 @@
     "id": "010",
     "dps": 195,
     "appearances": [
+      {
+        "section": "EoC",
+        "stageWikiTitle": "Greece (Empire of Cats)",
+        "stageTitle": "Chapter 1 - Greece/Shiga"
+      },
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Russia (Into the Future)",
+        "stageTitle": "Chapter 1 - Russia"
+      },
+      {
+        "section": "CotC",
+        "stageWikiTitle": "Sun (Cats of the Cosmos)",
+        "stageTitle": "Chapter 1 - Sun"
+      },
       {
         "section": "SoL",
         "stageWikiTitle": "Gazpacho Highland",
@@ -212,6 +327,16 @@
     "dps": 104,
     "appearances": [
       {
+        "section": "EoC",
+        "stageWikiTitle": "Denmark (Empire of Cats)",
+        "stageTitle": "Chapter 1 - Denmark/Shizuoka"
+      },
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Italy (Into the Future)",
+        "stageTitle": "Chapter 1 - Italy"
+      },
+      {
         "section": "SoL",
         "stageWikiTitle": "Guardian of the Ranch",
         "stageTitle": "Sub-chapter 1 - Guardian of the Ranch"
@@ -237,6 +362,21 @@
     "id": "012",
     "dps": 208,
     "appearances": [
+      {
+        "section": "EoC",
+        "stageWikiTitle": "Bermuda (Empire of Cats)",
+        "stageTitle": "Chapter 1 - Bermuda/Tokyo"
+      },
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Spain (Into the Future)",
+        "stageTitle": "Chapter 1 - Spain"
+      },
+      {
+        "section": "CotC",
+        "stageWikiTitle": "Mercury (Cats of the Cosmos)",
+        "stageTitle": "Chapter 1 - Mercury"
+      },
       {
         "section": "SoL",
         "stageWikiTitle": "Churros Night",
@@ -264,6 +404,21 @@
     "dps": 937,
     "appearances": [
       {
+        "section": "EoC",
+        "stageWikiTitle": "Easter Island (Empire of Cats)",
+        "stageTitle": "Chapter 1 - Easter Island/Miyagi"
+      },
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Denmark (Into the Future)",
+        "stageTitle": "Chapter 1 - Denmark"
+      },
+      {
+        "section": "CotC",
+        "stageWikiTitle": "Saturn (Cats of the Cosmos)",
+        "stageTitle": "Chapter 1 - Saturn"
+      },
+      {
         "section": "SoL",
         "stageWikiTitle": "Playing Pirates",
         "stageTitle": "Sub-chapter 4 - Playing Pirates"
@@ -289,6 +444,16 @@
     "id": "014",
     "dps": 280,
     "appearances": [
+      {
+        "section": "EoC",
+        "stageWikiTitle": "Las Vegas (Empire of Cats)",
+        "stageTitle": "Chapter 1 - Las Vegas/Akita"
+      },
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Spain (Into the Future)",
+        "stageTitle": "Chapter 1 - Spain"
+      },
       {
         "section": "SoL",
         "stageWikiTitle": "Seaweed Shallows",
@@ -342,6 +507,21 @@
     "dps": 36,
     "appearances": [
       {
+        "section": "EoC",
+        "stageWikiTitle": "Greenland (Empire of Cats)",
+        "stageTitle": "Chapter 1 - Greenland/Niigata"
+      },
+      {
+        "section": "ItF",
+        "stageWikiTitle": "China (Into the Future)",
+        "stageTitle": "Chapter 1 - China"
+      },
+      {
+        "section": "CotC",
+        "stageWikiTitle": "Sun (Cats of the Cosmos)",
+        "stageTitle": "Chapter 1 - Sun"
+      },
+      {
         "section": "SoL",
         "stageWikiTitle": "Catechin Hill",
         "stageTitle": "Sub-chapter 3 - Catechin Hill"
@@ -368,6 +548,21 @@
     "dps": 56,
     "appearances": [
       {
+        "section": "EoC",
+        "stageWikiTitle": "Brazil (Empire of Cats)",
+        "stageTitle": "Chapter 1 - Brazil/Tochigi"
+      },
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Mongolia (Into the Future)",
+        "stageTitle": "Chapter 1 - Mongolia"
+      },
+      {
+        "section": "CotC",
+        "stageWikiTitle": "Mercury (Cats of the Cosmos)",
+        "stageTitle": "Chapter 1 - Mercury"
+      },
+      {
         "section": "SoL",
         "stageWikiTitle": "Sleeping Lion",
         "stageTitle": "Sub-chapter 1 - Sleeping Lion"
@@ -392,6 +587,7 @@
   {
     "id": "018",
     "dps": 11250,
+    "appearances": null,
     "image": "Assassin Bear.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Assassin Bear (Black)",
     "baseCashDrop": 1,
@@ -411,6 +607,7 @@
   {
     "id": "019",
     "dps": 681,
+    "appearances": null,
     "image": "Shy Boy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Shy Boy (Red/Floating)",
     "baseCashDrop": 1500,
@@ -431,6 +628,16 @@
     "id": "020",
     "dps": 219,
     "appearances": [
+      {
+        "section": "EoC",
+        "stageWikiTitle": "Moon (Empire of Cats)",
+        "stageTitle": "Chapter 1 - Moon"
+      },
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Easter Island (Into the Future)",
+        "stageTitle": "Chapter 1 - Easter Island"
+      },
       {
         "section": "SoL",
         "stageWikiTitle": "Twin Peaks",
@@ -458,6 +665,21 @@
     "dps": 119,
     "appearances": [
       {
+        "section": "EoC",
+        "stageWikiTitle": "Brazil (Empire of Cats)",
+        "stageTitle": "Chapter 1 - Brazil/Tochigi"
+      },
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Germany (Into the Future)",
+        "stageTitle": "Chapter 1 - Germany"
+      },
+      {
+        "section": "CotC",
+        "stageWikiTitle": "Catseye Nebula (Cats of the Cosmos)",
+        "stageTitle": "Chapter 1 - Catseye Nebula"
+      },
+      {
         "section": "SoL",
         "stageWikiTitle": "Flamenco Hole",
         "stageTitle": "Sub-chapter 2 - Flamenco Hole"
@@ -483,6 +705,11 @@
     "id": "025",
     "dps": 116,
     "appearances": [
+      {
+        "section": "EoC",
+        "stageWikiTitle": "Moon (Empire of Cats)",
+        "stageTitle": "Chapter 2 - Moon/Iriomote"
+      },
       {
         "section": "SoL",
         "stageWikiTitle": "Red Tuna Coast",
@@ -510,6 +737,11 @@
     "dps": 2177,
     "appearances": [
       {
+        "section": "EoC",
+        "stageWikiTitle": "Moon (Empire of Cats)",
+        "stageTitle": "Chapter 3 - Moon/Iriomote"
+      },
+      {
         "section": "SoL",
         "stageWikiTitle": "Cave Fillet",
         "stageTitle": "Sub-chapter 7 - Cave Fillet"
@@ -534,6 +766,7 @@
   {
     "id": "027",
     "dps": 2,
+    "appearances": null,
     "image": "Swordsman1.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Swordsman (form 1) (Enemy)",
     "baseCashDrop": 800,
@@ -553,6 +786,7 @@
   {
     "id": "028",
     "dps": 48,
+    "appearances": null,
     "image": "Chibigau1.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Chibigau (form 1) (Enemy)",
     "baseCashDrop": 1200,
@@ -572,6 +806,7 @@
   {
     "id": "029",
     "dps": 33,
+    "appearances": null,
     "image": "Kerihime.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Princess Punt (form 1) (Enemy)",
     "baseCashDrop": 1500,
@@ -591,6 +826,7 @@
   {
     "id": "030",
     "dps": 535,
+    "appearances": null,
     "image": "Swordsman1.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Swordsman (form 2) (Enemy)",
     "baseCashDrop": 800,
@@ -610,6 +846,7 @@
   {
     "id": "031",
     "dps": 803,
+    "appearances": null,
     "image": "Chibigau2.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Chibigau (form 2) (Enemy)",
     "baseCashDrop": 1200,
@@ -629,6 +866,7 @@
   {
     "id": "032",
     "dps": 893,
+    "appearances": null,
     "image": "Kerihime.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Princess Punt (form 2) (Enemy)",
     "baseCashDrop": 1500,
@@ -701,6 +939,11 @@
     "id": "035",
     "dps": 1952,
     "appearances": [
+      {
+        "section": "SoL",
+        "stageWikiTitle": "Thriller Bridge",
+        "stageTitle": "Sub-chapter 5 - Thriller Bridge"
+      },
       {
         "section": "ItF",
         "stageWikiTitle": "Machu Picchu (Into the Future)",
@@ -832,6 +1075,16 @@
     "dps": 13191,
     "appearances": [
       {
+        "section": "SoL",
+        "stageWikiTitle": "Carapaccio Waters",
+        "stageTitle": "Sub-chapter 7 - Carapaccio Waters"
+      },
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Mexico (Into the Future)",
+        "stageTitle": "Chapter 2 - Mexico"
+      },
+      {
         "section": "CotC",
         "stageWikiTitle": "Plumpit (Cats of the Cosmos)",
         "stageTitle": "Chapter 1 - Plumpit"
@@ -910,6 +1163,11 @@
     "dps": 1800,
     "appearances": [
       {
+        "section": "SoL",
+        "stageWikiTitle": "Hyaluronan Mountain",
+        "stageTitle": "Sub-chapter 3 - Hyaluronan Mountain"
+      },
+      {
         "section": "CotC",
         "stageWikiTitle": "Earth (Cats of the Cosmos)",
         "stageTitle": "Chapter 1 - Earth"
@@ -935,6 +1193,11 @@
     "id": "044",
     "dps": 3658,
     "appearances": [
+      {
+        "section": "ItF",
+        "stageWikiTitle": "France (Into the Future)",
+        "stageTitle": "Chapter 3 - France"
+      },
       {
         "section": "SoL",
         "stageWikiTitle": "Isoflavone Cave",
@@ -1040,6 +1303,16 @@
     "dps": 1463,
     "appearances": [
       {
+        "section": "SoL",
+        "stageWikiTitle": "Sleeping Lion",
+        "stageTitle": "Sub-chapter 1 - Sleeping Lion"
+      },
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Thailand (Into the Future)",
+        "stageTitle": "Chapter 1 - Thailand"
+      },
+      {
         "section": "CotC",
         "stageWikiTitle": "Uranus (Cats of the Cosmos)",
         "stageTitle": "Chapter 1 - Uranus"
@@ -1066,6 +1339,16 @@
     "dps": 333,
     "appearances": [
       {
+        "section": "SoL",
+        "stageWikiTitle": "Return of Terror",
+        "stageTitle": "Sub-chapter 1 - Return of Terror"
+      },
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Greece (Into the Future)",
+        "stageTitle": "Chapter 1 - Greece"
+      },
+      {
         "section": "CotC",
         "stageWikiTitle": "Triton (Cats of the Cosmos)",
         "stageTitle": "Chapter 1 - Triton"
@@ -1091,6 +1374,11 @@
     "id": "050",
     "dps": 545,
     "appearances": [
+      {
+        "section": "SoL",
+        "stageWikiTitle": "Melancholy Damp",
+        "stageTitle": "Sub-chapter 1 - Melancholy Damp"
+      },
       {
         "section": "CotC",
         "stageWikiTitle": "Crimson Star (Cats of the Cosmos)",
@@ -1170,6 +1458,16 @@
     "dps": 5855,
     "appearances": [
       {
+        "section": "SoL",
+        "stageWikiTitle": "Milky Tunnel",
+        "stageTitle": "Sub-chapter 9 - Milky Tunnel"
+      },
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Kenya (Into the Future)",
+        "stageTitle": "Chapter 1 - Kenya"
+      },
+      {
         "section": "CotC",
         "stageWikiTitle": "Gorigori (Cats of the Cosmos)",
         "stageTitle": "Chapter 1 - Gorigori"
@@ -1195,6 +1493,16 @@
     "id": "054",
     "dps": 9369,
     "appearances": [
+      {
+        "section": "SoL",
+        "stageWikiTitle": "Disgusting Swamp",
+        "stageTitle": "Sub-chapter 8 - Disgusting Swamp"
+      },
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Argentina (Into the Future)",
+        "stageTitle": "Chapter 1 - Argentina"
+      },
       {
         "section": "CotC",
         "stageWikiTitle": "Vega (Cats of the Cosmos)",
@@ -1274,6 +1582,11 @@
     "dps": 15999,
     "appearances": [
       {
+        "section": "SoL",
+        "stageWikiTitle": "Dawn of Gaia",
+        "stageTitle": "Sub-chapter 15 - Dawn of Gaia"
+      },
+      {
         "section": "CotC",
         "stageWikiTitle": "N77 Nebula (Cats of the Cosmos)",
         "stageTitle": "Chapter 1 - N77 Nebula"
@@ -1298,6 +1611,7 @@
   {
     "id": "059",
     "dps": 1874998,
+    "appearances": null,
     "image": "Teachercybear.PNG\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Teacher Cybear (Metal)",
     "baseCashDrop": 550,
@@ -1317,6 +1631,7 @@
   {
     "id": "060",
     "dps": 12986,
+    "appearances": null,
     "image": "Cyberface.PNG\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/CyberFace (Metal)",
     "baseCashDrop": 550,
@@ -1362,6 +1677,7 @@
   {
     "id": "063",
     "dps": 2482,
+    "appearances": null,
     "image": "Princesshead.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Princess Head (Enemy)",
     "baseCashDrop": 4000,
@@ -1381,6 +1697,7 @@
   {
     "id": "064",
     "dps": 1894,
+    "appearances": null,
     "image": "Chief Peng.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Chief Peng (Event Enemy)",
     "baseCashDrop": 450,
@@ -1400,6 +1717,7 @@
   {
     "id": "065",
     "dps": 812,
+    "appearances": null,
     "image": "Dark Emperor Santa.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Dark Emperor Santa (Event Enemy)",
     "baseCashDrop": 6000,
@@ -1419,6 +1737,7 @@
   {
     "id": "066",
     "dps": 552000,
+    "appearances": null,
     "image": "Red Cyclone.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Red Cyclone (Red/Floating)",
     "baseCashDrop": 3000,
@@ -1438,6 +1757,7 @@
   {
     "id": "067",
     "dps": 1665,
+    "appearances": null,
     "image": "Lione Hippoe.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Lione Hippoe (Event Enemy)",
     "baseCashDrop": 400,
@@ -1457,6 +1777,7 @@
   {
     "id": "068",
     "dps": 3157,
+    "appearances": null,
     "image": "Lucky Sloth.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Lucky Sloth (Event Enemy)",
     "baseCashDrop": 2000,
@@ -1476,6 +1797,7 @@
   {
     "id": "069",
     "dps": 831,
+    "appearances": null,
     "image": "Audience Bears.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Audience Bears (Event Enemy)",
     "baseCashDrop": 3000,
@@ -1495,6 +1817,7 @@
   {
     "id": "070",
     "dps": 261,
+    "appearances": null,
     "image": "Monkeykingform1.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Monkey King (Enemy)",
     "baseCashDrop": 1080,
@@ -1514,6 +1837,7 @@
   {
     "id": "071",
     "dps": 534000,
+    "appearances": null,
     "image": "White Cyclone.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/White Cyclone (Floating)",
     "baseCashDrop": 3000,
@@ -1533,6 +1857,7 @@
   {
     "id": "072",
     "dps": 24000,
+    "appearances": null,
     "image": "Blackcyclone.PNG\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Black Cyclone (Black/Floating)",
     "baseCashDrop": 3000,
@@ -1552,6 +1877,7 @@
   {
     "id": "073",
     "dps": 462000,
+    "appearances": null,
     "image": "Metalcyclone.PNG\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Metal Cyclone (Metal)",
     "baseCashDrop": 3000,
@@ -1571,6 +1897,7 @@
   {
     "id": "076",
     "dps": 2514,
+    "appearances": null,
     "image": "Monkeykingform2.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/SSS Monkey King (Enemy)",
     "baseCashDrop": 2160,
@@ -1590,6 +1917,7 @@
   {
     "id": "077",
     "dps": 13133,
+    "appearances": null,
     "image": "Crazed Cat (Enemy Unit).jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Crazed Cat (Enemy Unit)",
     "baseCashDrop": 1980,
@@ -1609,6 +1937,7 @@
   {
     "id": "078",
     "dps": 13540,
+    "appearances": null,
     "image": "Crazed Tank (enemy).png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Crazed Tank Cat (Enemy Unit)",
     "baseCashDrop": 2370,
@@ -1628,6 +1957,7 @@
   {
     "id": "079",
     "dps": 7875,
+    "appearances": null,
     "image": "Crazed Axe (enemy).png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Crazed Axe Cat (Enemy Unit)",
     "baseCashDrop": 2000,
@@ -1647,6 +1977,7 @@
   {
     "id": "080",
     "dps": 2546,
+    "appearances": null,
     "image": "Crazed Gross (enemy).png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Crazed Gross Cat (Enemy Unit)",
     "baseCashDrop": 810,
@@ -1666,6 +1997,7 @@
   {
     "id": "081",
     "dps": 7800,
+    "appearances": null,
     "image": "Crazed Cow Cat (enemy).png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Crazed Cow Cat (Enemy Unit)",
     "baseCashDrop": 500,
@@ -1685,6 +2017,7 @@
   {
     "id": "082",
     "dps": 2130,
+    "appearances": null,
     "image": "Crazed Bird (enemy).png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Crazed Bird Cat (Enemy Unit)",
     "baseCashDrop": 1999,
@@ -1704,6 +2037,7 @@
   {
     "id": "083",
     "dps": 6999,
+    "appearances": null,
     "image": "Fish Cat (enemy).png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Crazed Fish Cat (Enemy Unit)",
     "baseCashDrop": 620,
@@ -1723,6 +2057,7 @@
   {
     "id": "084",
     "dps": 795,
+    "appearances": null,
     "image": "Crazed Lizard (enemy).png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Crazed Lizard Cat (Enemy Unit)",
     "baseCashDrop": 1350,
@@ -1742,6 +2077,7 @@
   {
     "id": "085",
     "dps": 6296,
+    "appearances": null,
     "image": "Crazed Titan (enemy).png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Crazed Titan Cat (Enemy Unit)",
     "baseCashDrop": 2125,
@@ -1761,6 +2097,7 @@
   {
     "id": "086",
     "dps": 821,
+    "appearances": null,
     "image": "Teacher A..png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Teacher A. (Event Enemy)",
     "baseCashDrop": 2000,
@@ -1780,6 +2117,7 @@
   {
     "id": "087",
     "dps": 8516,
+    "appearances": null,
     "image": "Samurai Doggy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Samurai Doggy (Event Enemy)",
     "baseCashDrop": 1600,
@@ -1799,6 +2137,7 @@
   {
     "id": "088",
     "dps": 5181,
+    "appearances": null,
     "image": "Megacatbattle.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Mega Cat (Enemy)",
     "baseCashDrop": 9999,
@@ -1818,6 +2157,7 @@
   {
     "id": "089",
     "dps": 4734,
+    "appearances": null,
     "image": "Gory Groom.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Gory Groom (Event Enemy)",
     "baseCashDrop": 1789,
@@ -1837,6 +2177,7 @@
   {
     "id": "101",
     "dps": 937,
+    "appearances": null,
     "image": "Sunny Celeboodle.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Sunny Celeboodle (Event Enemy)",
     "baseCashDrop": 1000,
@@ -1856,6 +2197,7 @@
   {
     "id": "102",
     "dps": 1125,
+    "appearances": null,
     "image": "Bearkini.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Bearkini (Event Enemy)",
     "baseCashDrop": 600,
@@ -1875,6 +2217,7 @@
   {
     "id": "103",
     "dps": 734,
+    "appearances": null,
     "image": "Lord Enma.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Lord Enma (Event Enemy)",
     "baseCashDrop": 4590,
@@ -1894,6 +2237,7 @@
   {
     "id": "104",
     "dps": 947,
+    "appearances": null,
     "image": "Leggsy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Leggsy (Event Enemy)",
     "baseCashDrop": 4000,
@@ -1913,6 +2257,7 @@
   {
     "id": "108",
     "dps": null,
+    "appearances": null,
     "image": "Fireworksguysfrom1.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Firework Guys 1 (Event Enemy)",
     "baseCashDrop": 1,
@@ -1932,6 +2277,7 @@
   {
     "id": "109",
     "dps": null,
+    "appearances": null,
     "image": "Fireworkguys.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Firework Guys 2 (Event Enemy)",
     "baseCashDrop": 1,
@@ -1951,6 +2297,7 @@
   {
     "id": "110",
     "dps": 3233,
+    "appearances": null,
     "image": "Mighty Gui Zuli.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Mighty Gui Zuli (Event Enemy)",
     "baseCashDrop": 2000,
@@ -1970,6 +2317,7 @@
   {
     "id": "111",
     "dps": 541,
+    "appearances": null,
     "image": "Hermit Peng.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Hermit Peng (Event Enemy)",
     "baseCashDrop": 1000,
@@ -1989,6 +2337,7 @@
   {
     "id": "112",
     "dps": 826,
+    "appearances": null,
     "image": "Master Da Xun.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Master Da Xun (Event Enemy)",
     "baseCashDrop": 1500,
@@ -2008,6 +2357,7 @@
   {
     "id": "113",
     "dps": 193,
+    "appearances": null,
     "image": "Pigge Back.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Pigge Back (Event Enemy)",
     "baseCashDrop": 500,
@@ -2027,6 +2377,7 @@
   {
     "id": "114",
     "dps": 456000,
+    "appearances": null,
     "image": "Divine Cyclone.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Divine Cyclone (Angel)",
     "baseCashDrop": 3000,
@@ -2046,6 +2397,7 @@
   {
     "id": "115",
     "dps": 2000,
+    "appearances": null,
     "image": "Heavenly Hippoe.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Heavenly Hippoe (Angel)",
     "baseCashDrop": 450,
@@ -2066,6 +2418,16 @@
     "id": "116",
     "dps": 1134,
     "appearances": [
+      {
+        "section": "SoL",
+        "stageWikiTitle": "King of Freedom",
+        "stageTitle": "Sub-chapter 19 - King of Freedom"
+      },
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Madagascar (Into the Future)",
+        "stageTitle": "Chapter 1 - Madagascar"
+      },
       {
         "section": "CotC",
         "stageWikiTitle": "Catseye Nebula (Cats of the Cosmos)",
@@ -2093,6 +2455,16 @@
     "dps": 10438,
     "appearances": [
       {
+        "section": "SoL",
+        "stageWikiTitle": "Liar's Fate",
+        "stageTitle": "Sub-chapter 19 - Liar's Fate"
+      },
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Alaska (Into the Future)",
+        "stageTitle": "Chapter 2 - Alaska"
+      },
+      {
         "section": "CotC",
         "stageWikiTitle": "Catseye Nebula (Cats of the Cosmos)",
         "stageTitle": "Chapter 1 - Catseye Nebula"
@@ -2117,6 +2489,7 @@
   {
     "id": "118",
     "dps": null,
+    "appearances": null,
     "image": "Angelfanboy.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Angel Fanboy",
     "baseCashDrop": 1,
@@ -2163,6 +2536,16 @@
     "id": "120",
     "dps": 3375,
     "appearances": [
+      {
+        "section": "SoL",
+        "stageWikiTitle": "Gandara's Rest",
+        "stageTitle": "Sub-chapter 20 - Gandara's Rest"
+      },
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Ghana (Into the Future)",
+        "stageTitle": "Chapter 2 - Ghana"
+      },
       {
         "section": "CotC",
         "stageWikiTitle": "Red Rectangle (Cats of the Cosmos)",
@@ -2214,6 +2597,7 @@
   {
     "id": "122",
     "dps": null,
+    "appearances": null,
     "image": "<tabber>\n1st Birthday=\n[[File:4ggySMn.jpg]]\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Birthday Cake (Event Enemy)",
     "baseCashDrop": 2,
@@ -2261,6 +2645,11 @@
     "dps": 8474,
     "appearances": [
       {
+        "section": "SoL",
+        "stageWikiTitle": "Claustronyctophobia",
+        "stageTitle": "Sub-chapter 21 - Claustronyctophobia"
+      },
+      {
         "section": "ItF",
         "stageWikiTitle": "Colombia (Into the Future)",
         "stageTitle": "Chapter 2 - Colombia"
@@ -2285,6 +2674,7 @@
   {
     "id": "129",
     "dps": 10312,
+    "appearances": null,
     "image": "Beefcake Cat (enemy).png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Beefcake Cat (Enemy)",
     "baseCashDrop": 8888,
@@ -2304,6 +2694,7 @@
   {
     "id": "130",
     "dps": 6420,
+    "appearances": null,
     "image": "Dancer Cat (enemy).png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Dancer Cat (Enemy)",
     "baseCashDrop": 2220,
@@ -2323,6 +2714,7 @@
   {
     "id": "131",
     "dps": 9069,
+    "appearances": null,
     "image": "HyperMr,battlecatsenemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Hyper Mr. (Enemy)",
     "baseCashDrop": 1100,
@@ -2342,6 +2734,7 @@
   {
     "id": "132",
     "dps": 4317,
+    "appearances": null,
     "image": "Ultimate Bondage Cat (enemy).png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Ultimate Bondage Cat (Enemy)",
     "baseCashDrop": 960,
@@ -2361,6 +2754,7 @@
   {
     "id": "133",
     "dps": 19700,
+    "appearances": null,
     "image": "Dark Lazer (enemy).png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Dark Lazer (Enemy)",
     "baseCashDrop": 1920,
@@ -2380,6 +2774,7 @@
   {
     "id": "134",
     "dps": 2874,
+    "appearances": null,
     "image": "Heavy Assault C.A.T (enemy).png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Heavy Assault C.A.T. (Enemy)",
     "baseCashDrop": 1950,
@@ -2399,6 +2794,7 @@
   {
     "id": "135",
     "dps": 932,
+    "appearances": null,
     "image": "Lollycat (Enemy).jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Lollycat (Enemy)",
     "baseCashDrop": 1666,
@@ -2418,6 +2814,7 @@
   {
     "id": "136",
     "dps": 3702,
+    "appearances": null,
     "image": "Unicycle Cat (Enemy).png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Unicycle Cat (Enemy)",
     "baseCashDrop": 1200,
@@ -2437,6 +2834,7 @@
   {
     "id": "137",
     "dps": 12033,
+    "appearances": null,
     "image": "Flying Ninja Cat (enemy).png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Flying Ninja Cat (Enemy)",
     "baseCashDrop": 1980,
@@ -2456,6 +2854,7 @@
   {
     "id": "138",
     "dps": 17419,
+    "appearances": null,
     "image": "Skelecat (enemy).png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Skelecat (Enemy)",
     "baseCashDrop": 250,
@@ -2475,6 +2874,7 @@
   {
     "id": "139",
     "dps": 9000,
+    "appearances": null,
     "image": "Pastry Cat (enemy).png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Pastry Cat (Enemy)",
     "baseCashDrop": 1900,
@@ -2494,6 +2894,7 @@
   {
     "id": "140",
     "dps": 3917,
+    "appearances": null,
     "image": "Riceball Cat (enemy).png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Riceball Cat (Enemy)",
     "baseCashDrop": 500,
@@ -2513,6 +2914,7 @@
   {
     "id": "141",
     "dps": 5343,
+    "appearances": null,
     "image": "Boogie Cat (enemy).png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Gato Amigo (Enemy)",
     "baseCashDrop": 200,
@@ -2532,6 +2934,7 @@
   {
     "id": "142",
     "dps": 1066,
+    "appearances": null,
     "image": "Loincloth Cat (enemy).png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Loincloth Cat (Enemy)",
     "baseCashDrop": 950,
@@ -2552,6 +2955,16 @@
     "id": "148",
     "dps": 399,
     "appearances": [
+      {
+        "section": "SoL",
+        "stageWikiTitle": "The Red Carpet",
+        "stageTitle": "Sub-chapter 22 - The Red Carpet"
+      },
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Easter Island (Into the Future)",
+        "stageTitle": "Chapter 2 - Easter Island"
+      },
       {
         "section": "CotC",
         "stageWikiTitle": "Altair (Cats of the Cosmos)",
@@ -2578,6 +2991,16 @@
     "id": "149",
     "dps": 3333,
     "appearances": [
+      {
+        "section": "SoL",
+        "stageWikiTitle": "The VIP Room",
+        "stageTitle": "Sub-chapter 22 - The VIP Room"
+      },
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Thailand (Into the Future)",
+        "stageTitle": "Chapter 3 - Thailand"
+      },
       {
         "section": "CotC",
         "stageWikiTitle": "Aguham (Cats of the Cosmos)",
@@ -2631,6 +3054,11 @@
     "dps": 2566,
     "appearances": [
       {
+        "section": "SoL",
+        "stageWikiTitle": "Black Premonition",
+        "stageTitle": "Sub-chapter 23 - Black Premonition"
+      },
+      {
         "section": "ItF",
         "stageWikiTitle": "India (Into the Future)",
         "stageTitle": "Chapter 3 - India"
@@ -2655,6 +3083,7 @@
   {
     "id": "152",
     "dps": 108,
+    "appearances": null,
     "image": "Kid Mola.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Baby Mola (Enemy)",
     "baseCashDrop": 30,
@@ -2674,6 +3103,7 @@
   {
     "id": "153",
     "dps": 428,
+    "appearances": null,
     "image": "Mola King (enemy).png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Mola King (Enemy)",
     "baseCashDrop": 600,
@@ -2693,6 +3123,7 @@
   {
     "id": "154",
     "dps": 465,
+    "appearances": null,
     "image": "Penisula Sunfish.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Ayumi Manbosaki (Enemy)",
     "baseCashDrop": 3333,
@@ -2712,6 +3143,7 @@
   {
     "id": "155",
     "dps": 163,
+    "appearances": null,
     "image": "Crab.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Crab (Enemy)",
     "baseCashDrop": 400,
@@ -2731,6 +3163,7 @@
   {
     "id": "156",
     "dps": 15,
+    "appearances": null,
     "image": "Sardine.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Sardine (Enemy)",
     "baseCashDrop": 50,
@@ -2750,6 +3183,7 @@
   {
     "id": "157",
     "dps": 10,
+    "appearances": null,
     "image": "Squid.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Squid (Enemy)",
     "baseCashDrop": 25,
@@ -2769,6 +3203,7 @@
   {
     "id": "158",
     "dps": 4800,
+    "appearances": null,
     "image": "Martin.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Martin (Event Enemy)",
     "baseCashDrop": 900,
@@ -2788,6 +3223,7 @@
   {
     "id": "159",
     "dps": 1328,
+    "appearances": null,
     "image": "E Sakura Android.jpeg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Sakura Android (Enemy)",
     "baseCashDrop": 2000,
@@ -2807,6 +3243,7 @@
   {
     "id": "160",
     "dps": 356,
+    "appearances": null,
     "image": "Takuya.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Takuya (Enemy)",
     "baseCashDrop": 660,
@@ -2826,6 +3263,7 @@
   {
     "id": "161",
     "dps": 289,
+    "appearances": null,
     "image": "Yuki.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Yuki (Enemy)",
     "baseCashDrop": 2222,
@@ -2871,6 +3309,7 @@
   {
     "id": "163",
     "dps": 202,
+    "appearances": null,
     "image": "Mob cat enemy.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Mob Cat (Enemy)",
     "baseCashDrop": 150,
@@ -2890,6 +3329,7 @@
   {
     "id": "164",
     "dps": 413,
+    "appearances": null,
     "image": "yakuza vampire enemy.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Yakuza Vampire (Enemy)",
     "baseCashDrop": 893,
@@ -2909,6 +3349,7 @@
   {
     "id": "165",
     "dps": 4455,
+    "appearances": null,
     "image": "harushuto.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Hearscht (Enemy)",
     "baseCashDrop": 1500,
@@ -2928,6 +3369,7 @@
   {
     "id": "166",
     "dps": 177,
+    "appearances": null,
     "image": "Kooneriaenemy.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Cornelia (Enemy)",
     "baseCashDrop": 300,
@@ -2947,6 +3389,7 @@
   {
     "id": "167",
     "dps": 249,
+    "appearances": null,
     "image": "Aroisuenemy.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Alois (Enemy)",
     "baseCashDrop": 250,
@@ -2966,6 +3409,7 @@
   {
     "id": "168",
     "dps": 3360,
+    "appearances": null,
     "image": "Nyankohealer.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Healer Cat CC (Enemy)",
     "baseCashDrop": 1400,
@@ -2986,6 +3430,16 @@
     "id": "179",
     "dps": 3174,
     "appearances": [
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Floating Continent (Into the Future)",
+        "stageTitle": "Chapter 1 - Floating Continent"
+      },
+      {
+        "section": "SoL",
+        "stageWikiTitle": "Winning Back",
+        "stageTitle": "Sub-chapter 25 - Winning Back"
+      },
       {
         "section": "CotC",
         "stageWikiTitle": "Uranus (Cats of the Cosmos)",
@@ -3037,6 +3491,7 @@
   {
     "id": "189",
     "dps": 617,
+    "appearances": null,
     "image": "Rathalos.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Rathalos (Enemy)",
     "baseCashDrop": 2250,
@@ -3056,6 +3511,7 @@
   {
     "id": "190",
     "dps": 2284,
+    "appearances": null,
     "image": "Rathianenemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Rathian (Enemy)",
     "baseCashDrop": 1800,
@@ -3075,6 +3531,7 @@
   {
     "id": "192",
     "dps": 2574,
+    "appearances": null,
     "image": "Donaldmordenenemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/DONALD MORDEN (Enemy)",
     "baseCashDrop": 1900,
@@ -3094,6 +3551,7 @@
   {
     "id": "193",
     "dps": 169,
+    "appearances": null,
     "image": "Allenenemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/ALLEN O'NEIL (Enemy)",
     "baseCashDrop": 450,
@@ -3113,6 +3571,7 @@
   {
     "id": "194",
     "dps": 61,
+    "appearances": null,
     "image": "Marcoenemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/MARCO (Enemy)",
     "baseCashDrop": 180,
@@ -3132,6 +3591,7 @@
   {
     "id": "195",
     "dps": 187,
+    "appearances": null,
     "image": "SV-001 (enemy).png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/SV-001 (Enemy)",
     "baseCashDrop": 600,
@@ -3151,6 +3611,7 @@
   {
     "id": "198",
     "dps": 1842,
+    "appearances": null,
     "image": "Hidoenemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/HI-DO (Enemy)",
     "baseCashDrop": 2100,
@@ -3170,6 +3631,7 @@
   {
     "id": "199",
     "dps": 13,
+    "appearances": null,
     "image": "Doge O'Lantern.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Doge O'Lantern (Event Enemy)",
     "baseCashDrop": 90,
@@ -3189,6 +3651,7 @@
   {
     "id": "202",
     "dps": 73,
+    "appearances": null,
     "image": "Valkyrie Enemy Unit.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Junior God of Light - Valkyrie (Enemy)",
     "baseCashDrop": 250,
@@ -3208,6 +3671,7 @@
   {
     "id": "203",
     "dps": 857,
+    "appearances": null,
     "image": "Brynhildr Enemy Unit.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Junior God Brynhildr (Enemy)",
     "baseCashDrop": 660,
@@ -3227,6 +3691,7 @@
   {
     "id": "204",
     "dps": 726,
+    "appearances": null,
     "image": "Junior God Suruzu (Enemy).png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Junior God Suruzu (Enemy)",
     "baseCashDrop": 990,
@@ -3246,6 +3711,7 @@
   {
     "id": "205",
     "dps": 12,
+    "appearances": null,
     "image": "Freya YuruDora Enemy.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Goddess of Abundance - Freya (Enemy)",
     "baseCashDrop": 1250,
@@ -3265,6 +3731,7 @@
   {
     "id": "206",
     "dps": 1295,
+    "appearances": null,
     "image": "Odin YuruDora Enemy.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/God of War - Odin (Enemy)",
     "baseCashDrop": 2500,
@@ -3362,6 +3829,7 @@
   {
     "id": "216",
     "dps": 61,
+    "appearances": null,
     "image": "Swordsmanenemycandd.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Swordsman (Castle and Dragon Enemy)",
     "baseCashDrop": 50,
@@ -3381,6 +3849,7 @@
   {
     "id": "217",
     "dps": 173,
+    "appearances": null,
     "image": "Horsecandd.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Cavalry Soldier (Enemy)",
     "baseCashDrop": 150,
@@ -3400,6 +3869,7 @@
   {
     "id": "218",
     "dps": 544,
+    "appearances": null,
     "image": "Ashura.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Ashura (Enemy)",
     "baseCashDrop": 360,
@@ -3419,6 +3889,7 @@
   {
     "id": "219",
     "dps": 666,
+    "appearances": null,
     "image": "Battle Balloon.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Battle Balloon (Enemy)",
     "baseCashDrop": 800,
@@ -3436,8 +3907,29 @@
     "attribute": "Floating"
   },
   {
+    "id": "220",
+    "dps": 1088,
+    "appearances": null,
+    "image": "Dragonriderbattler.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Dragon Rider (Enemy)",
+    "baseCashDrop": 400,
+    "description": null,
+    "health": 40000,
+    "damage": 2250,
+    "range": 300,
+    "isSingleTarget": true,
+    "attackFrequency": 62,
+    "attackAnimation": 23,
+    "movementSpeed": 6,
+    "knockbacks": 3,
+    "specialAbility": "-",
+    "referenceLink": "https://battlecats-db.com/enemy/220.html",
+    "attribute": "Floating"
+  },
+  {
     "id": "221",
     "dps": 1701,
+    "appearances": null,
     "image": "Prettycatcandd.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Pretty Cat (Enemy)",
     "baseCashDrop": 666,
@@ -3457,6 +3949,7 @@
   {
     "id": "222",
     "dps": 1163,
+    "appearances": null,
     "image": "Cyclopscandd.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Cyclops (Enemy)",
     "baseCashDrop": 1500,
@@ -3476,6 +3969,7 @@
   {
     "id": "223",
     "dps": 821,
+    "appearances": null,
     "image": "Golemcandd.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Golem (Enemy)",
     "baseCashDrop": 2000,
@@ -3495,6 +3989,7 @@
   {
     "id": "224",
     "dps": 81,
+    "appearances": null,
     "image": "Moo.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Swordsman of Myoo (Enemy)",
     "baseCashDrop": 50,
@@ -3514,6 +4009,7 @@
   {
     "id": "225",
     "dps": 196,
+    "appearances": null,
     "image": "Fuickhhgewgwawe4hqh.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Thunderclap Black Cavalry Soldier (Enemy)",
     "baseCashDrop": 150,
@@ -3533,6 +4029,7 @@
   {
     "id": "226",
     "dps": 606,
+    "appearances": null,
     "image": "E 226.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Kabukimono Ashura (Enemy)",
     "baseCashDrop": 360,
@@ -3552,6 +4049,7 @@
   {
     "id": "227",
     "dps": 800,
+    "appearances": null,
     "image": "Battleballoonufobattle.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Battle Balloon UFO (Enemy)",
     "baseCashDrop": 800,
@@ -3571,6 +4069,7 @@
   {
     "id": "228",
     "dps": 1209,
+    "appearances": null,
     "image": "Flamingdragonriderbattler.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Flaming Dragon Rider (Enemy)",
     "baseCashDrop": 400,
@@ -3590,6 +4089,7 @@
   {
     "id": "229",
     "dps": 2127,
+    "appearances": null,
     "image": "Llllll.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Cyber Pretty Cat (Enemy)",
     "baseCashDrop": 666,
@@ -3609,6 +4109,7 @@
   {
     "id": "230",
     "dps": 1228,
+    "appearances": null,
     "image": "Cyclops eeee.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Space-time Cyclops (Enemy)",
     "baseCashDrop": 1500,
@@ -3628,6 +4129,7 @@
   {
     "id": "231",
     "dps": 913,
+    "appearances": null,
     "image": "Volcanogolemenemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Volcano Golem (Enemy)",
     "baseCashDrop": 2000,
@@ -3647,6 +4149,7 @@
   {
     "id": "232",
     "dps": 2975,
+    "appearances": null,
     "image": "Prisoner Cat.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Prisoner Cat (Enemy)",
     "baseCashDrop": 1555,
@@ -3666,6 +4169,7 @@
   {
     "id": "233",
     "dps": 574,
+    "appearances": null,
     "image": "Gentleman Bros.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Gentleman Bros. (Enemy)",
     "baseCashDrop": 1500,
@@ -3685,6 +4189,7 @@
   {
     "id": "234",
     "dps": 6620,
+    "appearances": null,
     "image": "Cruelone.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Cruel Angel Clionel (Angel)",
     "baseCashDrop": 5000,
@@ -3704,6 +4209,7 @@
   {
     "id": "236",
     "dps": 14189,
+    "appearances": null,
     "image": "Screenshot 20190106-124344.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Wrestling Cat (Enemy)",
     "baseCashDrop": 2000,
@@ -3749,6 +4255,7 @@
   {
     "id": "238",
     "dps": 18330,
+    "appearances": null,
     "image": "ThePerfectCycloneBattle.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/The Perfect Cyclone (Floating)",
     "baseCashDrop": 3000,
@@ -3768,6 +4275,7 @@
   {
     "id": "239",
     "dps": 1004,
+    "appearances": null,
     "image": "Gerftgv.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Nyamusu (Enemy)",
     "baseCashDrop": 1500,
@@ -3787,6 +4295,7 @@
   {
     "id": "240",
     "dps": 3200,
+    "appearances": null,
     "image": "Pochi enemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Pochi (Enemy)",
     "baseCashDrop": 500,
@@ -3806,6 +4315,7 @@
   {
     "id": "241",
     "dps": 2903,
+    "appearances": null,
     "image": "Black cat.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Kuromi (Enemy)",
     "baseCashDrop": 150,
@@ -3825,6 +4335,7 @@
   {
     "id": "242",
     "dps": 1208,
+    "appearances": null,
     "image": "Cat2235.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Setsuko (Enemy)",
     "baseCashDrop": 750,
@@ -3844,6 +4355,7 @@
   {
     "id": "243",
     "dps": 724,
+    "appearances": null,
     "image": "Ggggg.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Nebaaru-kun (Enemy)",
     "baseCashDrop": 1000,
@@ -3863,6 +4375,7 @@
   {
     "id": "244",
     "dps": 23133,
+    "appearances": null,
     "image": "ManicMohawk.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Manic Mohawk Cat (Enemy Unit)",
     "baseCashDrop": 1980,
@@ -3882,6 +4395,7 @@
   {
     "id": "245",
     "dps": 20310,
+    "appearances": null,
     "image": "Manic Eraser Cat (Enemy).jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Manic Eraser Cat (Enemy Unit)",
     "baseCashDrop": 2370,
@@ -3901,6 +4415,7 @@
   {
     "id": "246",
     "dps": 12750,
+    "appearances": null,
     "image": "ManicDark enemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Manic Dark Cat (Enemy Unit)",
     "baseCashDrop": 2000,
@@ -3920,6 +4435,7 @@
   {
     "id": "247",
     "dps": 6376,
+    "appearances": null,
     "image": "04.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Manic Macho Legs Cat (Enemy Unit)",
     "baseCashDrop": 810,
@@ -3939,6 +4455,7 @@
   {
     "id": "248",
     "dps": 19800,
+    "appearances": null,
     "image": "05.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Manic Lion Cat (Enemy Unit)",
     "baseCashDrop": 300,
@@ -3958,6 +4475,7 @@
   {
     "id": "249",
     "dps": 5680,
+    "appearances": null,
     "image": "06.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Manic Flying Cat (Enemy Unit)",
     "baseCashDrop": 1999,
@@ -3977,6 +4495,7 @@
   {
     "id": "250",
     "dps": 17000,
+    "appearances": null,
     "image": "Manic island.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Manic Island Cat (Enemy Unit)",
     "baseCashDrop": 520,
@@ -3996,6 +4515,7 @@
   {
     "id": "251",
     "dps": 1775,
+    "appearances": null,
     "image": "ManicKingDragonCat.PNG\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Manic King Dragon Cat (Enemy Unit)",
     "baseCashDrop": 1350,
@@ -4015,6 +4535,7 @@
   {
     "id": "252",
     "dps": 8148,
+    "appearances": null,
     "image": "Crazed jamira Cat.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Manic Jamiera Cat (Enemy Unit)",
     "baseCashDrop": 2125,
@@ -4034,6 +4555,7 @@
   {
     "id": "253",
     "dps": 4180,
+    "appearances": null,
     "image": "Kissandkoicatenemy.PNG\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Kiss and Koi (Enemy)",
     "baseCashDrop": 1500,
@@ -4053,6 +4575,7 @@
   {
     "id": "254",
     "dps": 12705,
+    "appearances": null,
     "image": "Madamthesavannahenemy.PNG\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Madam the Savannah (Enemy)",
     "baseCashDrop": 1500,
@@ -4072,6 +4595,7 @@
   {
     "id": "255",
     "dps": 3232,
+    "appearances": null,
     "image": "Callcentercatenemy.PNG\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Call Center Cat (Enemy)",
     "baseCashDrop": 1800,
@@ -4169,6 +4693,7 @@
   {
     "id": "259",
     "dps": 2676,
+    "appearances": null,
     "image": "WahwahBattleFinalVersion.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/King Wahwah",
     "baseCashDrop": 9999,
@@ -4214,6 +4739,7 @@
   {
     "id": "261",
     "dps": 2181,
+    "appearances": null,
     "image": "Takuyaandbeautyyukienemy.PNG\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Takuya and Lovely Yuki (Enemy)",
     "baseCashDrop": 1980,
@@ -4233,6 +4759,7 @@
   {
     "id": "262",
     "dps": 1859,
+    "appearances": null,
     "image": "Kitecatenemy.PNG\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Kite Cat (Enemy)",
     "baseCashDrop": 1200,
@@ -4278,6 +4805,7 @@
   {
     "id": "264",
     "dps": 11,
+    "appearances": null,
     "image": "Drums Doge.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Drummer Doge (Event Enemy)",
     "baseCashDrop": 1600,
@@ -4297,6 +4825,7 @@
   {
     "id": "265",
     "dps": 3256,
+    "appearances": null,
     "image": "Carny Otta.png‎\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Carny Otta (Event Enemy)",
     "baseCashDrop": 600,
@@ -4316,6 +4845,7 @@
   {
     "id": "266",
     "dps": 18,
+    "appearances": null,
     "image": "funghienemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Funghi (Enemy)",
     "baseCashDrop": 60,
@@ -4335,6 +4865,7 @@
   {
     "id": "267",
     "dps": 19672,
+    "appearances": null,
     "image": "Iron Claw X (enemy).png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Iron Claw X (Enemy)",
     "baseCashDrop": 2200,
@@ -4380,6 +4911,7 @@
   {
     "id": "269",
     "dps": 7152,
+    "appearances": null,
     "image": "Hannya.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Hannya (Red)",
     "baseCashDrop": 4500,
@@ -4399,6 +4931,7 @@
   {
     "id": "270",
     "dps": null,
+    "appearances": null,
     "image": "PackageDoge.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Package Doge (Event Enemy)",
     "baseCashDrop": 1500,
@@ -4418,6 +4951,7 @@
   {
     "id": "271",
     "dps": 33,
+    "appearances": null,
     "image": "Futenyanenemybattle.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Futenyan (Enemy)",
     "baseCashDrop": 300,
@@ -4437,6 +4971,7 @@
   {
     "id": "272",
     "dps": 961,
+    "appearances": null,
     "image": "Rampage Cats (enemy).png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Rampage Cats (Enemy)",
     "baseCashDrop": 800,
@@ -4482,6 +5017,7 @@
   {
     "id": "275",
     "dps": 1859,
+    "appearances": null,
     "image": "gertrud.PNG\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Gertrud (Witch)",
     "baseCashDrop": 1200,
@@ -4501,6 +5037,7 @@
   {
     "id": "276",
     "dps": 3243,
+    "appearances": null,
     "image": "charlottesnake.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Charlotte (Snake) (Witch)",
     "baseCashDrop": 1500,
@@ -4520,6 +5057,7 @@
   {
     "id": "277",
     "dps": 2812,
+    "appearances": null,
     "image": "Charlottedoll.PNG\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Charlotte (Doll) (Witch)",
     "baseCashDrop": 500,
@@ -4539,6 +5077,7 @@
   {
     "id": "278",
     "dps": 13043,
+    "appearances": null,
     "image": "Kirsten.PNG\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Kirsten (Witch)",
     "baseCashDrop": 2000,
@@ -4558,6 +5097,7 @@
   {
     "id": "279",
     "dps": 7947,
+    "appearances": null,
     "image": "Walpurgisnacht.PNG\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Walpurgisnacht (Witch)",
     "baseCashDrop": 8000,
@@ -4577,6 +5117,7 @@
   {
     "id": "281",
     "dps": 5464,
+    "appearances": null,
     "image": "Ritualcatenemy.PNG\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Ritual Cat (Enemy)",
     "baseCashDrop": 1250,
@@ -4622,6 +5163,7 @@
   {
     "id": "283",
     "dps": 45,
+    "appearances": null,
     "image": "tour.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Festival Ms. Sign (Event Enemy)",
     "baseCashDrop": 300,
@@ -4641,6 +5183,7 @@
   {
     "id": "284",
     "dps": 1770,
+    "appearances": null,
     "image": "chickafry.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Chicka Fry (Event Enemy)",
     "baseCashDrop": 480,
@@ -4660,6 +5203,7 @@
   {
     "id": "285",
     "dps": 49261,
+    "appearances": null,
     "image": "Rc283 e.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Scarecrow (Enemy Base)",
     "baseCashDrop": 0,
@@ -4677,242 +5221,9 @@
     "attribute": "Typeless"
   },
   {
-    "id": "286",
-    "dps": 1148,
-    "appearances": [
-      {
-        "section": "SoL",
-        "stageWikiTitle": "Home Sweet Mausoleum",
-        "stageTitle": "Sub-chapter 34 - Home Sweet Mausoleum"
-      }
-    ],
-    "image": "ZogeBattle.jpg\n",
-    "wikiLink": "https://battle-cats.fandom.com/wiki/Zoge (Zombie)",
-    "baseCashDrop": 45,
-    "description": "Doge's late father, buried several years ago.<br>Even the grave couldn't stop him from<br>worrying over his kids' grades. Only showing<br>a report card can put him permanently to rest.",
-    "health": 15000,
-    "damage": 1800,
-    "range": 100,
-    "isSingleTarget": false,
-    "attackFrequency": 47,
-    "attackAnimation": 8,
-    "movementSpeed": 8,
-    "knockbacks": 2,
-    "specialAbility": "[[Special Abilities#Burrow|Burrows]] underground 500 when a Cat enters its range (1 time)<br>[[Special Abilities#Revive|Revives]] with 50% HP after being dead for 240f <sub>8 seconds</sub> (1 time)",
-    "referenceLink": "https://battlecats-db.com/enemy/286.html",
-    "attribute": "Zombie"
-  },
-  {
-    "id": "287",
-    "dps": 1621,
-    "appearances": [
-      {
-        "section": "SoL",
-        "stageWikiTitle": "Swamp of Sacrifice",
-        "stageTitle": "Sub-chapter 34 - Swamp of Sacrifice"
-      }
-    ],
-    "image": "ZnacheBattle.jpg\n",
-    "wikiLink": "https://battle-cats.fandom.com/wiki/Znache (Zombie)",
-    "baseCashDrop": 60,
-    "description": "A slithery creature who uses watercolors for<br>horror makeup (really already dead, though.)<br>The only information you need is that<br>it possesses gruesome area attack powers.",
-    "health": 16000,
-    "damage": 2000,
-    "range": 120,
-    "isSingleTarget": false,
-    "attackFrequency": 37,
-    "attackAnimation": 10,
-    "movementSpeed": 10,
-    "knockbacks": 2,
-    "specialAbility": "[[Special Abilities#Burrow|Burrows]] underground 1,500 after a Cat enters its range (1 time)<br>\n[[Special Abilities#Revive|Revives]] with 50% HP after being dead for 180f <sub>6 seconds</sub> (1 time)",
-    "referenceLink": "https://battlecats-db.com/enemy/287.html",
-    "attribute": "Zombie"
-  },
-  {
-    "id": "288",
-    "dps": 2105,
-    "appearances": [
-      {
-        "section": "SoL",
-        "stageWikiTitle": "Revenant Road",
-        "stageTitle": "Sub-chapter 34 - Revenant Road"
-      }
-    ],
-    "image": "ZomboeBattle.jpg\n",
-    "wikiLink": "https://battle-cats.fandom.com/wiki/Zomboe (Zombie)",
-    "baseCashDrop": 200,
-    "description": "Wandered through a poison bog one<br>gloomy night and later woke up dead.<br>(S)he doesn't seem to mind though.<br>Now we'll never know if it's a he or she.",
-    "health": 40000,
-    "damage": 4000,
-    "range": 180,
-    "isSingleTarget": false,
-    "attackFrequency": 57,
-    "attackAnimation": 28,
-    "movementSpeed": 3,
-    "knockbacks": 1,
-    "specialAbility": "30% chance to [[Special Abilities#Slow|slow]] Cat Units for 120f <sub>4 seconds</sub><br>\n[[Special Abilities#Burrow|Burrows]] underground 625 when a Cat enters its range (1 time)<br>\n[[Special Abilities#Revive|Revives]] with 50% HP after being dead for 360f <sub>12 seconds</sub> (1 time)",
-    "referenceLink": "https://battlecats-db.com/enemy/288.html",
-    "attribute": "Zombie"
-  },
-  {
-    "id": "290",
-    "dps": 8888,
-    "appearances": [
-      {
-        "section": "SoL",
-        "stageWikiTitle": "Swamp of Sacrifice",
-        "stageTitle": "Sub-chapter 34 - Swamp of Sacrifice"
-      }
-    ],
-    "image": "ZackiePengBattle.jpg\n",
-    "wikiLink": "https://battle-cats.fandom.com/wiki/Zackie Peng (Zombie)",
-    "baseCashDrop": 150,
-    "description": "After his debut film bombed, a big hole<br>was all thats left where Peng's heart used<br>to be. Even death by bad reviews won't<br>stop his revenge on ungrateful audiences!",
-    "health": 42000,
-    "damage": 8000,
-    "range": 150,
-    "isSingleTarget": true,
-    "attackFrequency": 27,
-    "attackAnimation": 16,
-    "movementSpeed": 9,
-    "knockbacks": 3,
-    "specialAbility": "[[Special Abilities#Burrow|Burrows]] underground 1,125 when a Cat enters its range (1 time)<br>\n[[Special Abilities#Revive|Revives]] with 50% HP after being dead for 180f <sub>6 seconds</sub> (1 time)",
-    "referenceLink": "https://battlecats-db.com/enemy/290.html",
-    "attribute": "Zombie"
-  },
-  {
-    "id": "291",
-    "dps": 7104,
-    "appearances": [
-      {
-        "section": "SoL",
-        "stageWikiTitle": "Silenced Meowing",
-        "stageTitle": "Sub-chapter 34 - Silenced Meowing"
-      }
-    ],
-    "image": "Zory.png\n",
-    "wikiLink": "https://battle-cats.fandom.com/wiki/Zory (Zombie)",
-    "baseCashDrop": 500,
-    "description": "After being rejected from Heaven thanks to<br>his scary face, Gory now wanders the earth.<br>Someone tore off the top of his head while<br>he gambled, thinking it was a toupee. Ouch.",
-    "health": 50000,
-    "damage": 3789,
-    "range": 165,
-    "isSingleTarget": false,
-    "attackFrequency": 16,
-    "attackAnimation": 8,
-    "movementSpeed": 15,
-    "knockbacks": 2,
-    "specialAbility": "[[Special Abilities#Burrow|Burrows]] underground 625 when a Cat enters its range (1 time)<br>\n[[Special Abilities#Revive|Revives]] with 100% HP after being dead for 360f <sub>12 seconds</sub> (1 time)",
-    "referenceLink": "https://battlecats-db.com/enemy/291.html",
-    "attribute": "Zombie"
-  },
-  {
-    "id": "292",
-    "dps": 6428,
-    "appearances": [
-      {
-        "section": "SoL",
-        "stageWikiTitle": "Revenant Road",
-        "stageTitle": "Sub-chapter 34 - Revenant Road"
-      }
-    ],
-    "image": "Zir Zeal.png\n",
-    "wikiLink": "https://battle-cats.fandom.com/wiki/Zir Zeal (Zombie)",
-    "baseCashDrop": 450,
-    "description": "Through the morning mists, I beheld a Seal<br>He called me to join him in a voice neither<br>living nor dead, beckoning me to join him<br>on the distant shore of an uncanny world...",
-    "health": 75000,
-    "damage": 4500,
-    "range": 170,
-    "isSingleTarget": false,
-    "attackFrequency": 21,
-    "attackAnimation": 6,
-    "movementSpeed": 12,
-    "knockbacks": 2,
-    "specialAbility": "20% chance to [[Special Abilities#Freeze|freeze]] Cat Units for 90f <sub>3 seconds</sub><br>\n[[Special Abilities#Burrow|Burrows]] underground 1,500 when a Cat enters its range (1 time)<br>\n[[Special Abilities#Revive|Revives]] with 50% HP after being dead for 480f <sub>16 seconds</sub> (1 time)",
-    "referenceLink": "https://battlecats-db.com/enemy/292.html",
-    "attribute": "Zombie"
-  },
-  {
-    "id": "293",
-    "dps": 8272,
-    "appearances": [
-      {
-        "section": "SoL",
-        "stageWikiTitle": "Silenced Meowing",
-        "stageTitle": "Sub-chapter 34 - Silenced Meowing"
-      }
-    ],
-    "image": "ZangRoo.jpg\n",
-    "wikiLink": "https://battle-cats.fandom.com/wiki/Zang Roo (Zombie)",
-    "baseCashDrop": 900,
-    "description": "After 50 years as a boxer, her body just<br>couldn't handle the doping anymore.<br>Still, chemicals were effective enough to<br>keep her body punching even after death.",
-    "health": 100000,
-    "damage": 7997,
-    "range": 175,
-    "isSingleTarget": false,
-    "attackFrequency": 29,
-    "attackAnimation": 1,
-    "movementSpeed": 18,
-    "knockbacks": 2,
-    "specialAbility": "[[Special Abilities#Revive|Revives]] with 100% HP after being dead for 240f <sub>8 seconds</sub> (1 time)<br>\n[[Special Abilities#Burrow|Burrows]] underground 1,125 when a Cat enters its range (1 time)<br>\n[[Special Abilities#Multi-Hit|Multi-Hit]] (6,800 at 1f <sup>0.03s</sup>, 400 at 8f <sup>0.27s</sup>, 797 at 16f <sup>0.53s</sup>)",
-    "referenceLink": "https://battlecats-db.com/enemy/293.html",
-    "attribute": "Zombie"
-  },
-  {
-    "id": "294",
-    "dps": 8333,
-    "appearances": [
-      {
-        "section": "SoL",
-        "stageWikiTitle": "Revenant Road",
-        "stageTitle": "Sub-chapter 34 - Revenant Road"
-      }
-    ],
-    "image": "ZrocoBattle.jpg\n",
-    "wikiLink": "https://battle-cats.fandom.com/wiki/Zroco (Zombie)",
-    "baseCashDrop": 90,
-    "description": "A poor gator who died of hunger.<br>Too weak to swim across the River Styx,<br>it came back to this world as a half-baked<br>ghost. Sometimes mistaken for dumbells.",
-    "health": 15000,
-    "damage": 5000,
-    "range": 120,
-    "isSingleTarget": true,
-    "attackFrequency": 18,
-    "attackAnimation": 6,
-    "movementSpeed": 15,
-    "knockbacks": 1,
-    "specialAbility": "30% chance to [[Special Abilities#Weaken|weaken]] Cat Units to 50% for 150f <sub>5 seconds</sub><br>\n[[Special Abilities#Burrow|Burrows]] underground 375 when a Cat enters its range (1 time)<br>\n[[Special Abilities#Revive|Revives]] with 100% HP after being dead for 480f <sub>16 seconds</sub> (1 time)",
-    "referenceLink": "https://battlecats-db.com/enemy/294.html",
-    "attribute": "Zombie"
-  },
-  {
-    "id": "295",
-    "dps": 7500,
-    "appearances": [
-      {
-        "section": "SoL",
-        "stageWikiTitle": "Silenced Meowing",
-        "stageTitle": "Sub-chapter 34 - Silenced Meowing"
-      }
-    ],
-    "image": "Lordgravey.jpg\n",
-    "wikiLink": "https://battle-cats.fandom.com/wiki/Lord Gravey (Zombie)",
-    "baseCashDrop": 2500,
-    "description": "Some squatter has made his home in<br>Zoge's grave! How rude! Whoever<br>this mysterious cadaver is, his will to<br>rock seems to be alive and well.",
-    "health": 750000,
-    "damage": 15000,
-    "range": 250,
-    "isSingleTarget": false,
-    "attackFrequency": 60,
-    "attackAnimation": 22,
-    "movementSpeed": 4,
-    "knockbacks": 2,
-    "specialAbility": "100% chance to [[Special Abilities#Knockback|knockback]] Cat Units <br>[[Special Abilities#Revive|Revives]] at 100% HP after being dead for 120f <sub>4 seconds</sub> (1 time)",
-    "referenceLink": "https://battlecats-db.com/enemy/295.html",
-    "attribute": "Zombie"
-  },
-  {
     "id": "296",
     "dps": 266664,
+    "appearances": null,
     "image": "Zyclone.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Zyclone (Zombie)",
     "baseCashDrop": 3000,
@@ -4932,6 +5243,7 @@
   {
     "id": "297",
     "dps": 10665,
+    "appearances": null,
     "image": "Xmaspuddingcatenemy.PNG\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Xmas Pudding Cat (Enemy)",
     "baseCashDrop": 1800,
@@ -4951,6 +5263,7 @@
   {
     "id": "298",
     "dps": 7518,
+    "appearances": null,
     "image": "Megacatexbattle.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Mega Cat EX (Enemy)",
     "baseCashDrop": 9999,
@@ -4970,6 +5283,7 @@
   {
     "id": "299",
     "dps": null,
+    "appearances": null,
     "image": "4th cake.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/4th Anniversary Birthday Cake (Event Enemy)",
     "baseCashDrop": 4,
@@ -4989,6 +5303,7 @@
   {
     "id": "300",
     "dps": 46224,
+    "appearances": null,
     "image": "E 298.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Niconico TV (Enemy Base)",
     "baseCashDrop": 0,
@@ -5008,6 +5323,7 @@
   {
     "id": "301",
     "dps": 55,
+    "appearances": null,
     "image": "W_form_1.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/W (form 1) (Enemy)",
     "baseCashDrop": 10,
@@ -5027,6 +5343,7 @@
   {
     "id": "302",
     "dps": 55,
+    "appearances": null,
     "image": "W_form_2.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/W (form 2) (Enemy)",
     "baseCashDrop": 10,
@@ -5046,6 +5363,7 @@
   {
     "id": "303",
     "dps": 55,
+    "appearances": null,
     "image": "W_form_3.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/W (form 3) (Enemy)",
     "baseCashDrop": 10,
@@ -5065,6 +5383,7 @@
   {
     "id": "304",
     "dps": 540,
+    "appearances": null,
     "image": "Nekohasakeenemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Neko Hakase (Enemy)",
     "baseCashDrop": 450,
@@ -5080,32 +5399,6 @@
     "specialAbility": "20% chance to perform a [[Critical Hit]]",
     "referenceLink": "https://battlecats-db.com/enemy/304.html",
     "attribute": "Traitless"
-  },
-  {
-    "id": "305",
-    "dps": 12500,
-    "appearances": [
-      {
-        "section": "SoL",
-        "stageWikiTitle": "The Haunted 1LDK",
-        "stageTitle": "Sub-Chapter 36 - The Haunted 1LDK"
-      }
-    ],
-    "image": "Misshaka.jpg\n",
-    "wikiLink": "https://battle-cats.fandom.com/wiki/Miss Haka (Zombie)",
-    "baseCashDrop": 2500,
-    "description": "Zoge's wife was supposed to be<br>buried here, but she's still alive at<br>158 and it seems like someone<br>else took over the open real estate.",
-    "health": 720000,
-    "damage": 25000,
-    "range": 150,
-    "isSingleTarget": false,
-    "attackFrequency": 60,
-    "attackAnimation": 22,
-    "movementSpeed": 4,
-    "knockbacks": 24,
-    "specialAbility": "[[Special Abilities#Burrow|Burrows]] underground 500 when a Cat enters its range (unlimited)<br>\n[[Special Abilities#Revive|Revives]] with 100% HP after being dead for 240f <sub>4 seconds</sub> (1 time)",
-    "referenceLink": "https://battlecats-db.com/enemy/305.html",
-    "attribute": "Zombie"
   },
   {
     "id": "306",
@@ -5136,6 +5429,7 @@
   {
     "id": "307",
     "dps": 6912,
+    "appearances": null,
     "image": "Pikotaro enemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Pikotaro (Enemy)",
     "baseCashDrop": 5000,
@@ -5155,6 +5449,7 @@
   {
     "id": "308",
     "dps": 581,
+    "appearances": null,
     "image": "Mammothe.PNG\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Mammothe (Event Enemy)",
     "baseCashDrop": 1600,
@@ -5174,6 +5469,7 @@
   {
     "id": "309",
     "dps": 206,
+    "appearances": null,
     "image": "IcyDogeBattle.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Icy Doge (Event Enemy)",
     "baseCashDrop": 360,
@@ -5193,6 +5489,7 @@
   {
     "id": "310",
     "dps": 1,
+    "appearances": null,
     "image": "SnowballBattle.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Snowball (Event Enemy)",
     "baseCashDrop": 1,
@@ -5264,6 +5561,7 @@
   {
     "id": "313",
     "dps": 194,
+    "appearances": null,
     "image": "Enemykillercat.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Killer Cat (Enemy)",
     "baseCashDrop": 100,
@@ -5283,6 +5581,7 @@
   {
     "id": "314",
     "dps": 3,
+    "appearances": null,
     "image": "Rc312 e.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Corrupted Cat Base (Enemy Base)",
     "baseCashDrop": 0,
@@ -5302,6 +5601,7 @@
   {
     "id": "316",
     "dps": 545,
+    "appearances": null,
     "image": "Nazousagi enemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Nazousagi (Enemy)",
     "baseCashDrop": 500,
@@ -5373,6 +5673,7 @@
   {
     "id": "319",
     "dps": 2307,
+    "appearances": null,
     "image": "Daboo of the Dead.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Daboo of the Dead (Zombie)",
     "baseCashDrop": 4444,
@@ -5418,6 +5719,7 @@
   {
     "id": "321",
     "dps": 990,
+    "appearances": null,
     "image": "Mobiusenemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Mobius (Enemy)",
     "baseCashDrop": 3000,
@@ -5437,6 +5739,7 @@
   {
     "id": "322",
     "dps": 991,
+    "appearances": null,
     "image": "BelialEnemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Belial (Enemy)",
     "baseCashDrop": 900,
@@ -5456,6 +5759,7 @@
   {
     "id": "323",
     "dps": 480,
+    "appearances": null,
     "image": "Happy100Enemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Happy 100 (Enemy)",
     "baseCashDrop": 200,
@@ -5475,6 +5779,7 @@
   {
     "id": "324",
     "dps": 18133,
+    "appearances": null,
     "image": "Lilmohawkcat.PNG\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Li'l Mohawk Cat (Enemy)",
     "baseCashDrop": 1980,
@@ -5494,6 +5799,7 @@
   {
     "id": "325",
     "dps": 15915,
+    "appearances": null,
     "image": "Li'l Eraser Cat.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Li'l Eraser Cat (Enemy)",
     "baseCashDrop": 2370,
@@ -5513,6 +5819,7 @@
   {
     "id": "326",
     "dps": 10312,
+    "appearances": null,
     "image": "Li'l dark cat-0.PNG\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Li'l Dark Cat (Enemy)",
     "baseCashDrop": 2000,
@@ -5532,6 +5839,7 @@
   {
     "id": "327",
     "dps": 3993,
+    "appearances": null,
     "image": "Li'l Macho Legs (Enemy).jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Li'l Macho Legs Cat (Enemy)",
     "baseCashDrop": 810,
@@ -5551,6 +5859,7 @@
   {
     "id": "328",
     "dps": 17700,
+    "appearances": null,
     "image": "Li'l Lion Cat (Enemy).jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Li'l Lion Cat (Enemy)",
     "baseCashDrop": 300,
@@ -5570,6 +5879,7 @@
   {
     "id": "329",
     "dps": 3952,
+    "appearances": null,
     "image": "Li'l Flying Cat (Enemy).jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Li'l Flying Cat (Enemy)",
     "baseCashDrop": 1999,
@@ -5589,6 +5899,7 @@
   {
     "id": "330",
     "dps": 8689,
+    "appearances": null,
     "image": "LilIslandCatTF.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Li'l Island Cat (Enemy)",
     "baseCashDrop": 320,
@@ -5608,6 +5919,7 @@
   {
     "id": "331",
     "dps": 2234,
+    "appearances": null,
     "image": "kingdragon.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Li'l King Dragon Cat (Enemy)",
     "baseCashDrop": 1350,
@@ -5627,6 +5939,7 @@
   {
     "id": "332",
     "dps": 4675,
+    "appearances": null,
     "image": "LilJamieraCat enemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Li'l Jamiera Cat (Enemy)",
     "baseCashDrop": 2125,
@@ -5646,6 +5959,7 @@
   {
     "id": "336",
     "dps": 861,
+    "appearances": null,
     "image": "WeddingKerihime.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Wedding Kerihime (Enemy)",
     "baseCashDrop": 3000,
@@ -5665,6 +5979,7 @@
   {
     "id": "337",
     "dps": 4180,
+    "appearances": null,
     "image": "Sleeping boss.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Eternal Sleeping Beauty (Enemy)",
     "baseCashDrop": 2600,
@@ -5684,6 +5999,7 @@
   {
     "id": "340",
     "dps": 4235,
+    "appearances": null,
     "image": "Golden R.Ost.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Golden R.Ost (Event Enemy)",
     "baseCashDrop": 540,
@@ -5729,6 +6045,7 @@
   {
     "id": "343",
     "dps": 401,
+    "appearances": null,
     "image": "Sluggy-0.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Sluggy (Red)",
     "baseCashDrop": 200,
@@ -5748,6 +6065,7 @@
   {
     "id": "345",
     "dps": 1500,
+    "appearances": null,
     "image": "Whyarewestillhere.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Sluggy (Angel)",
     "baseCashDrop": 800,
@@ -5767,6 +6085,7 @@
   {
     "id": "348",
     "dps": 2830,
+    "appearances": null,
     "image": "Mercenemy.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Merc & Cat CC (Enemy)",
     "baseCashDrop": 190,
@@ -5786,6 +6105,7 @@
   {
     "id": "349",
     "dps": 7043,
+    "appearances": null,
     "image": "Titi Cat CC.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Titi Cat CC (Enemy)",
     "baseCashDrop": 1600,
@@ -5805,6 +6125,7 @@
   {
     "id": "351",
     "dps": 197,
+    "appearances": null,
     "image": "Misheriaenemy.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Michelia (Enemy)",
     "baseCashDrop": 750,
@@ -5824,6 +6145,7 @@
   {
     "id": "352",
     "dps": 2242,
+    "appearances": null,
     "image": "Okjuj.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Todomeki (Enemy)",
     "baseCashDrop": 1250,
@@ -5843,6 +6165,7 @@
   {
     "id": "353",
     "dps": 406,
+    "appearances": null,
     "image": "Gudetama Plate.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Gudetama Plate (Enemy)",
     "baseCashDrop": 150,
@@ -5862,6 +6185,7 @@
   {
     "id": "354",
     "dps": 412,
+    "appearances": null,
     "image": "La mode.jpeg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Gudegude à la mode (Enemy)",
     "baseCashDrop": 450,
@@ -5881,6 +6205,7 @@
   {
     "id": "355",
     "dps": 1785,
+    "appearances": null,
     "image": "NisetamaArmy2.jpeg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Nisetama Army (Enemy)",
     "baseCashDrop": 900,
@@ -5900,6 +6225,7 @@
   {
     "id": "356",
     "dps": 25316,
+    "appearances": null,
     "image": "Hermitcat.PNG\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Hermit Cat (Enemy Unit)",
     "baseCashDrop": 2222,
@@ -5945,6 +6271,7 @@
   {
     "id": "358",
     "dps": 2812,
+    "appearances": null,
     "image": "SummerGory.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Gory Junior (Event Enemy)",
     "baseCashDrop": 450,
@@ -5964,6 +6291,7 @@
   {
     "id": "360",
     "dps": 310,
+    "appearances": null,
     "image": "Steel Snache.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Steel Snake (Event Enemy)",
     "baseCashDrop": 200,
@@ -5983,6 +6311,7 @@
   {
     "id": "361",
     "dps": 947,
+    "appearances": null,
     "image": "Metal sloth.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Mercury Sloth (Event Enemy)",
     "baseCashDrop": 900,
@@ -6003,6 +6332,11 @@
     "id": "367",
     "dps": 36,
     "appearances": [
+      {
+        "section": "CotC",
+        "stageWikiTitle": "Deneb (Cats of the Cosmos)",
+        "stageTitle": "Chapter 1 - Deneb"
+      },
       {
         "section": "SoL",
         "stageWikiTitle": "Eat the Weak",
@@ -6028,6 +6362,7 @@
   {
     "id": "370",
     "dps": 3428,
+    "appearances": null,
     "image": "Saber.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Saber (Enemy)",
     "baseCashDrop": 1500,
@@ -6047,6 +6382,7 @@
   {
     "id": "371",
     "dps": 769,
+    "appearances": null,
     "image": "Lancer.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Lancer (Enemy)",
     "baseCashDrop": 1600,
@@ -6066,6 +6402,7 @@
   {
     "id": "372",
     "dps": 915,
+    "appearances": null,
     "image": "archerfate.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Archer (Enemy)",
     "baseCashDrop": 1800,
@@ -6085,6 +6422,7 @@
   {
     "id": "373",
     "dps": 1065,
+    "appearances": null,
     "image": "rider.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Rider (Enemy)",
     "baseCashDrop": 1500,
@@ -6104,6 +6442,7 @@
   {
     "id": "374",
     "dps": 4054,
+    "appearances": null,
     "image": "gilgamesh.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Gilgamesh (Enemy)",
     "baseCashDrop": 4000,
@@ -6123,6 +6462,7 @@
   {
     "id": "375",
     "dps": 867,
+    "appearances": null,
     "image": "tousaka.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Rin Tohsaka (Enemy)",
     "baseCashDrop": 2250,
@@ -6168,6 +6508,7 @@
   {
     "id": "382",
     "dps": 12295,
+    "appearances": null,
     "image": "Yasked Mulala.PNG\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Mystic Mask Yulala (Enemy Unit)",
     "baseCashDrop": 3000,
@@ -6187,6 +6528,7 @@
   {
     "id": "383",
     "dps": 1782,
+    "appearances": null,
     "image": "powerpro4.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Karin Nekozuka (Enemy)",
     "baseCashDrop": 1600,
@@ -6206,6 +6548,7 @@
   {
     "id": "384",
     "dps": 9230,
+    "appearances": null,
     "image": "powerpro2.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Misaki Konno (Enemy)",
     "baseCashDrop": 1400,
@@ -6225,6 +6568,7 @@
   {
     "id": "385",
     "dps": 2181,
+    "appearances": null,
     "image": "powerpro1.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Sairi Nijitani (Enemy)",
     "baseCashDrop": 1800,
@@ -6244,6 +6588,7 @@
   {
     "id": "386",
     "dps": 4218,
+    "appearances": null,
     "image": "powerpro3.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Ren Katagiri (Enemy)",
     "baseCashDrop": 1500,
@@ -6263,6 +6608,7 @@
   {
     "id": "387",
     "dps": 2678,
+    "appearances": null,
     "image": "Hater.jpeg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Hater (Enemy)",
     "baseCashDrop": 150,
@@ -6308,6 +6654,7 @@
   {
     "id": "391",
     "dps": 937,
+    "appearances": null,
     "image": "Piggetorious.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Pigge Victorious (Event Enemy)",
     "baseCashDrop": 250,
@@ -6327,6 +6674,7 @@
   {
     "id": "392",
     "dps": 3515,
+    "appearances": null,
     "image": "SailorMachineGun.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Bang-Bang (Event Enemy)",
     "baseCashDrop": 1000,
@@ -6346,6 +6694,7 @@
   {
     "id": "393",
     "dps": 120,
+    "appearances": null,
     "image": "mentorienemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Mentori (Enemy)",
     "baseCashDrop": 450,
@@ -6365,6 +6714,7 @@
   {
     "id": "398",
     "dps": 9944,
+    "appearances": null,
     "image": "crazedmonekoenemy1.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Crazed Moneko (Enemy)",
     "baseCashDrop": 999,
@@ -6384,6 +6734,7 @@
   {
     "id": "399",
     "dps": 9944,
+    "appearances": null,
     "image": "crazedmonekoenemy2.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Corrupted Moneko (Enemy)",
     "baseCashDrop": 999,
@@ -6403,6 +6754,7 @@
   {
     "id": "401",
     "dps": 2000,
+    "appearances": null,
     "image": "pokoenemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Pokota (Enemy)",
     "baseCashDrop": 550,
@@ -6422,6 +6774,7 @@
   {
     "id": "402",
     "dps": 1111,
+    "appearances": null,
     "image": "ovisenemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Ovis (Enemy)",
     "baseCashDrop": 750,
@@ -6441,6 +6794,7 @@
   {
     "id": "403",
     "dps": 3092,
+    "appearances": null,
     "image": "cocoenemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Coco (Enemy)",
     "baseCashDrop": 1000,
@@ -6460,6 +6814,7 @@
   {
     "id": "404",
     "dps": 426,
+    "appearances": null,
     "image": "moeuzumasa.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Moe Uzumasa & Doge (Enemy)",
     "baseCashDrop": 800,
@@ -6479,6 +6834,7 @@
   {
     "id": "405",
     "dps": 1621,
+    "appearances": null,
     "image": "sakimatsuga.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Saki Matsuga & Doge (Enemy)",
     "baseCashDrop": 800,
@@ -6498,6 +6854,7 @@
   {
     "id": "406",
     "dps": 714,
+    "appearances": null,
     "image": "misaono.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Misa Ono & Doge (Enemy)",
     "baseCashDrop": 800,
@@ -6571,6 +6928,11 @@
     "dps": 8571,
     "appearances": [
       {
+        "section": "SoL",
+        "stageWikiTitle": "Eldritch Forces/Invasion",
+        "stageTitle": "Sub-chapter 49 - Eldritch Forces Invasion"
+      },
+      {
         "section": "UL",
         "stageWikiTitle": "An Ancient Curse",
         "stageTitle": "Sub-chapter 1 - An Ancient Curse"
@@ -6595,6 +6957,7 @@
   {
     "id": "410",
     "dps": 1227,
+    "appearances": null,
     "image": "crazedyukienemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Crazed Yuki (Enemy)",
     "baseCashDrop": 2222,
@@ -6614,6 +6977,7 @@
   {
     "id": "411",
     "dps": 4044,
+    "appearances": null,
     "image": "Gude-doge Machine.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Gude-Doge Machine (Enemy)",
     "baseCashDrop": 3000,
@@ -6633,6 +6997,7 @@
   {
     "id": "412",
     "dps": 3529,
+    "appearances": null,
     "image": "gudetamatrueformenemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Gudebene Cat (Enemy)",
     "baseCashDrop": 500,
@@ -6678,6 +7043,7 @@
   {
     "id": "415",
     "dps": 30000,
+    "appearances": null,
     "image": "Oldhorn.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Oldhorn (Relic)",
     "baseCashDrop": 1000,
@@ -6723,6 +7089,7 @@
   {
     "id": "418",
     "dps": 6585,
+    "appearances": null,
     "image": "Selena.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Selena (Event Enemy)",
     "baseCashDrop": 1800,
@@ -6743,6 +7110,11 @@
     "id": "419",
     "dps": 3,
     "appearances": [
+      {
+        "section": "CotC",
+        "stageWikiTitle": "Triton (Cats of the Cosmos)",
+        "stageTitle": "Chapter 2 - Triton"
+      },
       {
         "section": "UL",
         "stageWikiTitle": "Escolar Coast",
@@ -6768,6 +7140,7 @@
   {
     "id": "421",
     "dps": 5087,
+    "appearances": null,
     "image": "E 421.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Cat God (Cool Dude)",
     "baseCashDrop": 6000,
@@ -6813,6 +7186,7 @@
   {
     "id": "423",
     "dps": 7200,
+    "appearances": null,
     "image": "Le'saint.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Le'saint (Event Enemy)",
     "baseCashDrop": 4590,
@@ -6832,6 +7206,7 @@
   {
     "id": "424",
     "dps": 3666,
+    "appearances": null,
     "image": "The Red Malice.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/The Red Malice (Event Enemy)",
     "baseCashDrop": 2000,
@@ -6903,6 +7278,7 @@
   {
     "id": "427",
     "dps": 1224,
+    "appearances": null,
     "image": "Donny Dash.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Dead Donny Dash (Event Enemy)",
     "baseCashDrop": 1000,
@@ -6922,6 +7298,7 @@
   {
     "id": "428",
     "dps": 2555,
+    "appearances": null,
     "image": "CTO Seal.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/CTO Seal (Event Enemy)",
     "baseCashDrop": 600,
@@ -6939,60 +7316,9 @@
     "attribute": "Red"
   },
   {
-    "id": "429",
-    "dps": 7894,
-    "appearances": [
-      {
-        "section": "UL",
-        "stageWikiTitle": "Panic Tower",
-        "stageTitle": "Sub-chapter 8 - Panic Tower"
-      }
-    ],
-    "image": "Zombie Teacher Bear.PNG\n",
-    "wikiLink": "https://battle-cats.fandom.com/wiki/Cadaver Bear (Zombie)",
-    "baseCashDrop": 1000,
-    "description": "Made up of the strongest parts from several<br>expired [[Teacher Bear]]s. The head wouldn't<br>sit right, so it had to be bolted on.<br>Urge to kill seems to be growing...",
-    "health": 120000,
-    "damage": 5000,
-    "range": 360,
-    "isSingleTarget": false,
-    "attackFrequency": 19,
-    "attackAnimation": 6,
-    "movementSpeed": 10,
-    "knockbacks": 4,
-    "specialAbility": "[[Special Abilities#Burrow|Burrows]] underground for 1,125 after a Cat enters its range (1 time)<br>[[Special Abilities#Revive|Revives]] with 100% HP after being dead for 360f <sub>12 seconds</sub> (1 time)",
-    "referenceLink": "https://battlecats-db.com/enemy/429.html",
-    "attribute": "Zombie"
-  },
-  {
-    "id": "430",
-    "dps": 12272,
-    "appearances": [
-      {
-        "section": "UL",
-        "stageWikiTitle": "Morbid Mesa",
-        "stageTitle": "Sub-chapter 8 - Morbid Mesa"
-      }
-    ],
-    "image": "Dread Bore.jpg\n",
-    "wikiLink": "https://battle-cats.fandom.com/wiki/Dread Bore (Zombie)",
-    "baseCashDrop": 1800,
-    "description": "Thanks to a tragic accident with a perm<br>machine, this piggy both gained a stylish set<br>of dreadlocks... and became an ex-Bore.<br>Talk about a sudden image change.",
-    "health": 400000,
-    "damage": 4500,
-    "range": 130,
-    "isSingleTarget": false,
-    "attackFrequency": 11,
-    "attackAnimation": 8,
-    "movementSpeed": 22,
-    "knockbacks": 2,
-    "specialAbility": "[[Special Abilities#Burrow|Burrows]] underground 1125 after a Cat enters its range (1 time)<br>[[Special Abilities#Revives|Revives]] with 50% HP after being dead for 150f <sub>5 seconds</sub>(1 time)",
-    "referenceLink": "https://battlecats-db.com/enemy/430.html",
-    "attribute": "Zombie"
-  },
-  {
     "id": "433",
     "dps": 3529,
+    "appearances": null,
     "image": "Bakoo.PNG\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Bakoo (Black)",
     "baseCashDrop": 1000,
@@ -7012,6 +7338,7 @@
   {
     "id": "434",
     "dps": 110,
+    "appearances": null,
     "image": "Hikakin enemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Hikakin (Enemy)",
     "baseCashDrop": 2000,
@@ -7031,6 +7358,7 @@
   {
     "id": "435",
     "dps": 77,
+    "appearances": null,
     "image": "Mukyakin enemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Mukyakin (Enemy)",
     "baseCashDrop": 3000,
@@ -7050,6 +7378,7 @@
   {
     "id": "436",
     "dps": 2727,
+    "appearances": null,
     "image": "Sister lione.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Sister Lione (Event Enemy)",
     "baseCashDrop": 1500,
@@ -7069,6 +7398,7 @@
   {
     "id": "439",
     "dps": 14400,
+    "appearances": null,
     "image": "Lucky Dags.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Lucky Dags (Event Enemy)",
     "baseCashDrop": 300,
@@ -7088,6 +7418,7 @@
   {
     "id": "440",
     "dps": 38885,
+    "appearances": null,
     "image": "Reliccyclone.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Primeval Cyclone (Relic)",
     "baseCashDrop": 3000,
@@ -7107,6 +7438,7 @@
   {
     "id": "441",
     "dps": 21,
+    "appearances": null,
     "image": "Li'lborenewyears.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Li'l Bore (Event Enemy)",
     "baseCashDrop": 210,
@@ -7126,6 +7458,7 @@
   {
     "id": "443",
     "dps": 3478,
+    "appearances": null,
     "image": "Saberalterbattle.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Saber Alter (Enemy)",
     "baseCashDrop": 3000,
@@ -7145,6 +7478,7 @@
   {
     "id": "444",
     "dps": 605,
+    "appearances": null,
     "image": "MsMadonna.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Ms. Madonna (Event Enemy)",
     "baseCashDrop": 2000,
@@ -7164,6 +7498,7 @@
   {
     "id": "448",
     "dps": 4944,
+    "appearances": null,
     "image": "Screenshot (7).png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Final Boss Giga-God (Cool Dude)",
     "baseCashDrop": 6000,
@@ -7183,6 +7518,7 @@
   {
     "id": "449",
     "dps": 22205,
+    "appearances": null,
     "image": "Filibusterobstructa.PNG\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Filibuster Obstructa (Alien/Floating)",
     "baseCashDrop": 6000,
@@ -7202,6 +7538,7 @@
   {
     "id": "451",
     "dps": 14464,
+    "appearances": null,
     "image": "2sdDsNH.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/HaterBaa 2.0 (Event Enemy)",
     "baseCashDrop": 160,
@@ -7221,6 +7558,7 @@
   {
     "id": "452",
     "dps": 3139,
+    "appearances": null,
     "image": "Dogumaru.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Dogumaru (Relic)",
     "baseCashDrop": 3000,
@@ -7240,6 +7578,7 @@
   {
     "id": "454",
     "dps": 1153,
+    "appearances": null,
     "image": "Lol ok.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Super Devil (Enemy)",
     "baseCashDrop": 2000,
@@ -7259,6 +7598,7 @@
   {
     "id": "455",
     "dps": 1562,
+    "appearances": null,
     "image": "Suc.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Satanmaria (Enemy)",
     "baseCashDrop": 1500,
@@ -7278,6 +7618,7 @@
   {
     "id": "457",
     "dps": 2580,
+    "appearances": null,
     "image": "Twitter in a nutshell.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Beastly Nero (Enemy)",
     "baseCashDrop": 1000,
@@ -7297,6 +7638,7 @@
   {
     "id": "459",
     "dps": null,
+    "appearances": null,
     "image": "2019 05 20 18 02 16.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Gummy Cat (Enemy)",
     "baseCashDrop": 100,
@@ -7316,6 +7658,7 @@
   {
     "id": "460",
     "dps": 376,
+    "appearances": null,
     "image": "Kitaro enemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Kitarou (Enemy)",
     "baseCashDrop": 1000,
@@ -7335,6 +7678,7 @@
   {
     "id": "461",
     "dps": 289,
+    "appearances": null,
     "image": "Eyeball father enemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Medama-Oyaji (Enemy)",
     "baseCashDrop": 1000,
@@ -7354,6 +7698,7 @@
   {
     "id": "462",
     "dps": 1071,
+    "appearances": null,
     "image": "Neko-musume enemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Neko-Musume (Enemy)",
     "baseCashDrop": 1000,
@@ -7373,6 +7718,7 @@
   {
     "id": "464",
     "dps": 7083,
+    "appearances": null,
     "image": "Gekirinchii enemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Gekirinchii (Enemy)",
     "baseCashDrop": 750,
@@ -7392,6 +7738,7 @@
   {
     "id": "465",
     "dps": 2096,
+    "appearances": null,
     "image": "Judgement enemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Judgement (Enemy)",
     "baseCashDrop": 500,
@@ -7411,6 +7758,7 @@
   {
     "id": "466",
     "dps": 24590,
+    "appearances": null,
     "image": "AEU13.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Awakened Eva Unit-13 (Eva Angel)",
     "baseCashDrop": 10000,
@@ -7426,58 +7774,6 @@
     "specialAbility": "100% chance to [[Special Abilities#Knockback|knockback]] Cat Units<br>\n100% chance to [[Special Abilities#Freeze|freeze]] Cat Units for 150f <sub>5 seconds</sub><br>\n100% chance to [[Special Abilities#Weaken|weaken]] Cat Units to 50% for 750f <sub>25 seconds</sub><br>\n[[Special Abilities#Strengthen|Strengthens]] by 100% at 50% health<br>\n[[Special Abilities#Omni Strike|Omni Strike]] (Effective Range: -3600~1200)<br>\n[[Special Abilities#Immune to Waves|Immune to Waves]], [[Special Abilities#Immune to Knockback|Knockback]], [[Special Abilities#Immune to Slow|Slow]], [[Special Abilities#Immune to Freeze|Freeze]] and [[Special Abilities#Immune to Weaken|Weaken]]",
     "referenceLink": "https://battlecats-db.com/enemy/466.html",
     "attribute": "Eva Angel"
-  },
-  {
-    "id": "470",
-    "dps": 19615,
-    "appearances": [
-      {
-        "section": "UL",
-        "stageWikiTitle": "Steamworks Ltd.",
-        "stageTitle": "Sub-chapter 17 - Steamworks Ltd."
-      }
-    ],
-    "image": "Zombieduche.PNG\n",
-    "wikiLink": "https://battle-cats.fandom.com/wiki/Zuche (Zombie)",
-    "baseCashDrop": 200,
-    "description": "A mad scientist set his tail on fire<br>to test the limits of fowl power.<br>Panic has given him the<br>strength he needs to fly to heaven.",
-    "health": 17500,
-    "damage": 17000,
-    "range": 120,
-    "isSingleTarget": false,
-    "attackFrequency": 26,
-    "attackAnimation": 4,
-    "movementSpeed": 30,
-    "knockbacks": 1,
-    "specialAbility": "[[Special Abilities#Burrow|Burrows]] underground 875 after a Cat enters its range (1 time)<br>\n[[Special Abilities#Revive|Revives]] with 100% HP after being dead for 600f <sub>20 seconds</sub> (1 time)<br>\n[[Special Abilities#Multi-Hit|Multi-Hit]] (8,500 at 4f <sup>0.13s</sup>, 8,500 at 13f <sup>0.43s</sup>)",
-    "referenceLink": "https://battlecats-db.com/enemy/470.html",
-    "attribute": "Zombie"
-  },
-  {
-    "id": "471",
-    "dps": 5131,
-    "appearances": [
-      {
-        "section": "UL",
-        "stageWikiTitle": "Standing Sauna",
-        "stageTitle": "Sub-chapter 17 - Standing Sauna"
-      }
-    ],
-    "image": "Thosezombies.PNG\n",
-    "wikiLink": "https://battle-cats.fandom.com/wiki/The Thrillerz (Zombie)",
-    "baseCashDrop": 75,
-    "description": "The guys are never alone in life or in death.<br>Luckily there was a shuttle bus service<br>from the cemetery to the battlefield.<br>Undeath doesn't cure codependency...",
-    "health": 10000,
-    "damage": 6500,
-    "range": 110,
-    "isSingleTarget": true,
-    "attackFrequency": 38,
-    "attackAnimation": 10,
-    "movementSpeed": 18,
-    "knockbacks": 1,
-    "specialAbility": "[[Special Abilities#Burrow|Burrows]] underground 500 after a Cat enters its range (2 times)<br>\n[[Special Abilities#Revive|Revives]] with 100% HP after being dead for 240f <sub>8 seconds</sub> (1 time)",
-    "referenceLink": "https://battlecats-db.com/enemy/471.html",
-    "attribute": "Zombie"
   },
   {
     "id": "479",
@@ -7508,6 +7804,7 @@
   {
     "id": "480",
     "dps": null,
+    "appearances": null,
     "image": "Cat day cake.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Cat Day Cake (Event Enemy)",
     "baseCashDrop": 4,
@@ -7527,6 +7824,7 @@
   {
     "id": "490",
     "dps": 27457,
+    "appearances": null,
     "image": "Akumaenemy.jpg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Akuma (Enemy)",
     "baseCashDrop": 1000,
@@ -7546,6 +7844,7 @@
   {
     "id": "493",
     "dps": 11428,
+    "appearances": null,
     "image": "[[File:Blackhannya.PNG]]\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Black Okame (Red/Black)",
     "baseCashDrop": 4500,
@@ -7565,6 +7864,7 @@
   {
     "id": "494",
     "dps": 545,
+    "appearances": null,
     "image": "Saintpopa.PNG\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Heavenly Herald Papuu (Angel)",
     "baseCashDrop": 4444,
@@ -7582,27 +7882,9 @@
     "attribute": "Angel"
   },
   {
-    "id": "495",
-    "dps": 4606,
-    "image": "Relicqueenb.PNG\n",
-    "wikiLink": "https://battle-cats.fandom.com/wiki/Queen Mother V (Relic/Floating)",
-    "baseCashDrop": 6666,
-    "description": "Queen of the stage who started as a mere<br>backup dancer 888 years ago. Beloved by<br>the whole hive even in her old age. Some<br>drones even say she's the one true ruler...!",
-    "health": 1555555,
-    "damage": 18888,
-    "range": 999,
-    "isSingleTarget": false,
-    "attackFrequency": 123,
-    "attackAnimation": 36,
-    "movementSpeed": 4,
-    "knockbacks": 8,
-    "specialAbility": "[[Special Abilities#Long Distance|Long Distance]] (Effective Range: 888~1,332)<br>\n100% chance to [[curse]] Cat Units for 3,333f <sub>111.1 seconds</sub>",
-    "referenceLink": "https://battlecats-db.com/enemy/495.html",
-    "attribute": "Relic/Floating"
-  },
-  {
     "id": "497",
     "dps": 14430,
+    "appearances": null,
     "image": "Kappajr.PNG\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Kappy Jr.",
     "baseCashDrop": 1800,
@@ -7622,6 +7904,7 @@
   {
     "id": "498",
     "dps": 6730,
+    "appearances": null,
     "image": "Relicurz.PNG\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Urs & Fenrir (Relic)",
     "baseCashDrop": 1400,
@@ -7641,6 +7924,7 @@
   {
     "id": "499",
     "dps": 510,
+    "appearances": null,
     "image": "Metal croco.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Croconator (Metal)",
     "baseCashDrop": 150,
@@ -7686,6 +7970,7 @@
   {
     "id": "501",
     "dps": 321,
+    "appearances": null,
     "image": "Baronsealjungle.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Baron Seal (Red) (Colossal)",
     "baseCashDrop": 2500,
@@ -7705,6 +7990,7 @@
   {
     "id": "509",
     "dps": 991,
+    "appearances": null,
     "image": "Messier.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Messier (Enemy)",
     "baseCashDrop": 1500,
@@ -7724,6 +8010,7 @@
   {
     "id": "510",
     "dps": 61,
+    "appearances": null,
     "image": "Ramen but flies.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Yakisoba U.F.O. Cat (Enemy)",
     "baseCashDrop": 200,
@@ -7743,6 +8030,7 @@
   {
     "id": "512",
     "dps": 324,
+    "appearances": null,
     "image": "Baron leboin.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Le'Grim (Black) (Colossal)",
     "baseCashDrop": 1300,
@@ -7762,6 +8050,7 @@
   {
     "id": "513",
     "dps": 6206,
+    "appearances": null,
     "image": "Zombieclionel.PNG\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Death Angel Z-Onel (Zombie)",
     "baseCashDrop": 1111,
@@ -7776,32 +8065,6 @@
     "knockbacks": 4,
     "specialAbility": "100% chance to [[Special Abilities#Freeze|freeze]] [[Cat Units]] for 30f <sub>1 second</sub><br>[[Special Abilities#Long Distance|Long Distance]] (Effective Range: 450~1,300)<br>[[Special Abilities#Revive|Revives]] with 50% HP after being dead for 15f <sub>0.5 seconds</sub> (unlimited)",
     "referenceLink": "https://battlecats-db.com/enemy/513.html",
-    "attribute": "Zombie"
-  },
-  {
-    "id": "514",
-    "dps": 1997,
-    "appearances": [
-      {
-        "section": "UL",
-        "stageWikiTitle": "Anaerobic Cycling",
-        "stageTitle": "Sub-chapter 25 - Anaerobic Cycling"
-      }
-    ],
-    "image": "Lilzyclone.png\n",
-    "wikiLink": "https://battle-cats.fandom.com/wiki/Li'l Zyclone (Zombie)",
-    "baseCashDrop": 300,
-    "description": "Beloved nephew of childless uncle Zyclone.<br>Has his mother's toughness and father's timid<br>spirit, combining them into a hungry little storm<br>who hides at the first sign of danger.",
-    "health": 333333,
-    "damage": 333,
-    "range": 100,
-    "isSingleTarget": false,
-    "attackFrequency": 5,
-    "attackAnimation": 1,
-    "movementSpeed": 14,
-    "knockbacks": 1,
-    "specialAbility": "[[Special Abilities#Burrow|Burrows]] underground 1,250 after a Cat enters its range (1 time)<br>[[Special Abilities#Revive|Revives]] with 100% HP after being dead for 120f <sub>4 seconds</sub> (1 time)",
-    "referenceLink": "https://battlecats-db.com/enemy/514.html",
     "attribute": "Zombie"
   },
   {
@@ -7833,6 +8096,7 @@
   {
     "id": "516",
     "dps": 10500,
+    "appearances": null,
     "image": "White bakoo.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Doremi",
     "baseCashDrop": 1500,
@@ -7852,6 +8116,7 @@
   {
     "id": "517",
     "dps": 272,
+    "appearances": null,
     "image": "Mega-Mooth.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Mega-Mooth (Floating) (Colossal)",
     "baseCashDrop": 1500,
@@ -7871,6 +8136,7 @@
   {
     "id": "518",
     "dps": 12142,
+    "appearances": null,
     "image": "518.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Master Uril (Enemy Unit)",
     "baseCashDrop": 2222,
@@ -7890,6 +8156,7 @@
   {
     "id": "519",
     "dps": 7500,
+    "appearances": null,
     "image": "Metalkory.jpeg\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Koronium (Metal)",
     "baseCashDrop": 900,
@@ -7909,6 +8176,7 @@
   {
     "id": "520",
     "dps": 627,
+    "appearances": null,
     "image": "Enemyzeus.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Super Zeus (Enemy)",
     "baseCashDrop": 3200,
@@ -7928,6 +8196,7 @@
   {
     "id": "521",
     "dps": 471,
+    "appearances": null,
     "image": "Enemyshaman.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Shaman Khan (Enemy)",
     "baseCashDrop": 3100,
@@ -7947,6 +8216,7 @@
   {
     "id": "522",
     "dps": 6703,
+    "appearances": null,
     "image": "Enemyherchrist.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Heracrist (Enemy)",
     "baseCashDrop": 3000,
@@ -7966,6 +8236,7 @@
   {
     "id": "525",
     "dps": null,
+    "appearances": null,
     "image": "Cakedoge-420.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Happy Birthday Cake (Event Enemy)",
     "baseCashDrop": 7,
@@ -7985,6 +8256,7 @@
   {
     "id": "527",
     "dps": 45,
+    "appearances": null,
     "image": "Baron hyppoh.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Super Hyppoh (Alien) (Colossal)",
     "baseCashDrop": 1000,
@@ -8030,6 +8302,7 @@
   {
     "id": "537",
     "dps": 724,
+    "appearances": null,
     "image": "Relictyrantenemy.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Evil Emperor Cat (Relic)",
     "baseCashDrop": 3000,
@@ -8049,6 +8322,7 @@
   {
     "id": "540",
     "dps": 26111,
+    "appearances": null,
     "image": "Li'l Bore.PNG\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Bore Jr.",
     "baseCashDrop": 350,
@@ -8094,6 +8368,7 @@
   {
     "id": "549",
     "dps": 6233,
+    "appearances": null,
     "image": "Kumanchu enemy.PNG\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Mr. Mer",
     "baseCashDrop": 1000,
@@ -8139,6 +8414,7 @@
   {
     "id": "553",
     "dps": null,
+    "appearances": null,
     "image": "553.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Elder Flame Doron (Relic)",
     "baseCashDrop": 2222,
@@ -8158,6 +8434,7 @@
   {
     "id": "554",
     "dps": 1783,
+    "appearances": null,
     "image": "devildoge.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Aku Doge (Aku)",
     "baseCashDrop": 200,
@@ -8177,6 +8454,7 @@
   {
     "id": "555",
     "dps": 2270,
+    "appearances": null,
     "image": "Akusnache.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Sinner Snache (Aku)",
     "baseCashDrop": 120,
@@ -8196,6 +8474,7 @@
   {
     "id": "556",
     "dps": 1442,
+    "appearances": null,
     "image": "Devilguys.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Cerberus Kids (Aku)",
     "baseCashDrop": 66,
@@ -8215,6 +8494,7 @@
   {
     "id": "557",
     "dps": 3230,
+    "appearances": null,
     "image": "Akupeng.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Condemned Peng (Aku)",
     "baseCashDrop": 420,
@@ -8234,6 +8514,7 @@
   {
     "id": "558",
     "dps": 12877,
+    "appearances": null,
     "image": "Devilgory.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Aku Gory (Aku)",
     "baseCashDrop": 500,
@@ -8253,6 +8534,7 @@
   {
     "id": "559",
     "dps": 2205,
+    "appearances": null,
     "image": "Akuelephant.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Le'Behemoth (Aku)",
     "baseCashDrop": 800,
@@ -8272,6 +8554,7 @@
   {
     "id": "560",
     "dps": 6521,
+    "appearances": null,
     "image": "Akubear.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Fallen Bear (Aku)",
     "baseCashDrop": 1200,
@@ -8291,6 +8574,7 @@
   {
     "id": "561",
     "dps": 1900,
+    "appearances": null,
     "image": "Akuface.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Wicked Face (Aku)",
     "baseCashDrop": 2300,
@@ -8310,6 +8594,7 @@
   {
     "id": "562",
     "dps": 33330,
+    "appearances": null,
     "image": "Devilcyclone.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Aku Cyclone (Aku)",
     "baseCashDrop": 6666,
@@ -8329,6 +8614,7 @@
   {
     "id": "572",
     "dps": 3134,
+    "appearances": null,
     "image": "Akusorcerer1.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Dark Priest Mamon (Aku)",
     "baseCashDrop": 3000,
@@ -8348,6 +8634,7 @@
   {
     "id": "573",
     "dps": 4805,
+    "appearances": null,
     "image": "Akusorcerer2.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/High Priest Mamon (Aku)",
     "baseCashDrop": 3000,
@@ -8367,6 +8654,7 @@
   {
     "id": "574",
     "dps": 7152,
+    "appearances": null,
     "image": "Akubeast.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Lord of Ruin Jagando (Aku)",
     "baseCashDrop": 5000,
@@ -8386,6 +8674,7 @@
   {
     "id": "575",
     "dps": 3423,
+    "appearances": null,
     "image": "Akuprincess.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Possessed Empress (Aku)",
     "baseCashDrop": 2500,
@@ -8405,6 +8694,7 @@
   {
     "id": "585",
     "dps": 2838,
+    "appearances": null,
     "image": "Aku mr mer.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Medu-san (Aku)",
     "baseCashDrop": 1000,
@@ -8424,6 +8714,7 @@
   {
     "id": "586",
     "dps": 1339,
+    "appearances": null,
     "image": "Aku mr angel.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Miz Devil (Aku)",
     "baseCashDrop": 75,
@@ -8443,6 +8734,7 @@
   {
     "id": "587",
     "dps": 7906,
+    "appearances": null,
     "image": "E 587.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Sathankhamun VIII (Aku)",
     "baseCashDrop": 4500,
@@ -8488,6 +8780,7 @@
   {
     "id": "589",
     "dps": 6293,
+    "appearances": null,
     "image": "E 589.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Ackey (Aku)",
     "baseCashDrop": 550,
@@ -8507,6 +8800,7 @@
   {
     "id": "590",
     "dps": 7050,
+    "appearances": null,
     "image": "E 590.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Deathkory (Aku)",
     "baseCashDrop": 900,
@@ -8526,6 +8820,7 @@
   {
     "id": "591",
     "dps": 32910,
+    "appearances": null,
     "image": "Masked Grandmaster Cat.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Masked Grandmaster Cat (Enemy Unit)",
     "baseCashDrop": 2222,
@@ -8571,6 +8866,7 @@
   {
     "id": "595",
     "dps": 4645,
+    "appearances": null,
     "image": "E 595.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Archangel Exiel (Angel) (Colossal)",
     "baseCashDrop": 750,
@@ -8590,6 +8886,7 @@
   {
     "id": "596",
     "dps": 167,
+    "appearances": null,
     "image": "E 596.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Big Peng Z (Zombie) (Colossal)",
     "baseCashDrop": 1500,
@@ -8609,6 +8906,7 @@
   {
     "id": "601",
     "dps": 13235,
+    "appearances": null,
     "image": "E 601.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Ultima Beast Naala (Relic / Behemoth)",
     "baseCashDrop": 3000,
@@ -8626,34 +8924,9 @@
     "attribute": "Relic/Behemoth"
   },
   {
-    "id": "602",
-    "dps": 34545,
-    "appearances": [
-      {
-        "section": "UL",
-        "stageWikiTitle": "Don't Rush Love",
-        "stageTitle": "Sub-chapter 44 - Don't Rush Love"
-      }
-    ],
-    "image": "E 602.png\n",
-    "wikiLink": "https://battle-cats.fandom.com/wiki/Zapy (Zombie)",
-    "baseCashDrop": 550,
-    "description": "Capy was having a wonderful hot spring<br>holiday... until she unexpectedly died.<br>A real jerk who protects her corner of the<br>bath by Warping other visitors far away.",
-    "health": 390000,
-    "damage": 38000,
-    "range": 300,
-    "isSingleTarget": true,
-    "attackFrequency": 33,
-    "attackAnimation": 14,
-    "movementSpeed": 15,
-    "knockbacks": 2,
-    "specialAbility": "15% chance to [[Special Abilities#Warp|warp]] Cat Units back 1,000 for 60f <sub>2 seconds</sub><br>[[Special Abilities#Revive|Revives]] with 50% HP after being dead for 200f <sub>6.67 seconds</sub> (1 time)<br>[[Special Abilities#Immune to Waves|Immune to Waves]] and [[Special Abilities#Evade Surge|Surge]]",
-    "referenceLink": "https://battlecats-db.com/enemy/602.html",
-    "attribute": "Zombie"
-  },
-  {
     "id": "605",
     "dps": 10531,
+    "appearances": null,
     "image": "E 605.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Wild Doge (Behemoth)",
     "baseCashDrop": 300,
@@ -8673,6 +8946,7 @@
   {
     "id": "606",
     "dps": 8863,
+    "appearances": null,
     "image": "E 606.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Casaurian Ahirujo (Red / Behemoth)",
     "baseCashDrop": 1500,
@@ -8692,6 +8966,7 @@
   {
     "id": "607",
     "dps": 6905,
+    "appearances": null,
     "image": "E 607.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Pterowl Hazuku (Floating / Behemoth)",
     "baseCashDrop": 2500,
@@ -8789,6 +9064,7 @@
   {
     "id": "612",
     "dps": 5349,
+    "appearances": null,
     "image": "E 612.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/THE FOLIVOREAN (Aku) (Behemoth)",
     "baseCashDrop": 2000,
@@ -8808,6 +9084,7 @@
   {
     "id": "613",
     "dps": 12681,
+    "appearances": null,
     "image": "E 613 (1).png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Casaurian Darkjo (Black) (Behemoth)",
     "baseCashDrop": 1800,
@@ -8853,6 +9130,7 @@
   {
     "id": "615",
     "dps": 23437,
+    "appearances": null,
     "image": "E 613.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Angelic Beast Rajakong (Angel) (Behemoth)",
     "baseCashDrop": 4500,
@@ -8872,6 +9150,7 @@
   {
     "id": "616",
     "dps": 9396,
+    "appearances": null,
     "image": "E 614.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Formicidaean Ariant (Zombie) (Behemoth)",
     "baseCashDrop": 280,
@@ -8917,6 +9196,7 @@
   {
     "id": "618",
     "dps": 14754,
+    "appearances": null,
     "image": "E 616.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Spiritual Yulala (Enemy Unit)",
     "baseCashDrop": 3000,
@@ -8936,6 +9216,7 @@
   {
     "id": "624",
     "dps": 3999,
+    "appearances": null,
     "image": "E 622.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Sakura (Enemy)",
     "baseCashDrop": 1000,
@@ -8955,6 +9236,7 @@
   {
     "id": "626",
     "dps": 6741,
+    "appearances": null,
     "image": "E 624.png\n",
     "wikiLink": "https://battle-cats.fandom.com/wiki/Cumulus Gallus (Behemoth)",
     "baseCashDrop": 1500,
