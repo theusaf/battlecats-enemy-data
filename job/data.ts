@@ -75,6 +75,9 @@ export function addEnemy(enemy: CombinedEnemy) {
   });
   scrapedIDs.add(enemy.id);
   scrapedWiki.add(enemy.wikiTitle);
+  if (needsHumanReview.includes(enemy.id)) {
+    needsHumanReview.splice(needsHumanReview.indexOf(enemy.id), 1);
+  }
 }
 
 export function addHumanReview(id: string) {

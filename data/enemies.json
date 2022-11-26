@@ -12931,5 +12931,519 @@
     "specialAbility": "-",
     "referenceLink": "https://battlecats-db.com/enemy/057.html",
     "attribute": "Metal"
+  },
+  {
+    "id": "127",
+    "dps": 4494,
+    "appearances": [
+      {
+        "section": "SoL",
+        "stageWikiTitle": "Subtle Curfew",
+        "stageTitle": "Sub-chapter 21 - Subtle Curfew"
+      }
+    ],
+    "image": "Angelic Sleipnir.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Angelic Sleipnir (Angel)",
+    "baseCashDrop": 905,
+    "description": "The eight-legged god-horse of Norse myth.<br>Has to spend most of his paycheck on<br>footwear, so usually spends his weekends<br>staying in and gardening.",
+    "health": 363000,
+    "damage": 2247,
+    "range": 372,
+    "isSingleTarget": false,
+    "attackFrequency": 15,
+    "attackAnimation": 9,
+    "movementSpeed": 5,
+    "knockbacks": 2,
+    "specialAbility": "15% chance to [[Special Abilities#Knockback|knockback]] Cat Units",
+    "referenceLink": "https://battlecats-db.com/enemy/127.html",
+    "attribute": "Angel"
+  },
+  {
+    "id": "286",
+    "dps": 1148,
+    "appearances": [
+      {
+        "section": "EoC",
+        "stageWikiTitle": "Zombie Outbreaks"
+      },
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Zombie Outbreaks"
+      },
+      {
+        "section": "SoL",
+        "stageWikiTitle": "Home Sweet Mausoleum",
+        "stageTitle": "Sub-chapter 34 - Home Sweet Mausoleum"
+      }
+    ],
+    "image": "ZogeBattle.jpg\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Zoge (Zombie)",
+    "baseCashDrop": 45,
+    "description": "Doge's late father, buried several years ago.<br>Even the grave couldn't stop him from<br>worrying over his kids' grades. Only showing<br>a report card can put him permanently to rest.",
+    "health": 15000,
+    "damage": 1800,
+    "range": 100,
+    "isSingleTarget": false,
+    "attackFrequency": 47,
+    "attackAnimation": 8,
+    "movementSpeed": 8,
+    "knockbacks": 2,
+    "specialAbility": "[[Special Abilities#Burrow|Burrows]] underground 500 when a Cat enters its range (1 time)<br>[[Special Abilities#Revive|Revives]] with 50% HP after being dead for 240f <sub>8 seconds</sub> (1 time)",
+    "referenceLink": "https://battlecats-db.com/enemy/286.html",
+    "attribute": "Zombie"
+  },
+  {
+    "id": "287",
+    "dps": 1621,
+    "appearances": [
+      {
+        "section": "EoC",
+        "stageWikiTitle": "Zombie Outbreaks"
+      },
+      {
+        "section": "SoL",
+        "stageWikiTitle": "Swamp of Sacrifice",
+        "stageTitle": "Sub-chapter 34 - Swamp of Sacrifice"
+      }
+    ],
+    "image": "ZnacheBattle.jpg\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Znache (Zombie)",
+    "baseCashDrop": 60,
+    "description": "A slithery creature who uses watercolors for<br>horror makeup (really already dead, though.)<br>The only information you need is that<br>it possesses gruesome area attack powers.",
+    "health": 16000,
+    "damage": 2000,
+    "range": 120,
+    "isSingleTarget": false,
+    "attackFrequency": 37,
+    "attackAnimation": 10,
+    "movementSpeed": 10,
+    "knockbacks": 2,
+    "specialAbility": "[[Special Abilities#Burrow|Burrows]] underground 1,500 after a Cat enters its range (1 time)<br>\n[[Special Abilities#Revive|Revives]] with 50% HP after being dead for 180f <sub>6 seconds</sub> (1 time)",
+    "referenceLink": "https://battlecats-db.com/enemy/287.html",
+    "attribute": "Zombie"
+  },
+  {
+    "id": "288",
+    "dps": 2105,
+    "appearances": [
+      {
+        "section": "EoC",
+        "stageWikiTitle": "Zombie Outbreaks"
+      },
+      {
+        "section": "SoL",
+        "stageWikiTitle": "Revenant Road",
+        "stageTitle": "Sub-chapter 34 - Revenant Road"
+      }
+    ],
+    "image": "ZomboeBattle.jpg\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Zomboe (Zombie)",
+    "baseCashDrop": 200,
+    "description": "Wandered through a poison bog one<br>gloomy night and later woke up dead.<br>(S)he doesn't seem to mind though.<br>Now we'll never know if it's a he or she.",
+    "health": 40000,
+    "damage": 4000,
+    "range": 180,
+    "isSingleTarget": false,
+    "attackFrequency": 57,
+    "attackAnimation": 28,
+    "movementSpeed": 3,
+    "knockbacks": 1,
+    "specialAbility": "30% chance to [[Special Abilities#Slow|slow]] Cat Units for 120f <sub>4 seconds</sub><br>\n[[Special Abilities#Burrow|Burrows]] underground 625 when a Cat enters its range (1 time)<br>\n[[Special Abilities#Revive|Revives]] with 50% HP after being dead for 360f <sub>12 seconds</sub> (1 time)",
+    "referenceLink": "https://battlecats-db.com/enemy/288.html",
+    "attribute": "Zombie"
+  },
+  {
+    "id": "289",
+    "dps": 2037,
+    "appearances": [
+      {
+        "section": "EoC",
+        "stageWikiTitle": "Zombie Outbreaks"
+      },
+      {
+        "section": "SoL",
+        "stageWikiTitle": "Revenant Road",
+        "stageTitle": "Sub-Chapter 34 - Revenant Road"
+      }
+    ],
+    "image": "ZiggeBattle.jpg\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Zigge (Zombie)",
+    "baseCashDrop": 300,
+    "description": "Even death can't make this royal swine<br>give up the throne. Wears a stylish skull<br>until her stolen crown can be reclaimed.<br>I don't rot, I just age like fine wine.",
+    "health": 48000,
+    "damage": 3600,
+    "range": 160,
+    "isSingleTarget": false,
+    "attackFrequency": 53,
+    "attackAnimation": 14,
+    "movementSpeed": 8,
+    "knockbacks": 2,
+    "specialAbility": "30% chance to [[Special Abilities#Knockback|Knockback]] Cat Units<br>\n[[Special Abilities#Burrow|Burrows]] underground 750 after a Cat enters its range (1 time)<br>\n[[Special Abilities#Revive|Revives]] with 100% HP after being dead for 480f <sub>16 seconds</sub> (1 time)",
+    "referenceLink": "https://battlecats-db.com/enemy/289.html",
+    "attribute": "Zombie"
+  },
+  {
+    "id": "290",
+    "dps": 8888,
+    "appearances": [
+      {
+        "section": "EoC",
+        "stageWikiTitle": "Zombie Outbreaks"
+      },
+      {
+        "section": "SoL",
+        "stageWikiTitle": "Swamp of Sacrifice",
+        "stageTitle": "Sub-chapter 34 - Swamp of Sacrifice"
+      }
+    ],
+    "image": "ZackiePengBattle.jpg\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Zackie Peng (Zombie)",
+    "baseCashDrop": 150,
+    "description": "After his debut film bombed, a big hole<br>was all thats left where Peng's heart used<br>to be. Even death by bad reviews won't<br>stop his revenge on ungrateful audiences!",
+    "health": 42000,
+    "damage": 8000,
+    "range": 150,
+    "isSingleTarget": true,
+    "attackFrequency": 27,
+    "attackAnimation": 16,
+    "movementSpeed": 9,
+    "knockbacks": 3,
+    "specialAbility": "[[Special Abilities#Burrow|Burrows]] underground 1,125 when a Cat enters its range (1 time)<br>\n[[Special Abilities#Revive|Revives]] with 50% HP after being dead for 180f <sub>6 seconds</sub> (1 time)",
+    "referenceLink": "https://battlecats-db.com/enemy/290.html",
+    "attribute": "Zombie"
+  },
+  {
+    "id": "291",
+    "dps": 7104,
+    "appearances": [
+      {
+        "section": "EoC",
+        "stageWikiTitle": "Zombie Outbreaks"
+      },
+      {
+        "section": "SoL",
+        "stageWikiTitle": "Silenced Meowing",
+        "stageTitle": "Sub-chapter 34 - Silenced Meowing"
+      }
+    ],
+    "image": "Zory.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Zory (Zombie)",
+    "baseCashDrop": 500,
+    "description": "After being rejected from Heaven thanks to<br>his scary face, Gory now wanders the earth.<br>Someone tore off the top of his head while<br>he gambled, thinking it was a toupee. Ouch.",
+    "health": 50000,
+    "damage": 3789,
+    "range": 165,
+    "isSingleTarget": false,
+    "attackFrequency": 16,
+    "attackAnimation": 8,
+    "movementSpeed": 15,
+    "knockbacks": 2,
+    "specialAbility": "[[Special Abilities#Burrow|Burrows]] underground 625 when a Cat enters its range (1 time)<br>\n[[Special Abilities#Revive|Revives]] with 100% HP after being dead for 360f <sub>12 seconds</sub> (1 time)",
+    "referenceLink": "https://battlecats-db.com/enemy/291.html",
+    "attribute": "Zombie"
+  },
+  {
+    "id": "292",
+    "dps": 6428,
+    "appearances": [
+      {
+        "section": "EoC",
+        "stageWikiTitle": "Zombie Outbreaks"
+      },
+      {
+        "section": "SoL",
+        "stageWikiTitle": "Revenant Road",
+        "stageTitle": "Sub-chapter 34 - Revenant Road"
+      }
+    ],
+    "image": "Zir Zeal.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Zir Zeal (Zombie)",
+    "baseCashDrop": 450,
+    "description": "Through the morning mists, I beheld a Seal<br>He called me to join him in a voice neither<br>living nor dead, beckoning me to join him<br>on the distant shore of an uncanny world...",
+    "health": 75000,
+    "damage": 4500,
+    "range": 170,
+    "isSingleTarget": false,
+    "attackFrequency": 21,
+    "attackAnimation": 6,
+    "movementSpeed": 12,
+    "knockbacks": 2,
+    "specialAbility": "20% chance to [[Special Abilities#Freeze|freeze]] Cat Units for 90f <sub>3 seconds</sub><br>\n[[Special Abilities#Burrow|Burrows]] underground 1,500 when a Cat enters its range (1 time)<br>\n[[Special Abilities#Revive|Revives]] with 50% HP after being dead for 480f <sub>16 seconds</sub> (1 time)",
+    "referenceLink": "https://battlecats-db.com/enemy/292.html",
+    "attribute": "Zombie"
+  },
+  {
+    "id": "293",
+    "dps": 8272,
+    "appearances": [
+      {
+        "section": "EoC",
+        "stageWikiTitle": "Zombie Outbreaks"
+      },
+      {
+        "section": "SoL",
+        "stageWikiTitle": "Silenced Meowing",
+        "stageTitle": "Sub-chapter 34 - Silenced Meowing"
+      }
+    ],
+    "image": "ZangRoo.jpg\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Zang Roo (Zombie)",
+    "baseCashDrop": 900,
+    "description": "After 50 years as a boxer, her body just<br>couldn't handle the doping anymore.<br>Still, chemicals were effective enough to<br>keep her body punching even after death.",
+    "health": 100000,
+    "damage": 7997,
+    "range": 175,
+    "isSingleTarget": false,
+    "attackFrequency": 29,
+    "attackAnimation": 1,
+    "movementSpeed": 18,
+    "knockbacks": 2,
+    "specialAbility": "[[Special Abilities#Revive|Revives]] with 100% HP after being dead for 240f <sub>8 seconds</sub> (1 time)<br>\n[[Special Abilities#Burrow|Burrows]] underground 1,125 when a Cat enters its range (1 time)<br>\n[[Special Abilities#Multi-Hit|Multi-Hit]] (6,800 at 1f <sup>0.03s</sup>, 400 at 8f <sup>0.27s</sup>, 797 at 16f <sup>0.53s</sup>)",
+    "referenceLink": "https://battlecats-db.com/enemy/293.html",
+    "attribute": "Zombie"
+  },
+  {
+    "id": "294",
+    "dps": 8333,
+    "appearances": [
+      {
+        "section": "EoC",
+        "stageWikiTitle": "Zombie Outbreaks"
+      },
+      {
+        "section": "SoL",
+        "stageWikiTitle": "Revenant Road",
+        "stageTitle": "Sub-chapter 34 - Revenant Road"
+      }
+    ],
+    "image": "ZrocoBattle.jpg\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Zroco (Zombie)",
+    "baseCashDrop": 90,
+    "description": "A poor gator who died of hunger.<br>Too weak to swim across the River Styx,<br>it came back to this world as a half-baked<br>ghost. Sometimes mistaken for dumbells.",
+    "health": 15000,
+    "damage": 5000,
+    "range": 120,
+    "isSingleTarget": true,
+    "attackFrequency": 18,
+    "attackAnimation": 6,
+    "movementSpeed": 15,
+    "knockbacks": 1,
+    "specialAbility": "30% chance to [[Special Abilities#Weaken|weaken]] Cat Units to 50% for 150f <sub>5 seconds</sub><br>\n[[Special Abilities#Burrow|Burrows]] underground 375 when a Cat enters its range (1 time)<br>\n[[Special Abilities#Revive|Revives]] with 100% HP after being dead for 480f <sub>16 seconds</sub> (1 time)",
+    "referenceLink": "https://battlecats-db.com/enemy/294.html",
+    "attribute": "Zombie"
+  },
+  {
+    "id": "295",
+    "dps": 7500,
+    "appearances": [
+      {
+        "section": "EoC",
+        "stageWikiTitle": "Zombie Outbreaks"
+      },
+      {
+        "section": "SoL",
+        "stageWikiTitle": "Silenced Meowing",
+        "stageTitle": "Sub-chapter 34 - Silenced Meowing"
+      }
+    ],
+    "image": "Lordgravey.jpg\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Lord Gravey (Zombie)",
+    "baseCashDrop": 2500,
+    "description": "Some squatter has made his home in<br>Zoge's grave! How rude! Whoever<br>this mysterious cadaver is, his will to<br>rock seems to be alive and well.",
+    "health": 750000,
+    "damage": 15000,
+    "range": 250,
+    "isSingleTarget": false,
+    "attackFrequency": 60,
+    "attackAnimation": 22,
+    "movementSpeed": 4,
+    "knockbacks": 2,
+    "specialAbility": "100% chance to [[Special Abilities#Knockback|knockback]] Cat Units <br>[[Special Abilities#Revive|Revives]] at 100% HP after being dead for 120f <sub>4 seconds</sub> (1 time)",
+    "referenceLink": "https://battlecats-db.com/enemy/295.html",
+    "attribute": "Zombie"
+  },
+  {
+    "id": "305",
+    "dps": 12500,
+    "appearances": [
+      {
+        "section": "EoC",
+        "stageWikiTitle": "Zombie Outbreaks"
+      },
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Zombie Outbreaks"
+      },
+      {
+        "section": "SoL",
+        "stageWikiTitle": "The Haunted 1LDK",
+        "stageTitle": "Sub-Chapter 36 - The Haunted 1LDK"
+      }
+    ],
+    "image": "Misshaka.jpg\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Miss Haka (Zombie)",
+    "baseCashDrop": 2500,
+    "description": "Zoge's wife was supposed to be<br>buried here, but she's still alive at<br>158 and it seems like someone<br>else took over the open real estate.",
+    "health": 720000,
+    "damage": 25000,
+    "range": 150,
+    "isSingleTarget": false,
+    "attackFrequency": 60,
+    "attackAnimation": 22,
+    "movementSpeed": 4,
+    "knockbacks": 24,
+    "specialAbility": "[[Special Abilities#Burrow|Burrows]] underground 500 when a Cat enters its range (unlimited)<br>\n[[Special Abilities#Revive|Revives]] with 100% HP after being dead for 240f <sub>4 seconds</sub> (1 time)",
+    "referenceLink": "https://battlecats-db.com/enemy/305.html",
+    "attribute": "Zombie"
+  },
+  {
+    "id": "429",
+    "dps": 7894,
+    "appearances": [
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Zombie Outbreaks"
+      },
+      {
+        "section": "UL",
+        "stageWikiTitle": "Panic Tower",
+        "stageTitle": "Sub-chapter 8 - Panic Tower"
+      }
+    ],
+    "image": "Zombie Teacher Bear.PNG\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Cadaver Bear (Zombie)",
+    "baseCashDrop": 1000,
+    "description": "Made up of the strongest parts from several<br>expired [[Teacher Bear]]s. The head wouldn't<br>sit right, so it had to be bolted on.<br>Urge to kill seems to be growing...",
+    "health": 120000,
+    "damage": 5000,
+    "range": 360,
+    "isSingleTarget": false,
+    "attackFrequency": 19,
+    "attackAnimation": 6,
+    "movementSpeed": 10,
+    "knockbacks": 4,
+    "specialAbility": "[[Special Abilities#Burrow|Burrows]] underground for 1,125 after a Cat enters its range (1 time)<br>[[Special Abilities#Revive|Revives]] with 100% HP after being dead for 360f <sub>12 seconds</sub> (1 time)",
+    "referenceLink": "https://battlecats-db.com/enemy/429.html",
+    "attribute": "Zombie"
+  },
+  {
+    "id": "430",
+    "dps": 12272,
+    "appearances": [
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Zombie Outbreaks"
+      },
+      {
+        "section": "UL",
+        "stageWikiTitle": "Morbid Mesa",
+        "stageTitle": "Sub-chapter 8 - Morbid Mesa"
+      }
+    ],
+    "image": "Dread Bore.jpg\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Dread Bore (Zombie)",
+    "baseCashDrop": 1800,
+    "description": "Thanks to a tragic accident with a perm<br>machine, this piggy both gained a stylish set<br>of dreadlocks... and became an ex-Bore.<br>Talk about a sudden image change.",
+    "health": 400000,
+    "damage": 4500,
+    "range": 130,
+    "isSingleTarget": false,
+    "attackFrequency": 11,
+    "attackAnimation": 8,
+    "movementSpeed": 22,
+    "knockbacks": 2,
+    "specialAbility": "[[Special Abilities#Burrow|Burrows]] underground 1125 after a Cat enters its range (1 time)<br>[[Special Abilities#Revives|Revives]] with 50% HP after being dead for 150f <sub>5 seconds</sub>(1 time)",
+    "referenceLink": "https://battlecats-db.com/enemy/430.html",
+    "attribute": "Zombie"
+  },
+  {
+    "id": "470",
+    "dps": 19615,
+    "appearances": [
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Zombie Outbreaks"
+      },
+      {
+        "section": "UL",
+        "stageWikiTitle": "Steamworks Ltd.",
+        "stageTitle": "Sub-chapter 17 - Steamworks Ltd."
+      }
+    ],
+    "image": "Zombieduche.PNG\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Zuche (Zombie)",
+    "baseCashDrop": 200,
+    "description": "A mad scientist set his tail on fire<br>to test the limits of fowl power.<br>Panic has given him the<br>strength he needs to fly to heaven.",
+    "health": 17500,
+    "damage": 17000,
+    "range": 120,
+    "isSingleTarget": false,
+    "attackFrequency": 26,
+    "attackAnimation": 4,
+    "movementSpeed": 30,
+    "knockbacks": 1,
+    "specialAbility": "[[Special Abilities#Burrow|Burrows]] underground 875 after a Cat enters its range (1 time)<br>\n[[Special Abilities#Revive|Revives]] with 100% HP after being dead for 600f <sub>20 seconds</sub> (1 time)<br>\n[[Special Abilities#Multi-Hit|Multi-Hit]] (8,500 at 4f <sup>0.13s</sup>, 8,500 at 13f <sup>0.43s</sup>)",
+    "referenceLink": "https://battlecats-db.com/enemy/470.html",
+    "attribute": "Zombie"
+  },
+  {
+    "id": "471",
+    "dps": 5131,
+    "appearances": [
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Zombie Outbreaks"
+      },
+      {
+        "section": "UL",
+        "stageWikiTitle": "Standing Sauna",
+        "stageTitle": "Sub-chapter 17 - Standing Sauna"
+      }
+    ],
+    "image": "Thosezombies.PNG\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/The Thrillerz (Zombie)",
+    "baseCashDrop": 75,
+    "description": "The guys are never alone in life or in death.<br>Luckily there was a shuttle bus service<br>from the cemetery to the battlefield.<br>Undeath doesn't cure codependency...",
+    "health": 10000,
+    "damage": 6500,
+    "range": 110,
+    "isSingleTarget": true,
+    "attackFrequency": 38,
+    "attackAnimation": 10,
+    "movementSpeed": 18,
+    "knockbacks": 1,
+    "specialAbility": "[[Special Abilities#Burrow|Burrows]] underground 500 after a Cat enters its range (2 times)<br>\n[[Special Abilities#Revive|Revives]] with 100% HP after being dead for 240f <sub>8 seconds</sub> (1 time)",
+    "referenceLink": "https://battlecats-db.com/enemy/471.html",
+    "attribute": "Zombie"
+  },
+  {
+    "id": "514",
+    "dps": 1997,
+    "appearances": [
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Zombie Outbreaks"
+      },
+      {
+        "section": "UL",
+        "stageWikiTitle": "Anaerobic Cycling",
+        "stageTitle": "Sub-chapter 25 - Anaerobic Cycling"
+      }
+    ],
+    "image": "Lilzyclone.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Li'l Zyclone (Zombie)",
+    "baseCashDrop": 300,
+    "description": "Beloved nephew of childless uncle Zyclone.<br>Has his mother's toughness and father's timid<br>spirit, combining them into a hungry little storm<br>who hides at the first sign of danger.",
+    "health": 333333,
+    "damage": 333,
+    "range": 100,
+    "isSingleTarget": false,
+    "attackFrequency": 5,
+    "attackAnimation": 1,
+    "movementSpeed": 14,
+    "knockbacks": 1,
+    "specialAbility": "[[Special Abilities#Burrow|Burrows]] underground 1,250 after a Cat enters its range (1 time)<br>[[Special Abilities#Revive|Revives]] with 100% HP after being dead for 120f <sub>4 seconds</sub> (1 time)",
+    "referenceLink": "https://battlecats-db.com/enemy/514.html",
+    "attribute": "Zombie"
   }
 ]
