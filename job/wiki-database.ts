@@ -109,7 +109,7 @@ export function parseEnemyPage(
   expectedId: string
 ): WikiEnemyData {
   const linkRegex = new RegExp(
-    `==References?==[\\s\\n]*\\*\\s*https://battlecats-db\\.com/enemy/${expectedId}\\.html`
+    `==[\\s\\u200b]*References?[\\s\\u200b]*==[\\s\\n]*\\*\\s*https://battlecats-db\\.com/enemy/${expectedId}\\.html`
   );
   if (!linkRegex.test(page)) return null;
   const [, name] = page.match(/\|name\s*=\s*([^|]+)/),

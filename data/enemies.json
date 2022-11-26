@@ -13445,5 +13445,122 @@
     "specialAbility": "[[Special Abilities#Burrow|Burrows]] underground 1,250 after a Cat enters its range (1 time)<br>[[Special Abilities#Revive|Revives]] with 100% HP after being dead for 120f <sub>4 seconds</sub> (1 time)",
     "referenceLink": "https://battlecats-db.com/enemy/514.html",
     "attribute": "Zombie"
+  },
+  {
+    "id": "602",
+    "dps": 34545,
+    "appearances": [
+      {
+        "section": "CotC",
+        "stageWikiTitle": "Zombie Outbreaks"
+      },
+      {
+        "section": "UL",
+        "stageWikiTitle": "Don't Rush Love",
+        "stageTitle": "Sub-chapter 44 - Don't Rush Love"
+      }
+    ],
+    "image": "E 602.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Zapy (Zombie)",
+    "baseCashDrop": 550,
+    "description": "Capy was having a wonderful hot spring<br>holiday... until she unexpectedly died.<br>A real jerk who protects her corner of the<br>bath by Warping other visitors far away.",
+    "health": 390000,
+    "damage": 38000,
+    "range": 300,
+    "isSingleTarget": true,
+    "attackFrequency": 33,
+    "attackAnimation": 14,
+    "movementSpeed": 15,
+    "knockbacks": 2,
+    "specialAbility": "15% chance to [[Special Abilities#Warp|warp]] Cat Units back 1,000 for 60f <sub>2 seconds</sub><br>[[Special Abilities#Revive|Revives]] with 50% HP after being dead for 200f <sub>6.67 seconds</sub> (1 time)<br>[[Special Abilities#Immune to Waves|Immune to Waves]] and [[Special Abilities#Evade Surge|Surge]]",
+    "referenceLink": "https://battlecats-db.com/enemy/602.html",
+    "attribute": "Zombie"
+  },
+  {
+    "id": "363",
+    "dps": 937,
+    "appearances": [
+      {
+        "section": "CotC",
+        "stageWikiTitle": "Venus (Cats of the Cosmos)",
+        "stageTitle": "Chapter 1 - Venus"
+      },
+      {
+        "section": "SoL",
+        "stageWikiTitle": "Cat Abduction",
+        "stageTitle": "Sub-chapter 43 - Cat Abduction"
+      }
+    ],
+    "image": "Star Peng.jpg\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Star Peng (Alien) ",
+    "baseCashDrop": 450,
+    "description": "The originator of Warp-field tactics.<br>The Peng people are a proud warrior race<br>with advanced scientific knowledge,<br>thanks to a culture of daily sudoku.",
+    "health": 14000,
+    "damage": 750,
+    "range": 150,
+    "isSingleTarget": true,
+    "attackFrequency": 24,
+    "attackAnimation": 8,
+    "movementSpeed": 14,
+    "knockbacks": 2,
+    "specialAbility": "100% chance to [[Special Abilities#Warp|warp]] Cat Units back by 500 range for 100f <sub>3.33 seconds</sub><br>''*Stats shown are with all [[Anti-Starred Alien Treasures]].''",
+    "referenceLink": "https://battlecats-db.com/enemy/363.html",
+    "attribute": "StarredAlien"
+  },
+  {
+    "id": "172",
+    "dps": 365,
+    "appearances": [
+      {
+        "section": "ItF",
+        "stageWikiTitle": "Dubai (Into the Future)",
+        "stageTitle": "Chapter 1 - Dubai"
+      },
+      {
+        "section": "SoL",
+        "stageWikiTitle": "Muddy Trench",
+        "stageTitle": "Sub-chapter 25 - Muddy Trench"
+      },
+      {
+        "section": "CotC",
+        "stageWikiTitle": "Sun (Cats of the Cosmos)",
+        "stageTitle": "Chapter 1 - Sun"
+      }
+    ],
+    "image": "Imperatorsael.jpg\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Imperator_Sael_(Alien)",
+    "baseCashDrop": 500,
+    "description": "A walrus warlord who came from space<br>to fight Earth's Red Seals. No hands, but<br>still tries for handshakes to be polite.<br>Won't see me lyin' about this classy gent.",
+    "health": 15000,
+    "damage": 500,
+    "range": 220,
+    "isSingleTarget": false,
+    "attackFrequency": 41,
+    "attackAnimation": 6,
+    "movementSpeed": 5,
+    "knockbacks": 2,
+    "specialAbility": "20% chance to [[Special Abilities#Slow|slow]] Cat Units for 60f <sub>2 seconds</sub><br>''*Stats shown are with all [[Anti-unstarred Alien Treasures]].''",
+    "referenceLink": "https://battlecats-db.com/enemy/172.html",
+    "attribute": "Alien"
+  },
+  {
+    "id": "023",
+    "dps": null,
+    "appearances": null,
+    "image": "[[File:Mssign.jpg]]\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Ms._Sign",
+    "baseCashDrop": 1,
+    "description": "Her family structure is<br>father, mother, brother and a \"daddy\". <br>Wants to marry out ASAP.<br>She comes out when you take too long.",
+    "health": 10000,
+    "damage": 1,
+    "range": 800,
+    "isSingleTarget": true,
+    "attackFrequency": 607,
+    "attackAnimation": 8,
+    "movementSpeed": 4,
+    "knockbacks": 10000,
+    "specialAbility": "-",
+    "referenceLink": "https://battlecats-db.com/enemy/023.html",
+    "attribute": "Traitless}}"
   }
 ]

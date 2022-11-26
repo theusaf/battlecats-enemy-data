@@ -22,7 +22,9 @@ for (let i = needsHumanReview.length - 1; i >= 0; i--) {
   try {
     const basicEnemyData = await getEnemyData(id),
       wikiURL = await rl.question(
-        `[${initialLength - i}/${initialLength}] Enter the wiki URL for ${
+        `[${
+          initialLength - i
+        }/${initialLength}] Enter the wiki URL or title for ${
           basicEnemyData.name
         } (${basicEnemyData.id}):\n`
       );
@@ -30,7 +32,12 @@ for (let i = needsHumanReview.length - 1; i >= 0; i--) {
       needsHumanReview.splice(0, 0, id); // Put it back at the beginning
       continue;
     }
-    const title = wikiURL.match(/\/wiki\/(.*)$/)[1],
+    const title = wikiURL.startsWith("https://")
+        ? decodeURIComponent(wikiURL.match(/\/wiki\/(.*)$/)[1]).replace(
+            /_/g,
+            " "
+          )
+        : wikiURL,
       page = await getEnemyPage(title),
       parsed = parseEnemyPage(page, id);
     if (!parsed) {
