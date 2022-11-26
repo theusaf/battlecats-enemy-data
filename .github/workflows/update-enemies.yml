@@ -32,6 +32,8 @@ jobs:
             ${{ runner.os }}-pnpm-store-
       - name: Install dependencies
         run: pnpm install
+      - name: Transpile code
+        run: npm run build
       - name: Update enemies
         run: npm start
       - name: Commit changes
