@@ -47,7 +47,7 @@ export async function writeEnemyData() {
 export async function writeNeedsHumanReview() {
   await fs.writeFile(
     path.join(__dirname, "../data/needs_human_review.json"),
-    formatJSON(needsHumanReview),
+    formatJSON(Array.from(new Set<string>(needsHumanReview))),
     "utf8"
   );
 }
