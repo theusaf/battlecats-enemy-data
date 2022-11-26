@@ -96,7 +96,7 @@ export function parseEnemyPage(
     element = page.match(/\|Element\s*=\s*(.*)/i)?.[1],
     [, firstAppearanceValue] =
       page.match(
-        /\|first appearance\s*=\s*('''\w+''':\s*\[\[.*?\]\]\s*(<br>[\s\n]*)?)*/
+        /\|first appearance\s*=\s*((?:'''\w+''':\s*.*\s*(?:<br>[\s\n]*)?)+)/
       ) ?? [],
     firstAppearances = firstAppearanceValue
       ?.match(/('''\w+''':\s*\[\[.*?]])/g)
