@@ -73,7 +73,8 @@ export interface Appearance {
 export interface WikiEnemyData {
   name: string;
   image: string;
-  latestAppearance: Appearance;
+  ability: string | null;
+  description: string | null;
   firstAppearances: Appearance[];
 }
 
@@ -84,26 +85,14 @@ export function parseEnemyPage(page: string, expectedId: string) {
   if (!linkRegex.test(page)) return null;
   const [, name] = page.match(/\|name\s*=\s*([^|]+)/),
     [, image] = page.match(/\|image\s*=\s*([^|]+)/),
-    [, firstAppearanceValue] = page.match(
-      /\|first appearance\s*=\s*('''\w+''':\s*\[\[.*?\]\]\s*(<br>[\s\n]*)?)*/
-    ),
-    [, latestApperanceValue] = page.match(
-      /\|latest appearance\s*=\s*('''\w+''':\s*\[\[.*?\]\]\s*(<br>[\s\n]*)?)*/
-    ),
+    description = page.match(/\|enemy_endesc1\s*=\s*(.*)/)?.[1] ?? null,
+    ability = page.match(/\|Ability\s*=\s*((?:.|\n)*?)\n(\||})/i)?.[1] ?? null,
+    [, firstAppearanceValue] =
+      page.match(
+        /\|first appearance\s*=\s*('''\w+''':\s*\[\[.*?\]\]\s*(<br>[\s\n]*)?)*/
+      ) ?? [],
     firstAppearances = firstAppearanceValue
-      .match(/('''\w+''':\s*\[\[.*?]])/g)
-      .map((match) => {
-        const [, section, stageWikiTitle, stageTitle] = match.match(
-          /'''(\w+)''':\s*\[\[(.*?)\|(.*?)]]/
-        );
-        return {
-          section,
-          stageWikiTitle,
-          stageTitle,
-        };
-      }),
-    latestAppearances = latestApperanceValue
-      .match(/('''\w+''':\s*\[\[.*?]])/g)
+      ?.match(/('''\w+''':\s*\[\[.*?]])/g)
       .map((match) => {
         const [, section, stageWikiTitle, stageTitle] = match.match(
           /'''(\w+)''':\s*\[\[(.*?)\|(.*?)]]/
@@ -117,7 +106,8 @@ export function parseEnemyPage(page: string, expectedId: string) {
   return {
     name,
     image,
+    description,
+    ability,
     firstAppearances,
-    latestAppearance: latestAppearances[0],
   };
 }
