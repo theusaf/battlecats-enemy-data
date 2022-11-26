@@ -73,12 +73,16 @@ export interface Appearance {
 export interface WikiEnemyData {
   name: string;
   image: string;
+  wikiTitle: string;
   ability: string | null;
   description: string | null;
   firstAppearances: Appearance[];
 }
 
-export function parseEnemyPage(page: string, expectedId: string) {
+export function parseEnemyPage(
+  page: string,
+  expectedId: string
+): WikiEnemyData {
   const linkRegex = new RegExp(
     `==Reference==[\\s\\n]*\\*\\s*https://battlecats-db\\.com/enemy/${expectedId}\\.html`
   );
@@ -109,5 +113,6 @@ export function parseEnemyPage(page: string, expectedId: string) {
     description,
     ability,
     firstAppearances,
+    wikiTitle: page,
   };
 }

@@ -2,6 +2,7 @@ import { createRequire } from "node:module";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import fs from "node:fs/promises";
+import { CombinedEnemy } from "./wiki-database.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url)),
   requireJSON = createRequire(import.meta.url);
@@ -13,6 +14,7 @@ export const scrapedWiki = new Set<string>(
   requireJSON("./data/wiki_scraped.json")
 );
 export const enemyData = requireJSON("./data/enemies.json");
+export const needsHumanReview = requireJSON("./data/needs_human_review.json");
 
 export function formatJSON(data: any) {
   return JSON.stringify(data, null, 2);
@@ -40,4 +42,22 @@ export async function writeEnemyData() {
     formatJSON(enemyData),
     "utf8"
   );
+}
+
+export async function writeNeedsHumanReview() {
+  await fs.writeFile(
+    path.join(__dirname, "../data/needs_human_review.json"),
+    formatJSON(needsHumanReview),
+    "utf8"
+  );
+}
+
+export function addEnemy(enemy: CombinedEnemy) {
+  enemyData.push(enemy);
+  scrapedIDs.add(enemy.id);
+  scrapedWiki.add(enemy.wikiTitle);
+}
+
+export function addHumanReview(id: string) {
+  needsHumanReview.push(id);
 }

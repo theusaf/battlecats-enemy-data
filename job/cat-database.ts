@@ -3,6 +3,9 @@ import { JSDOM } from "jsdom";
 import { scrapedIDs } from "./data.js";
 import { REQUEST_OPTIONS } from "./util/constants.js";
 
+/**
+ * [id, name (jp)]
+ */
 export type EnemyListData = [string, string];
 
 export async function fetchEnemyListing(): Promise<EnemyListData[]> {
