@@ -33,4 +33,11 @@ jobs:
       - name: Install dependencies
         run: pnpm install
       - name: Update enemies
-        run: npm run update-data
+        run: npm start
+      - name: Commit changes
+        run: |
+          git config --local user.email "automated-enemy-script@theusaf.org"
+          git config --local user.name "Automated Enemy Script"
+          git add .
+          git commit -m "chore: update enemies"
+          git push
