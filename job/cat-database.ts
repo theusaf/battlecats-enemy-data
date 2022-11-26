@@ -68,17 +68,21 @@ export async function getEnemyData(id: string): Promise<BCDatabaseEnemy> {
       ),
     ].map((d) => d.firstElementChild?.textContent ?? d.textContent);
   return {
-    dps: parseFloat(dps),
-    hp: parseInt(health),
-    attack: parseInt(attack),
-    range: parseInt(range),
+    dps: parseNumber(dps),
+    hp: parseNumber(health),
+    attack: parseNumber(attack),
+    range: parseNumber(range),
     isSingleTarget: targetType === "単体",
-    speed: parseInt(speed),
-    knockbacks: parseInt(knockbacks),
-    cashDrop: parseInt(cashDrop),
+    speed: parseNumber(speed),
+    knockbacks: parseNumber(knockbacks),
+    cashDrop: parseNumber(cashDrop),
     id,
-    attackFreqency: parseInt(attackFreqency),
-    attackAnimation: parseInt(attackAnimation),
+    attackFreqency: parseNumber(attackFreqency),
+    attackAnimation: parseNumber(attackAnimation),
     name: document.querySelector("#List td:nth-child(2)").textContent,
   };
+}
+
+function parseNumber(value: string): number {
+  return parseFloat(value.replace(/,|\s/g, ""));
 }
