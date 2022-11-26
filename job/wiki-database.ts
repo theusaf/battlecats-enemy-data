@@ -13,7 +13,18 @@ const bot = new mwbot(
 export type CombinedEnemy = BCDatabaseEnemy & WikiEnemyData;
 
 export async function search(enemy: BCDatabaseEnemy): Promise<CombinedEnemy> {
-  const searchResults = await getSearchResults(enemy.id, enemy.name);
+  const initialResult = filterSearchResults(
+    await getSearchResults(enemy.id, enemy.name),
+    enemy
+  );
+  if (initialResult) return initialResult;
+  return filterSearchResults(await getOtherSearchResults(enemy.id), enemy);
+}
+
+async function filterSearchResults(
+  searchResults: string[],
+  enemy: BCDatabaseEnemy
+) {
   for (const title of searchResults) {
     if (scrapedWiki.has(title)) continue;
     const wikiData = parseEnemyPage(await getEnemyPage(title), enemy.id);
@@ -25,7 +36,6 @@ export async function search(enemy: BCDatabaseEnemy): Promise<CombinedEnemy> {
       };
     }
   }
-  return null;
 }
 
 export interface WikiSearchResultItem {
@@ -60,6 +70,19 @@ export async function getSearchResults(id: string, name: string) {
   ).query.search.map((item) => item.title);
 }
 
+export async function getOtherSearchResults(id: string) {
+  return (
+    await bot.requestJSON<WikiSearchResult>({
+      action: "query",
+      list: "search",
+      srlimit: 5,
+      srsearch: `https://battlecats-db.com/enemy/${id}.html`,
+      srwhat: "text",
+      srprop: "timestamp",
+    })
+  ).query.search.map((item) => item.title);
+}
+
 export async function getEnemyPage(title: string): Promise<string> {
   const response = await bot.read(title);
   return (getFirstValue(response.query.pages) as any).revisions[0]["*"];
@@ -68,7 +91,7 @@ export async function getEnemyPage(title: string): Promise<string> {
 export interface Appearance {
   section: string;
   stageWikiTitle: string;
-  stageTitle: string;
+  stageTitle?: string;
 }
 
 export interface WikiEnemyData {
@@ -86,7 +109,7 @@ export function parseEnemyPage(
   expectedId: string
 ): WikiEnemyData {
   const linkRegex = new RegExp(
-    `==Reference==[\\s\\n]*\\*\\s*https://battlecats-db\\.com/enemy/${expectedId}\\.html`
+    `==References?==[\\s\\n]*\\*\\s*https://battlecats-db\\.com/enemy/${expectedId}\\.html`
   );
   if (!linkRegex.test(page)) return null;
   const [, name] = page.match(/\|name\s*=\s*([^|]+)/),
@@ -102,7 +125,7 @@ export function parseEnemyPage(
       ?.match(/('''\w+''':\s*\[\[.*?]])/g)
       .map((match) => {
         const [, section, stageWikiTitle, stageTitle] = match.match(
-          /'''(\w+)''':\s*\[\[(.*?)\|(.*?)]]/
+          /'''(\w+)''':\s*\[\[(.*?)(?:\|(.*?))?]]/
         );
         return {
           section,
