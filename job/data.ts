@@ -8,13 +8,13 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url)),
   requireJSON = createRequire(import.meta.url);
 
 export const scrapedIDs = new Set<string>(
-  requireJSON("./data/ids_scraped.json")
+  requireJSON("../data/ids_scraped.json")
 );
 export const scrapedWiki = new Set<string>(
-  requireJSON("./data/wiki_scraped.json")
+  requireJSON("../data/wiki_scraped.json")
 );
-export const enemyData = requireJSON("./data/enemies.json");
-export const needsHumanReview = requireJSON("./data/needs_human_review.json");
+export const enemyData = requireJSON("../data/enemies.json");
+export const needsHumanReview = requireJSON("../data/needs_human_review.json");
 
 export function formatJSON(data: any) {
   return JSON.stringify(data, null, 2);
@@ -55,6 +55,9 @@ export async function writeNeedsHumanReview() {
 export function addEnemy(enemy: CombinedEnemy) {
   enemyData.push({
     id: enemy.id,
+    dps: enemy.dps,
+    appearances: enemy.firstAppearances,
+    image: enemy.image,
     wikiLink: `https://battle-cats.fandom.com/wiki/${enemy.wikiTitle}`,
     baseCashDrop: enemy.cashDrop,
     description: enemy.description,

@@ -21,6 +21,7 @@ export async function search(enemy: BCDatabaseEnemy): Promise<CombinedEnemy> {
       return {
         ...enemy,
         ...wikiData,
+        wikiTitle: title,
       };
     }
   }
@@ -73,7 +74,7 @@ export interface Appearance {
 export interface WikiEnemyData {
   name: string;
   image: string;
-  wikiTitle: string;
+  wikiTitle?: string;
   ability: string | null;
   element: string;
   description: string | null;
@@ -116,6 +117,5 @@ export function parseEnemyPage(
     ability,
     element,
     firstAppearances,
-    wikiTitle: page,
   };
 }
