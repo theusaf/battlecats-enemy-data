@@ -75,6 +75,7 @@ export interface WikiEnemyData {
   image: string;
   wikiTitle: string;
   ability: string | null;
+  element: string;
   description: string | null;
   firstAppearances: Appearance[];
 }
@@ -91,6 +92,7 @@ export function parseEnemyPage(
     [, image] = page.match(/\|image\s*=\s*([^|]+)/),
     description = page.match(/\|enemy_endesc1\s*=\s*(.*)/)?.[1] ?? null,
     ability = page.match(/\|Ability\s*=\s*((?:.|\n)*?)\n(\||})/i)?.[1] ?? null,
+    element = page.match(/\|Element\s*=\s*(.*)/i)?.[1],
     [, firstAppearanceValue] =
       page.match(
         /\|first appearance\s*=\s*('''\w+''':\s*\[\[.*?\]\]\s*(<br>[\s\n]*)?)*/
@@ -112,6 +114,7 @@ export function parseEnemyPage(
     image,
     description,
     ability,
+    element,
     firstAppearances,
     wikiTitle: page,
   };

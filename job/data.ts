@@ -53,7 +53,23 @@ export async function writeNeedsHumanReview() {
 }
 
 export function addEnemy(enemy: CombinedEnemy) {
-  enemyData.push(enemy);
+  enemyData.push({
+    id: enemy.id,
+    wikiLink: `https://battle-cats.fandom.com/wiki/${enemy.wikiTitle}`,
+    baseCashDrop: enemy.cashDrop,
+    description: enemy.description,
+    health: enemy.hp,
+    damage: enemy.attack,
+    range: enemy.range,
+    isSingleTarget: enemy.isSingleTarget,
+    attackFrequency: enemy.attackFrequency,
+    attackAnimation: enemy.attackAnimation,
+    movementSpeed: enemy.speed,
+    knockbacks: enemy.knockbacks,
+    specialAbility: enemy.ability,
+    referenceLink: `https://battlecats-db.com/enemy/${enemy.id}.html`,
+    attribute: enemy.element,
+  });
   scrapedIDs.add(enemy.id);
   scrapedWiki.add(enemy.wikiTitle);
 }

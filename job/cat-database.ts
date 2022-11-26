@@ -41,7 +41,7 @@ export interface BCDatabaseEnemy {
   knockbacks: number;
   cashDrop: number;
   id: string;
-  attackFreqency: number; // in "frames"
+  attackFrequency: number; // in "frames"
   attackAnimation: number; // in "frames"
 }
 
@@ -77,7 +77,7 @@ export async function getEnemyData(id: string): Promise<BCDatabaseEnemy> {
     knockbacks: parseNumber(knockbacks),
     cashDrop: parseNumber(cashDrop),
     id,
-    attackFreqency: parseNumber(attackFreqency),
+    attackFrequency: parseNumber(attackFreqency),
     attackAnimation: parseNumber(attackAnimation),
     name: document.querySelector("#List td:nth-child(2)").textContent,
   };
