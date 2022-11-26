@@ -14,25 +14,30 @@ interface ReleaseOrder {
   [key: string]: string;
 }
 
-let cachedMappings: ReleaseOrder = {};
+let cachedMappings: ReleaseOrder;
 
 export async function readEnemyReleaseOrder() {
   if (cachedMappings) return cachedMappings;
-  const page = await getPageContent("Enemy Release Order"),
-    lines = page.match(/^\|(\d+)\n\|\[\[(.*?)(?:\|.*)?\]\]/gm);
-  for (const line of lines) {
-    const [, id, name] = line.match(/^\|(\d+)\n\|\[\[(.*?)(?:\|.*)?\]\]/);
-    cachedMappings[`${id}`.padStart(3, "0")] = name;
+  try {
+    const page = await getPageContent("Enemy Release Order"),
+      lines = page.match(/^\|(\d+)\n\|\[\[(.*?)(?:\|.*)?\]\]/gm);
+    cachedMappings = {};
+    for (const line of lines) {
+      const [, id, name] = line.match(/^\|(\d+)\n\|\[\[(.*?)(?:\|.*)?\]\]/);
+      cachedMappings[`${id}`.padStart(3, "0")] = name;
+    }
+    return cachedMappings;
+  } catch (e) {
+    cachedMappings = null;
+    return {};
   }
-  return cachedMappings;
 }
 
 export type CombinedEnemy = BCDatabaseEnemy & WikiEnemyData;
 
 export async function search(enemy: BCDatabaseEnemy): Promise<CombinedEnemy> {
-  if ((await readEnemyReleaseOrder())[enemy.id]) {
-    return getWikiData((await readEnemyReleaseOrder())[enemy.id], enemy);
-  }
+  const order = await readEnemyReleaseOrder();
+  if (order[enemy.id]) return getWikiData(order[enemy.id], enemy);
   const initialResult = filterSearchResults(
     await getSearchResults(enemy.id, enemy.name),
     enemy
