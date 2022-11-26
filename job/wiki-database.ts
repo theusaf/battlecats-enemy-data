@@ -78,7 +78,7 @@ export interface WikiEnemyData {
   ability: string | null;
   element: string;
   description: string | null;
-  firstAppearances: Appearance[];
+  firstAppearances: Appearance[] | null;
 }
 
 export function parseEnemyPage(
@@ -116,6 +116,6 @@ export function parseEnemyPage(
     description,
     ability,
     element,
-    firstAppearances,
+    firstAppearances: firstAppearances ?? null,
   };
 }
