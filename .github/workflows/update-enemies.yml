@@ -37,6 +37,7 @@ jobs:
       - name: Update enemies
         run: npm start
       - name: Commit changes
+        continue-on-error: true
         run: |
           git config --local user.email "automated-enemy-script@theusaf.org"
           git config --local user.name "Automated Enemy Script"
