@@ -13684,5 +13684,25 @@
     "specialAbility": "Attack power increases by 100% at 50% health<br>",
     "referenceLink": "https://battlecats-db.com/enemy/528.html",
     "attribute": "Relic"
+  },
+  {
+    "id": "634",
+    "dps": null,
+    "appearances": null,
+    "image": "E 632.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/632 (Enemy Base)",
+    "baseCashDrop": 0,
+    "description": null,
+    "health": 3000000,
+    "damage": 0,
+    "range": 0,
+    "isSingleTarget": true,
+    "attackFrequency": 1,
+    "attackAnimation": 1,
+    "movementSpeed": 0,
+    "knockbacks": 0,
+    "specialAbility": "Immune to [[Special Abilities#Immune to Waves|Waves]], [[Special Abilities#Immune to Weaken|Weaken]], [[Special Abilities#Immune to Knockback|Knockback]], [[Special Abilities#Immune to Freeze|Freeze]], [[Special Abilities#Immune to Slow|Slow]] and [[Special Abilities#Immune to Surge|Surge]]",
+    "referenceLink": "https://battlecats-db.com/enemy/634.html",
+    "attribute": "Typeless"
   }
 ]
