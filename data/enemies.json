@@ -13704,5 +13704,97 @@
     "specialAbility": "Immune to [[Special Abilities#Immune to Waves|Waves]], [[Special Abilities#Immune to Weaken|Weaken]], [[Special Abilities#Immune to Knockback|Knockback]], [[Special Abilities#Immune to Freeze|Freeze]], [[Special Abilities#Immune to Slow|Slow]] and [[Special Abilities#Immune to Surge|Surge]]",
     "referenceLink": "https://battlecats-db.com/enemy/634.html",
     "attribute": "Typeless"
+  },
+  {
+    "id": "629",
+    "dps": 16153,
+    "appearances": null,
+    "image": "Placeholder.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/627 (Relic) (Behemoth)",
+    "baseCashDrop": 2100,
+    "description": "-",
+    "health": 2200000,
+    "damage": 35000,
+    "range": 250,
+    "isSingleTarget": false,
+    "attackFrequency": 65,
+    "attackAnimation": 10,
+    "movementSpeed": 13,
+    "knockbacks": 3,
+    "specialAbility": "[[Special Abilities#Multi-Hit|Multi-Hit]] (10,000 at 10f <sup>0.33s</sup>, 10,000 at 21f <sup>0.7s</sup>, 15,000 at 32f <sup>1.07s</sup>)<br>\n[[Special Abilities#Long Distance|Long Distance]] (Effective range: 1~251 at 1st hit, 1~301 at 2nd hit, 1~351 at 3rd hit)<br>\n100% chance to [[Special Abilities#Curse|curse]] Cat Units for 90f <sub>3 seconds</sub> on 3rd hit<br>\n50% chance to create a level 2 [[Surge Attack]] between 150 and 750 range on 3rd hit<br>\n[[Special Abilities#Immune to Knockback|Immune to Knockback]], [[Special Abilities#Immune to Slow|Slow]], and [[Special Abilities#Evade Surge|Surge]]",
+    "referenceLink": "https://battlecats-db.com/enemy/629.html",
+    "attribute": "Relic/Behemoth"
+  },
+  {
+    "id": "630",
+    "dps": 11065,
+    "appearances": [
+      {
+        "section": "UL",
+        "stageWikiTitle": "UL 48-6",
+        "stageTitle": "Sub-chapter 48 - 6"
+      }
+    ],
+    "image": "Placeholder.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/628 (Relic) (Behemoth)",
+    "baseCashDrop": 5555,
+    "description": "-",
+    "health": 2500000,
+    "damage": 90000,
+    "range": 400,
+    "isSingleTarget": false,
+    "attackFrequency": 244,
+    "attackAnimation": 60,
+    "movementSpeed": 6,
+    "knockbacks": 4,
+    "specialAbility": "[[Special Abilities#Multi-Hit|Multi-Hit]] (45,000 at 60f <sup>2s</sup>, 45,000 at 67f <sup>2.23s</sup>)<br>\n[[Special Abilities#Omni Strike|Omni Strike]] (Effective range: -400~400 at 1st hit, 300~700 at 2nd hit)<br>\n100% chance to [[Special Abilities#Curse|curse]] Cat Units for 300f <sub>10 seconds</sub><br>\n[[Special Abilities#Immune to Waves|Immune to Waves]]",
+    "referenceLink": "https://battlecats-db.com/enemy/630.html",
+    "attribute": "Relic/Behemoth"
+  },
+  {
+    "id": "631",
+    "dps": 22429,
+    "appearances": [
+      {
+        "section": "UL",
+        "stageWikiTitle": "UL 49-1",
+        "stageTitle": "Sub-chapter 49 - 1"
+      }
+    ],
+    "image": "Placeholder.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/629 (Relic) (Colossal)",
+    "baseCashDrop": 9999,
+    "description": "-",
+    "health": 4000000,
+    "damage": 160000,
+    "range": 450,
+    "isSingleTarget": false,
+    "attackFrequency": 214,
+    "attackAnimation": 60,
+    "movementSpeed": 4,
+    "knockbacks": 3,
+    "specialAbility": "[[Special Abilities#Multi-Hit|Multi-Hit]] (80,000 at 60f <sup>2s</sup>, 80,000 at 67f <sup>2.23s</sup>)<br>\n[[Special Abilities#Omni Strike|Omni Strike]] (Effective range: -450~450 at 1st hit, 375~775 at 2nd hit)<br>\n[[Special Abilities#Strengthen|Strengthens]] by 100% at 33% health<br>\n100% chance to [[Special Abilities#Curse|curse]] Cat Units for 999f <sub>33.3 seconds</sub><br>\n[[Special Abilities#Immune to Waves|Immune to Waves]] and [[Special Abilities#Immune to Freeze|Freeze]]",
+    "referenceLink": "https://battlecats-db.com/enemy/631.html",
+    "attribute": "Relic/Colossal"
+  },
+  {
+    "id": "633",
+    "dps": 1058,
+    "appearances": null,
+    "image": "Placeholder.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Rabbit Doge (Event Enemy)",
+    "baseCashDrop": 150,
+    "description": null,
+    "health": 3000,
+    "damage": 600,
+    "range": 110,
+    "isSingleTarget": true,
+    "attackFrequency": 17,
+    "attackAnimation": 4,
+    "movementSpeed": 25,
+    "knockbacks": 3,
+    "specialAbility": "-",
+    "referenceLink": "https://battlecats-db.com/enemy/633.html",
+    "attribute": "Traitless"
   }
 ]
