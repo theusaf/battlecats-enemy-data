@@ -13796,5 +13796,25 @@
     "specialAbility": "-",
     "referenceLink": "https://battlecats-db.com/enemy/633.html",
     "attribute": "Traitless"
+  },
+  {
+    "id": "632",
+    "dps": 66666,
+    "appearances": null,
+    "image": "Placeholder.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/630 (Floating)",
+    "baseCashDrop": 6000,
+    "description": "-",
+    "health": 3000000,
+    "damage": 3000000,
+    "range": 2000,
+    "isSingleTarget": false,
+    "attackFrequency": 1350,
+    "attackAnimation": 1200,
+    "movementSpeed": 30,
+    "knockbacks": 200,
+    "specialAbility": "[[Special Abilities#Long Distance|Long Distance]] (Effective range: 300~4,300)<br>\n[[Special Abilities#Immune to Waves|Immune to Waves]], [[Special Abilities#Immune to Knockback|Knockback]], [[Special Abilities#Immune to Freeze|Freeze]], [[Special Abilities#Immune to Slow|Slow]], [[Special Abilities#Immune to Weaken|Weaken]], and [[Special Abilities#Evade Surge|Surge]]",
+    "referenceLink": "https://battlecats-db.com/enemy/632.html",
+    "attribute": "Floating"
   }
 ]
