@@ -143,7 +143,7 @@ export function parseEnemyPage(
   const linkRegex = new RegExp(
     `==[\\s\\u200b]*References?[\\s\\u200b]*==[\\s\\n]*\\*\\s*https://battlecats-db\\.com/enemy/${expectedId}\\.html`
   ),
-  notReadyRegex = /"This article's name is not official.?"|\|\s*image\s*=\s*Placeholder\.png/i;
+  notReadyRegex = /:.*?name is not official\."|:.*?has no offical name\."|\|\s*image\s*=\s*Placeholder\.png/i;
   if (!linkRegex.test(page)) return null;
   if (notReadyRegex.test(page)) return null;
   const [, name] = page.match(/\|name\s*=\s*([^|]+)/),
