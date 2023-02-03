@@ -13684,5 +13684,149 @@
     "specialAbility": "Attack power increases by 100% at 50% health<br>",
     "referenceLink": "https://battlecats-db.com/enemy/528.html",
     "attribute": "Relic"
+  },
+  {
+    "id": "629",
+    "dps": 16153,
+    "appearances": [
+      {
+        "section": "ZL",
+        "stageWikiTitle": "A Whole New World",
+        "stageTitle": "Sub-chapter 1 - A Whole New World"
+      }
+    ],
+    "image": "E 627.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Ancient Magamojoe (Relic) (Behemoth)",
+    "baseCashDrop": 2100,
+    "description": "Old-fashioned duck with three children in tow.<br>Has a tendency to fly off the handle. A strict<br>parent that raises ducklings to one day leave<br>the nest. Sends money to his youngest duckling.",
+    "health": 2200000,
+    "damage": 35000,
+    "range": 250,
+    "isSingleTarget": false,
+    "attackFrequency": 65,
+    "attackAnimation": 10,
+    "movementSpeed": 13,
+    "knockbacks": 3,
+    "specialAbility": "[[Special Abilities#Multi-Hit|Multi-Hit]] (10,000 at 10f <sup>0.33s</sup>, 10,000 at 21f <sup>0.7s</sup>, 15,000 at 32f <sup>1.07s</sup>)<br>\n[[Special Abilities#Long Distance|Long Distance]] (Effective range: 1~251 at 1st hit, 1~301 at 2nd hit, 1~351 at 3rd hit)<br>\n100% chance to [[Special Abilities#Curse|curse]] Cat Units for 90f <sub>3 seconds</sub> on 3rd hit<br>\n50% chance to create a level 2 [[Surge Attack]] between 150 and 750 range on 3rd hit<br>\n[[Special Abilities#Immune to Knockback|Immune to Knockback]], [[Special Abilities#Immune to Slow|Slow]], and [[Special Abilities#Evade Surge|Surge]]",
+    "referenceLink": "https://battlecats-db.com/enemy/629.html",
+    "attribute": "Relic/Behemoth"
+  },
+  {
+    "id": "630",
+    "dps": 11065,
+    "appearances": [
+      {
+        "section": "UL",
+        "stageWikiTitle": "Reign of the Ape Lord",
+        "stageTitle": "Sub-chapter 48 - Reign of the Ape Lord"
+      }
+    ],
+    "image": "E 628.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Great Ape Luza (Relic) (Behemoth)",
+    "baseCashDrop": 5555,
+    "description": "A large ape that has guarded the Sacred Woods<br>since ancient times. Considered the origin of<br>humans. Can stand against Behemoths that<br>wield the Ancient Curse.",
+    "health": 2500000,
+    "damage": 90000,
+    "range": 400,
+    "isSingleTarget": false,
+    "attackFrequency": 244,
+    "attackAnimation": 60,
+    "movementSpeed": 6,
+    "knockbacks": 4,
+    "specialAbility": "[[Special Abilities#Multi-Hit|Multi-Hit]] (45,000 at 60f <sup>2s</sup>, 45,000 at 67f <sup>2.23s</sup>)<br>\n[[Special Abilities#Omni Strike|Omni Strike]] (Effective range: -400~400 at 1st hit, 300~700 at 2nd hit)<br>\n100% chance to [[Special Abilities#Curse|curse]] Cat Units for 300f <sub>10 seconds</sub><br>\n[[Special Abilities#Immune to Waves|Immune to Waves]]",
+    "referenceLink": "https://battlecats-db.com/enemy/630.html",
+    "attribute": "Relic/Behemoth"
+  },
+  {
+    "id": "631",
+    "dps": 22429,
+    "appearances": [
+      {
+        "section": "UL",
+        "stageWikiTitle": "Revival of Origin",
+        "stageTitle": "Sub-chapter 49 - Revival of Origin"
+      }
+    ],
+    "image": "E 629.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Zero Luza (Relic) (Colossus)",
+    "baseCashDrop": 9999,
+    "description": "Takes in the energy that makes up all things<br>With its true power fully awakened, mercilessly<br>corners anything with its massive fists and ends<br>its prey with unrelenting power.",
+    "health": 4000000,
+    "damage": 160000,
+    "range": 450,
+    "isSingleTarget": false,
+    "attackFrequency": 214,
+    "attackAnimation": 60,
+    "movementSpeed": 4,
+    "knockbacks": 3,
+    "specialAbility": "[[Special Abilities#Multi-Hit|Multi-Hit]] (80,000 at 60f <sup>2s</sup>, 80,000 at 67f <sup>2.23s</sup>)<br>\n[[Special Abilities#Omni Strike|Omni Strike]] (Effective range: -450~450 at 1st hit, 375~775 at 2nd hit)<br>\n[[Special Abilities#Strengthen|Strengthens]] by 100% at 33% health<br>\n100% chance to [[Special Abilities#Curse|curse]] Cat Units for 999f <sub>33.3 seconds</sub><br>\n[[Special Abilities#Immune to Waves|Immune to Waves]] and [[Special Abilities#Immune to Freeze|Freeze]]",
+    "referenceLink": "https://battlecats-db.com/enemy/631.html",
+    "attribute": "Relic/Colossal"
+  },
+  {
+    "id": "632",
+    "dps": 66666,
+    "appearances": [
+      {
+        "section": "ZL",
+        "stageWikiTitle": "A Whole New World",
+        "stageTitle": "Sub-chapter 1 - A Whole New World"
+      }
+    ],
+    "image": "E 630.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Metafilibuster (Floating)",
+    "baseCashDrop": 6000,
+    "description": "Wanders infinite worlds leaving a trail of both <br>destruction and creation in its wake. Its<br>makeup is a mystery, as is its power. All<br>negative effects are ineffective against it.",
+    "health": 3000000,
+    "damage": 3000000,
+    "range": 2000,
+    "isSingleTarget": false,
+    "attackFrequency": 1350,
+    "attackAnimation": 1200,
+    "movementSpeed": 30,
+    "knockbacks": 200,
+    "specialAbility": "[[Special Abilities#Long Distance|Long Distance]] (Effective range: 300~4,300)<br>\n[[Special Abilities#Immune to Waves|Immune to Waves]], [[Special Abilities#Immune to Knockback|Knockback]], [[Special Abilities#Immune to Freeze|Freeze]], [[Special Abilities#Immune to Slow|Slow]], [[Special Abilities#Immune to Weaken|Weaken]], and [[Special Abilities#Evade Surge|Surge]]",
+    "referenceLink": "https://battlecats-db.com/enemy/632.html",
+    "attribute": "Floating"
+  },
+  {
+    "id": "633",
+    "dps": 1058,
+    "appearances": null,
+    "image": "E 631.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Rabbit Doge (Event Enemy)",
+    "baseCashDrop": 150,
+    "description": null,
+    "health": 3000,
+    "damage": 600,
+    "range": 110,
+    "isSingleTarget": true,
+    "attackFrequency": 17,
+    "attackAnimation": 4,
+    "movementSpeed": 25,
+    "knockbacks": 3,
+    "specialAbility": "-",
+    "referenceLink": "https://battlecats-db.com/enemy/633.html",
+    "attribute": "Traitless"
+  },
+  {
+    "id": "634",
+    "dps": null,
+    "appearances": null,
+    "image": "E 632.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Origin Base (Enemy Base)",
+    "baseCashDrop": 0,
+    "description": null,
+    "health": 3000000,
+    "damage": 0,
+    "range": 0,
+    "isSingleTarget": true,
+    "attackFrequency": 1,
+    "attackAnimation": 1,
+    "movementSpeed": 0,
+    "knockbacks": 0,
+    "specialAbility": "Immune to [[Special Abilities#Immune to Waves|Waves]], [[Special Abilities#Immune to Weaken|Weaken]], [[Special Abilities#Immune to Knockback|Knockback]], [[Special Abilities#Immune to Freeze|Freeze]], [[Special Abilities#Immune to Slow|Slow]] and [[Special Abilities#Immune to Surge|Surge]]",
+    "referenceLink": "https://battlecats-db.com/enemy/634.html",
+    "attribute": "Typeless"
   }
 ]
