@@ -13968,5 +13968,71 @@
     "specialAbility": "15% chance to [[Special Abilities#Freeze|freeze]] Cat Units for 50f <sub>1.67 seconds</sub><br>\n100% chance to create a level 4 [[Wave Attack#Mini-Wave|Mini-Wave]]<br>\n[[Special Abilities#Immune to Slow|Immune to Slow]] and [[Special Abilities#Evade Surge|Surge]]",
     "referenceLink": "https://battlecats-db.com/enemy/641.html",
     "attribute": "Red/Behemoth"
+  },
+  {
+    "id": "643",
+    "dps": 11142,
+    "appearances": [
+      {
+        "section": "ZL",
+        "stageWikiTitle": "ZL 3-6",
+        "stageTitle": "Subchapter 3 - ZL 3-6"
+      }
+    ],
+    "image": "E 641.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/641 (Behemoth)",
+    "baseCashDrop": 2300,
+    "description": "-",
+    "health": 2000000,
+    "damage": 13000,
+    "range": 420,
+    "isSingleTarget": false,
+    "attackFrequency": 35,
+    "attackAnimation": 8,
+    "movementSpeed": 2,
+    "knockbacks": 1,
+    "specialAbility": "[[Special Abilities#Immune to Waves|Immune to Waves]], [[Special Abilities#Immune to Knockback|Knockback]], [[Special Abilities#Immune to Freeze|Freeze]], [[Special Abilities#Immune to Slow|Slow]], [[Special Abilities#Immune to Weaken|Weaken]], and [[Special Abilities#Evade Surge|Surge]]",
+    "referenceLink": "https://battlecats-db.com/enemy/643.html",
+    "attribute": "Traitless/Behemoth"
+  },
+  {
+    "id": "644",
+    "dps": 78764,
+    "appearances": null,
+    "image": "E 642.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/642 (Aku)",
+    "baseCashDrop": 6666,
+    "description": "-",
+    "health": 4666666,
+    "damage": 679998,
+    "range": 400,
+    "isSingleTarget": false,
+    "attackFrequency": 259,
+    "attackAnimation": 60,
+    "movementSpeed": 3,
+    "knockbacks": 3,
+    "specialAbility": "[[Special Abilities#Multi-Hit|Multi-Hit]] (666,666 at 60f <sup>2s</sup>, 6,666 at 70f <sup>2.33s</sup>, 6,666 at 80f <sup>2.67s</sup>)<br>\n[[Special Abilities#Omni Strike|Omni Strike]] (Effective range: -400~400 on 1st hit, 500~800 on 2nd hit, 1,000~1,250 on 3rd hit)<br>\n100% chance to perform a [[Special Abilities#Toxic|Toxic]] attack (takes 30% of Cat Units' maximum health) on 2nd and 3rd hits<br>\n[[Special Abilities#Immune to Knockback|Immune to Knockback]], [[Special Abilities#Immune to Weaken|Weaken]], and [[Special Abilities#Evade Surge|Surge]]",
+    "referenceLink": "https://battlecats-db.com/enemy/644.html",
+    "attribute": "Aku"
+  },
+  {
+    "id": "645",
+    "dps": 6716,
+    "appearances": null,
+    "image": "E 643.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/643",
+    "baseCashDrop": 3000,
+    "description": "-",
+    "health": 3000000,
+    "damage": 45000,
+    "range": 400,
+    "isSingleTarget": false,
+    "attackFrequency": 201,
+    "attackAnimation": 105,
+    "movementSpeed": 4,
+    "knockbacks": 3,
+    "specialAbility": "[[Special Abilities#Omni Strike|Omni Strike]] (Effective range: -300~500)<br>\n20% chance to [[Special Abilities#Slow|slow]] Cat Units for 120f <sub>4 seconds</sub>",
+    "referenceLink": "https://battlecats-db.com/enemy/645.html",
+    "attribute": "Traitless"
   }
 ]
