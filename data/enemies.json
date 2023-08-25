@@ -14234,5 +14234,51 @@
     "specialAbility": "[[Special Abilities#Multi-Hit|Multi-Hit]] (38,000 at 60f <sup>2s</sup>, 38,000 at 66f <sup>2.2s</sup>, 38,000 at 72f <sup>2.4s</sup>)<br>\n100% chance to create a level 1 [[Surge Attack]] between 150 and 1,000 range<br>\n[[Special Abilities#Immune to Weaken|Immune to Weaken]]<br>\nWhen hit by a [[Surge Attack]], creates its own Surge of equal level and spawn range",
     "referenceLink": "https://battlecats-db.com/enemy/655.html",
     "attribute": "Traitless"
+  },
+  {
+    "id": "656",
+    "dps": 14810,
+    "appearances": [
+      {
+        "section": "ZL",
+        "stageWikiTitle": "ZL 6-2",
+        "stageTitle": "Sub-chapter 6 - ZL 6-2"
+      }
+    ],
+    "image": "E_654.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/654 (Colossus)",
+    "baseCashDrop": 200,
+    "description": "-",
+    "health": 48000,
+    "damage": 39000,
+    "range": 200,
+    "isSingleTarget": true,
+    "attackFrequency": 79,
+    "attackAnimation": 12,
+    "movementSpeed": 8,
+    "knockbacks": 1,
+    "specialAbility": "[[Special Abilities#Multi-Hit|Multi-Hit]] (13,000 at 12f <sup>0.4s</sup>, 13,000 at 16f <sup>0.53s</sup>, 13,000 at 20f <sup>0.67s</sup>)<br>\n[[Special Abilities#Omni Strike|Omni Strike]] (Effective range: -70~230)<br>\nWhen hit by a [[Surge Attack]], creates its own Surge of equal level and spawn range",
+    "referenceLink": "https://battlecats-db.com/enemy/656.html",
+    "attribute": "Traitless/Colossal"
+  },
+  {
+    "id": "657",
+    "dps": 7438,
+    "appearances": null,
+    "image": "E 655.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/655 (Black / Behemoth)",
+    "baseCashDrop": 3500,
+    "description": "-",
+    "health": 2900000,
+    "damage": 30000,
+    "range": 300,
+    "isSingleTarget": false,
+    "attackFrequency": 121,
+    "attackAnimation": 8,
+    "movementSpeed": 40,
+    "knockbacks": 20,
+    "specialAbility": "[[Special Abilities#Omni Strike|Omni Strike]] (Effective range: -750~450)<br>\n100% chance to [[Special Abilities#Weaken|weaken]] Cat Units to 50% for 90f <sub>3 seconds</sub><br>\n[[Special Abilities#Immune to Freeze|Immune to Freeze]] and [[Special Abilities#Immune to Slow|Slow]]",
+    "referenceLink": "https://battlecats-db.com/enemy/657.html",
+    "attribute": "Black/Behemoth"
   }
 ]
