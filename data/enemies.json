@@ -14280,5 +14280,25 @@
     "specialAbility": "[[Special Abilities#Omni Strike|Omni Strike]] (Effective range: -750~450)<br>\n100% chance to [[Special Abilities#Weaken|weaken]] Cat Units to 50% for 90f <sub>3 seconds</sub><br>\n[[Special Abilities#Immune to Freeze|Immune to Freeze]] and [[Special Abilities#Immune to Slow|Slow]]",
     "referenceLink": "https://battlecats-db.com/enemy/657.html",
     "attribute": "Black/Behemoth"
+  },
+  {
+    "id": "659",
+    "dps": null,
+    "appearances": null,
+    "image": "E 659.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/659 (Floating / Behemoth)",
+    "baseCashDrop": 0,
+    "description": "-",
+    "health": 10,
+    "damage": 1,
+    "range": 50,
+    "isSingleTarget": true,
+    "attackFrequency": 1000,
+    "attackAnimation": 1,
+    "movementSpeed": 0,
+    "knockbacks": 1,
+    "specialAbility": "[[Special Abilities#Omni Strike|Omni Strike]] (Effective range: -250~550)<br>\n100% chance to [[Special Abilities#Weaken|weaken]] Cat Units to 50% for 60f <sub>2 seconds</sub><br>\n[[Special Abilities#Immune to Waves|Immune to Waves]], [[Special Abilities#Immune to Freeze|Freeze]], [[Special Abilities#Immune to Slow|Slow]], [[Special Abilities#Warp Blocker|Warp]] and [[Special Abilities#Immune to Surge|Surge]]",
+    "referenceLink": "https://battlecats-db.com/enemy/659.html",
+    "attribute": "Floating/Behemoth"
   }
 ]
