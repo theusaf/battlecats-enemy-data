@@ -14300,5 +14300,25 @@
     "specialAbility": "[[Special Abilities#Omni Strike|Omni Strike]] (Effective range: -250~550)<br>\n100% chance to [[Special Abilities#Weaken|weaken]] Cat Units to 50% for 60f <sub>2 seconds</sub><br>\n[[Special Abilities#Immune to Waves|Immune to Waves]], [[Special Abilities#Immune to Freeze|Freeze]], [[Special Abilities#Immune to Slow|Slow]], [[Special Abilities#Warp Blocker|Warp]] and [[Special Abilities#Immune to Surge|Surge]]",
     "referenceLink": "https://battlecats-db.com/enemy/659.html",
     "attribute": "Floating/Behemoth"
+  },
+  {
+    "id": "661",
+    "dps": 26905,
+    "appearances": null,
+    "image": "E 659.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Ensanglion the Calamity (Floating / Behemoth)",
+    "baseCashDrop": 4000,
+    "description": "Slain by its virtuous other self in the past<br>to be sealed away in eternal seclusion. As<br>a growing miasma births more Behemoths,<br>the first Emperor's seal too has been broken.",
+    "health": 2800000,
+    "damage": 200000,
+    "range": 350,
+    "isSingleTarget": false,
+    "attackFrequency": 223,
+    "attackAnimation": 84,
+    "movementSpeed": 35,
+    "knockbacks": 4,
+    "specialAbility": "[[Special Abilities#Omni Strike|Omni Strike]] (Effective range: -250~550)<br>\n100% chance to [[Special Abilities#Weaken|weaken]] Cat Units to 50% for 60f <sub>2 seconds</sub><br>\n[[Special Abilities#Immune to Waves|Immune to Waves]], [[Special Abilities#Immune to Freeze|Freeze]], [[Special Abilities#Immune to Slow|Slow]], [[Special Abilities#Warp Blocker|Warp]] and [[Special Abilities#Immune to Surge|Surge]]",
+    "referenceLink": "https://battlecats-db.com/enemy/661.html",
+    "attribute": "Floating/Behemoth"
   }
 ]
