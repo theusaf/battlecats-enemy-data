@@ -14320,5 +14320,25 @@
     "specialAbility": "[[Special Abilities#Omni Strike|Omni Strike]] (Effective range: -250~550)<br>\n100% chance to [[Special Abilities#Weaken|weaken]] Cat Units to 50% for 60f <sub>2 seconds</sub><br>\n[[Special Abilities#Immune to Waves|Immune to Waves]], [[Special Abilities#Immune to Freeze|Freeze]], [[Special Abilities#Immune to Slow|Slow]], [[Special Abilities#Warp Blocker|Warp]] and [[Special Abilities#Immune to Surge|Surge]]",
     "referenceLink": "https://battlecats-db.com/enemy/661.html",
     "attribute": "Floating/Behemoth"
+  },
+  {
+    "id": "672",
+    "dps": 122,
+    "appearances": null,
+    "image": "E 670.jpg\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Secret Doge (Enemy)",
+    "baseCashDrop": 1111,
+    "description": null,
+    "health": 100000,
+    "damage": 500,
+    "range": 270,
+    "isSingleTarget": false,
+    "attackFrequency": 122,
+    "attackAnimation": 65,
+    "movementSpeed": 8,
+    "knockbacks": 2,
+    "specialAbility": "[[Special Abilities#Omni Strike|Omni Strike]] (Effective range: -540~540)<br>\n100% chance to [[Special Abilities#Freeze|freeze]] Cat Units for 40f <sub>1.33 seconds</sub>",
+    "referenceLink": "https://battlecats-db.com/enemy/672.html",
+    "attribute": "Floating"
   }
 ]
