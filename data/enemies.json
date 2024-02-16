@@ -14460,5 +14460,77 @@
     "specialAbility": "[[Special Abilities#Omni Strike|Omni Strike]] (Effective range: -430~430)<br>\n30% chance to [[Special Abilities#Freeze|freeze]] Cat Units for 60f <sub>2 seconds</sub>",
     "referenceLink": "https://battlecats-db.com/enemy/679.html",
     "attribute": "Floating/Sage"
+  },
+  {
+    "id": "680",
+    "dps": 60,
+    "appearances": null,
+    "image": "E 678.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Killer Axe Cat Base (Enemy Base)",
+    "baseCashDrop": 0,
+    "description": null,
+    "health": 30000,
+    "damage": 600,
+    "range": 2000,
+    "isSingleTarget": false,
+    "attackFrequency": 297,
+    "attackAnimation": 42,
+    "movementSpeed": 0,
+    "knockbacks": 1,
+    "specialAbility": "[[Special Abilities#Immune to Waves|Immune to Waves]], [[Special Abilities#Immune to Knockback|Knockback]], [[Special Abilities#Immune to Freeze|Freeze]], [[Special Abilities#Immune to Slow|Slow]], and [[Special Abilities#Immune to Weaken|Weaken]]",
+    "referenceLink": "https://battlecats-db.com/enemy/680.html",
+    "attribute": "Typeless"
+  },
+  {
+    "id": "681",
+    "dps": 8571,
+    "appearances": [
+      {
+        "section": "ZL",
+        "stageWikiTitle": "ZL 10-1",
+        "stageTitle": "Sub-chapter 10 - ZL 10-1"
+      }
+    ],
+    "image": "E 679.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/679 (Sage)",
+    "baseCashDrop": 250,
+    "description": "-",
+    "health": 120000,
+    "damage": 10000,
+    "range": 120,
+    "isSingleTarget": false,
+    "attackFrequency": 35,
+    "attackAnimation": 6,
+    "movementSpeed": 18,
+    "knockbacks": 3,
+    "specialAbility": "35% chance to [[Special Abilities#Freeze|freeze]] Cat Units for 90f <sub>3 seconds</sub>",
+    "referenceLink": "https://battlecats-db.com/enemy/681.html",
+    "attribute": "Traitless/Sage"
+  },
+  {
+    "id": "682",
+    "dps": 1269,
+    "appearances": [
+      {
+        "section": "ZL",
+        "stageWikiTitle": "ZL 10-6",
+        "stageTitle": "Sub-chapter 10 - ZL 10-6"
+      }
+    ],
+    "image": "E 780.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/680 (Angel) (Sage)",
+    "baseCashDrop": 750,
+    "description": "-",
+    "health": 650000,
+    "damage": 5500,
+    "range": 320,
+    "isSingleTarget": false,
+    "attackFrequency": 130,
+    "attackAnimation": 11,
+    "movementSpeed": 8,
+    "knockbacks": 6,
+    "specialAbility": "[[Special Abilities#Long Distance|Long Distance]] (Effective range: 420~770)<br>\n100% chance to [[Special Abilities#Slow|slow]] Cat Units for 150f <sub>5 seconds</sub>",
+    "referenceLink": "https://battlecats-db.com/enemy/682.html",
+    "attribute": "Angel/Sage"
   }
 ]
