@@ -14652,5 +14652,25 @@
     "specialAbility": "[[Special Abilities#Multi-Hit|Multi-Hit]] (13,000 at 2f <sup>0.07s</sup>, 500 at 4f <sup>0.13s</sup>, 5,100 at 8f <sup>0.27s</sup>)",
     "referenceLink": "https://battlecats-db.com/enemy/694.html",
     "attribute": "Red/Sage"
+  },
+  {
+    "id": "692",
+    "dps": 432,
+    "appearances": null,
+    "image": "E 690.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Aoshi Shinomori (Enemy)",
+    "baseCashDrop": 1500,
+    "description": null,
+    "health": 150000,
+    "damage": 3500,
+    "range": 400,
+    "isSingleTarget": false,
+    "attackFrequency": 243,
+    "attackAnimation": 60,
+    "movementSpeed": 15,
+    "knockbacks": 5,
+    "specialAbility": "[[Special Abilities#Long Distance|Long Distance]] (Effective range: 250~650)<br>\n100% chance to [[Special Abilities#Freeze|freeze]] Cat Units for 150f <sub>5 seconds</sub>",
+    "referenceLink": "https://battlecats-db.com/enemy/692.html",
+    "attribute": "Traitless"
   }
 ]
