@@ -14672,5 +14672,25 @@
     "specialAbility": "[[Special Abilities#Long Distance|Long Distance]] (Effective range: 250~650)<br>\n100% chance to [[Special Abilities#Freeze|freeze]] Cat Units for 150f <sub>5 seconds</sub>",
     "referenceLink": "https://battlecats-db.com/enemy/692.html",
     "attribute": "Traitless"
+  },
+  {
+    "id": "696",
+    "dps": 6011,
+    "appearances": null,
+    "image": "E 694.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/694",
+    "baseCashDrop": 1505,
+    "description": "-",
+    "health": 850000,
+    "damage": 12022,
+    "range": 350,
+    "isSingleTarget": false,
+    "attackFrequency": 60,
+    "attackAnimation": 30,
+    "movementSpeed": 9,
+    "knockbacks": 3,
+    "specialAbility": "[[Special Abilities#Omni Strike|Omni Strike]] (Effective range: -300~390)<br>\n100% chance to [[Special Abilities#Warp|warp]] Cat Units back by 1,200 range for 500f <sub>16.67 seconds</sub><br>\nWhen hit by a [[Surge Attack]], creates its own Surge of equal level and spawn range<br>\n[[Special Abilities#Immune to Curse|Immune to Curse]]<br>\n''Stats shown are with all [[Anti-Starred Alien Treasures]].''",
+    "referenceLink": "https://battlecats-db.com/enemy/696.html",
+    "attribute": "StarredAlien/Sage"
   }
 ]
