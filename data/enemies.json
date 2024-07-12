@@ -14692,5 +14692,25 @@
     "specialAbility": "[[Special Abilities#Omni Strike|Omni Strike]] (Effective range: -300~390)<br>\n100% chance to [[Special Abilities#Warp|warp]] Cat Units back by 1,200 range for 500f <sub>16.67 seconds</sub><br>\nWhen hit by a [[Surge Attack]], creates its own Surge of equal level and spawn range<br>\n[[Special Abilities#Immune to Curse|Immune to Curse]]<br>\n''Stats shown are with all [[Anti-Starred Alien Treasures]].''",
     "referenceLink": "https://battlecats-db.com/enemy/696.html",
     "attribute": "StarredAlien/Sage"
+  },
+  {
+    "id": "690",
+    "dps": 1363,
+    "appearances": null,
+    "image": "E 688.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Kenshin Himura (Enemy)",
+    "baseCashDrop": 1500,
+    "description": null,
+    "health": 90000,
+    "damage": 6000,
+    "range": 435,
+    "isSingleTarget": false,
+    "attackFrequency": 132,
+    "attackAnimation": 27,
+    "movementSpeed": 9,
+    "knockbacks": 3,
+    "specialAbility": "-",
+    "referenceLink": "https://battlecats-db.com/enemy/690.html",
+    "attribute": "Traitless"
   }
 ]
