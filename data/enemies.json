@@ -14712,5 +14712,25 @@
     "specialAbility": "-",
     "referenceLink": "https://battlecats-db.com/enemy/690.html",
     "attribute": "Traitless"
+  },
+  {
+    "id": "695",
+    "dps": 42313,
+    "appearances": null,
+    "image": "E 693.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Wave Scarecrow (Enemy Base)",
+    "baseCashDrop": 0,
+    "description": null,
+    "health": 100,
+    "damage": 999999,
+    "range": 300,
+    "isSingleTarget": false,
+    "attackFrequency": 709,
+    "attackAnimation": 10,
+    "movementSpeed": 0,
+    "knockbacks": 0,
+    "specialAbility": "100% chance to create a level 20 [[Wave Attack]]<br>\n[[Special Abilities#Immune to Waves|Immune to Waves]], [[Special Abilities#Immune to Knockback|Knockback]], [[Special Abilities#Immune to Freeze|Freeze]], [[Special Abilities#Immune to Slow|Slow]], and [[Special Abilities#Immune to Weaken|Weaken]]",
+    "referenceLink": "https://battlecats-db.com/enemy/695.html",
+    "attribute": "Typeless"
   }
 ]
