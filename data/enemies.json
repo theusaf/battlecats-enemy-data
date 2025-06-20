@@ -14792,5 +14792,25 @@
     "specialAbility": "100% chance to [[Special Abilities#Knockback|knockback]] Cat Units<br>\n100% chance to create a level 3 [[Wave Attack#Mini-Wave|Mini-Wave]]",
     "referenceLink": "https://battlecats-db.com/enemy/699.html",
     "attribute": "Aku/Sage"
+  },
+  {
+    "id": "731",
+    "dps": 19191,
+    "appearances": null,
+    "image": "E 729 mockup.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Sage of Logic Newton",
+    "baseCashDrop": 8888,
+    "description": "TBA",
+    "health": 2000000,
+    "damage": 190000,
+    "range": 700,
+    "isSingleTarget": false,
+    "attackFrequency": 297,
+    "attackAnimation": 58,
+    "movementSpeed": 4,
+    "knockbacks": 8,
+    "specialAbility": "[[Special Abilities#Omni Strike|Omni Strike]] (Effective range: -300~1500)<br />\n100% chance to create a Lv.9 [[Special Abilities#Mini-Wave|Mini-Wave]]<br />\n100% chance to [[Special Abilities#Slow|slow]] Cat Units for 120f <sub>4 seconds</sub><br />\n[[Special Abilities#Strengthen|Strengthens]] by 50% at 50% health<br />",
+    "referenceLink": "https://battlecats-db.com/enemy/731.html",
+    "attribute": "Red/Sage"
   }
 ]
