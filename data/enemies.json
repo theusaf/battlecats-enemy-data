@@ -14812,5 +14812,25 @@
     "specialAbility": "[[Special Abilities#Omni Strike|Omni Strike]] (Effective range: -300~1500)<br />\n100% chance to create a Lv.9 [[Special Abilities#Mini-Wave|Mini-Wave]]<br />\n100% chance to [[Special Abilities#Slow|slow]] Cat Units for 120f <sub>4 seconds</sub><br />\n[[Special Abilities#Strengthen|Strengthens]] by 50% at 50% health<br />",
     "referenceLink": "https://battlecats-db.com/enemy/731.html",
     "attribute": "Red/Sage"
+  },
+  {
+    "id": "668",
+    "dps": 29583,
+    "appearances": null,
+    "image": "E 666.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Malevolent Island Cat",
+    "baseCashDrop": 520,
+    "description": null,
+    "health": 327000,
+    "damage": 17750,
+    "range": 260,
+    "isSingleTarget": false,
+    "attackFrequency": 18,
+    "attackAnimation": 10,
+    "movementSpeed": 6,
+    "knockbacks": 1,
+    "specialAbility": "100% chance to create a level 1 [[Surge Attack]] between 250 and 750 range upon death<br>\n[[Surge Attack#Counter-Surge|Counter-Surge]] (When hit by a [[Surge Attack]], creates its own Surge of equal level and spawn range)",
+    "referenceLink": "https://battlecats-db.com/enemy/668.html",
+    "attribute": "Aku"
   }
 ]
