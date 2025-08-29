@@ -14832,5 +14832,25 @@
     "specialAbility": "100% chance to create a level 1 [[Surge Attack]] between 250 and 750 range upon death<br>\n[[Surge Attack#Counter-Surge|Counter-Surge]] (When hit by a [[Surge Attack]], creates its own Surge of equal level and spawn range)",
     "referenceLink": "https://battlecats-db.com/enemy/668.html",
     "attribute": "Aku"
+  },
+  {
+    "id": "664",
+    "dps": 16406,
+    "appearances": null,
+    "image": "E 662.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Malevolent Dark Cat",
+    "baseCashDrop": 2000,
+    "description": null,
+    "health": 2100000,
+    "damage": 8750,
+    "range": 360,
+    "isSingleTarget": false,
+    "attackFrequency": 16,
+    "attackAnimation": 8,
+    "movementSpeed": 7,
+    "knockbacks": 3,
+    "specialAbility": "[[Special Abilities#Strengthen|Strengthens]] by 100% at 34% health<br>\n100% chance to [[Special Abilities#Curse|curse]] Cat Units for 300f <sub>10 seconds</sub><br>\n[[Shield]] (initial HP: 700,000; regenerates with 100% HP)<br>\n[[Surge Attack#Counter-Surge|Counter-Surge]] (When hit by a [[Surge Attack]], creates its own Surge of equal level and spawn range)",
+    "referenceLink": "https://battlecats-db.com/enemy/664.html",
+    "attribute": "Aku"
   }
 ]
