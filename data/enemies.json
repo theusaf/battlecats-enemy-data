@@ -14852,5 +14852,24 @@
     "specialAbility": "[[Special Abilities#Strengthen|Strengthens]] by 100% at 34% health<br>\n100% chance to [[Special Abilities#Curse|curse]] Cat Units for 300f <sub>10 seconds</sub><br>\n[[Shield]] (initial HP: 700,000; regenerates with 100% HP)<br>\n[[Surge Attack#Counter-Surge|Counter-Surge]] (When hit by a [[Surge Attack]], creates its own Surge of equal level and spawn range)",
     "referenceLink": "https://battlecats-db.com/enemy/664.html",
     "attribute": "Aku"
+  },
+  {
+    "id": "737",
+    "dps": 2280,
+    "appearances": null,
+    "image": "E 735.png\n",
+    "wikiLink": "https://battle-cats.fandom.com/wiki/Ange Lackey",
+    "baseCashDrop": 900,
+    "description": "A mystic stone gave this legendary<br>baseball player the power to ace any<br>position on the field... but now they're just a <br>one-seahorse team worked nearly to death.",
+    "health": 700000,
+    "damage": 13000,
+    "range": 600,
+    "isSingleTarget": false,
+    "attackFrequency": 171,
+    "attackAnimation": 32,
+    "movementSpeed": 6,
+    "knockbacks": 3,
+    "specialAbility": null,
+    "referenceLink": "https://battlecats-db.com/enemy/737.html"
   }
 ]
